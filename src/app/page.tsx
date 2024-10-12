@@ -1,5 +1,6 @@
 import Image from "next/image";
 import { SignInButton, SignedIn, SignedOut, UserButton } from "@clerk/nextjs";
+import CSVUploadForm from "@/components/forms/CSVUpload";
 
 export default function Home() {
   return (
@@ -9,6 +10,7 @@ export default function Home() {
       </SignedOut>
       <SignedIn>
         <UserButton />
+        <CSVUploadForm />
       </SignedIn>
     </div>
   );
