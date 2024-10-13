@@ -37,7 +37,7 @@ export default function Home() {
           {/* Feature 1 */}
           <div className="bg-green-50 p-8 rounded-lg shadow-md">
             <Image
-              src="/images/ai-model.svg"
+              src="/assets/ai-model.svg"
               alt="AI Model"
               width={64}
               height={64}
@@ -54,7 +54,7 @@ export default function Home() {
           {/* Feature 2 */}
           <div className="bg-green-50 p-8 rounded-lg shadow-md">
             <Image
-              src="/images/expiration-notification.svg"
+              src="/assets/expiration-notification.svg"
               alt="Expiration Alerts"
               width={64}
               height={64}
@@ -71,7 +71,7 @@ export default function Home() {
           {/* Feature 3 */}
           <div className="bg-green-50 p-8 rounded-lg shadow-md">
             <Image
-              src="/images/charity-donation.svg"
+              src="/assets/charity-donation.svg"
               alt="Charity Connection"
               width={64}
               height={64}
