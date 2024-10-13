@@ -85,7 +85,7 @@ async function StreamlitAppWithSidebar() {
       {/* Right Half: Streamlit App */}
       <div className="w-1/2">
         <iframe
-          src="https://scaling-succotash-x5vx7vxv747hp7j9-8501.app.github.dev/" // Replace with your Streamlit app URL
+          src="http://localhost:8501" // Replace with your Streamlit app URL
           className="w-full h-full border-none"
           title="Streamlit App"
         />
