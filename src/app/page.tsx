@@ -1,10 +1,8 @@
 import Image from "next/image";
 import { SignInButton, SignedIn, SignedOut, UserButton } from "@clerk/nextjs";
 import Link from "next/link";
-// import { useRouter } from "next/navigation";
 
 export default function Home() {
-  // const router = useRouter();
   return (
     <div className="min-h-screen flex flex-col">
       {/* Navbar */}
@@ -30,13 +28,28 @@ export default function Home() {
         <p className="text-lg text-gray-700 mt-6 max-w-2xl">
           Connect your grocery shop inventory with our AI to predict daily orders and avoid surplus food waste. Notify charities about soon-to-expire food to donate before it gets wasted.
         </p>
-        <Link href="/dashboard" passHref>
-          <button
-            className="mt-5 w-200 py-3 px-6 bg-orange-400 text-white rounded-lg text-lg font-semibold shadow-lg hover:bg-orange-800 hover:shadow-blue-400 transition duration-300 ease-in-out transform hover:-translate-y-1 hover:scale-105 flex items-center justify-center"
-          >
-            Get Started
-          </button>
-        </Link>
+
+        {/* Button for logged-out users */}
+        <SignedOut>
+          <SignInButton>
+            <button
+              className="mt-5 w-200 py-3 px-6 bg-orange-400 text-white rounded-lg text-lg font-semibold shadow-lg hover:bg-orange-800 hover:shadow-blue-400 transition duration-300 ease-in-out transform hover:-translate-y-1 hover:scale-105 flex items-center justify-center"
+            >
+              Sign In
+            </button>
+          </SignInButton>
+        </SignedOut>
+
+        {/* Button for logged-in users */}
+        <SignedIn>
+          <Link href="/dashboard" passHref>
+            <button
+              className="mt-5 w-200 py-3 px-6 bg-orange-400 text-white rounded-lg text-lg font-semibold shadow-lg hover:bg-orange-800 hover:shadow-blue-400 transition duration-300 ease-in-out transform hover:-translate-y-1 hover:scale-105 flex items-center justify-center"
+            >
+              Get Started
+            </button>
+          </Link>
+        </SignedIn>
       </section>
 
       {/* Features Section */}
