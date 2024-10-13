@@ -7,6 +7,7 @@ Devpost: [Link to Devpost Project]
 ## 🚀 AI-Powered Inventory Optimization
 ## Dynamic Linear Regression Model: 
 Predicts optimal order quantities for the next two weeks to prevent surplus and ensure accurate restocking. The model has a 95% accuracy rate, helping stores save money and reduce waste.
+Reference: https://www.tensorflow.org/probability/api_docs/python/tfp/sts/DynamicLinearRegression
 ## Surplus & Spoilage Prediction: 
 Using a combination of logistic regression and decision tree models, waste.0 forecasts potential spoilage based on current inventory, expiration dates, and sales rates.
 ## 🔒 User Authentication (Clerk)
