@@ -12,7 +12,6 @@ const mockSurplusItems = [
   { id: 3, name: "Eggs", quantity: 200, expirationDate: "2024-10-20" }
 ];
 
-
 // Fetch user data and determine if the user is a charity
 
 async function fetchUserData(userEmail: string) {
