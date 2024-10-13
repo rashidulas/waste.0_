@@ -35,8 +35,8 @@ async function StreamlitAppWithSidebar() {
 
   return (
     <div className="flex h-screen w-full">
-      {/* Sidebar for User Information */}
-      <div className="w-64 bg-gray-800 text-white p-6 overflow-y-auto">
+      {/* Left Half: Sidebar and User/Business Info */}
+      <div className="w-1/2 bg-gray-800 text-white p-6 overflow-y-auto">
         <h3 className="text-xl font-bold mb-4 border-b border-gray-700 pb-2">User Information</h3>
         <div className="flex flex-col items-center">
           {profileImageUrl ? (
@@ -64,7 +64,8 @@ async function StreamlitAppWithSidebar() {
                   <p><strong>Username:</strong> {business.name}</p>
                   <p><strong>Email:</strong> {business.email}</p>
                   <p><strong>Phone Number:</strong> {business.phone || "N/A"}</p>
-                  {/* <p><strong>Address:</strong> {business.address ||}</p> */}
+                  {/* Format the address properly */}
+                  <p><strong>Address:</strong> {`${business.address.street}, ${business.address.city}, ${business.address.state}, ${business.address.zipCode}` || "N/A"}</p>
                 </div>
               ))}
             </div>
@@ -72,8 +73,8 @@ async function StreamlitAppWithSidebar() {
         )}
       </div>
 
-      {/* Main Content Area for Streamlit App */}
-      <div className="flex-grow">
+      {/* Right Half: Streamlit App */}
+      <div className="w-1/2">
         <iframe
           src="http://localhost:8501" // Replace with your Streamlit app URL
           className="w-full h-full border-none"
