@@ -1,0 +1,6571 @@
+Date,Product Name,Category,Quantity Sold
+2023-10-13,Soda,Snacks,12
+2023-10-14,Soda,Snacks,32
+2023-10-15,Soda,Snacks,22
+2023-10-16,Soda,Snacks,27
+2023-10-17,Soda,Snacks,58
+2023-10-18,Soda,Snacks,37
+2023-10-19,Soda,Snacks,51
+2023-10-20,Soda,Snacks,47
+2023-10-21,Soda,Snacks,57
+2023-10-22,Soda,Snacks,50
+2023-10-23,Soda,Snacks,26
+2023-10-24,Soda,Snacks,31
+2023-10-25,Soda,Snacks,29
+2023-10-26,Soda,Snacks,31
+2023-10-27,Soda,Snacks,24
+2023-10-28,Soda,Snacks,63
+2023-10-29,Soda,Snacks,4
+2023-10-30,Soda,Snacks,46
+2023-10-31,Soda,Snacks,14
+2023-11-01,Soda,Snacks,13
+2023-11-02,Soda,Snacks,23
+2023-11-03,Soda,Snacks,8
+2023-11-04,Soda,Snacks,13
+2023-11-05,Soda,Snacks,60
+2023-11-06,Soda,Snacks,1
+2023-11-07,Soda,Snacks,58
+2023-11-08,Soda,Snacks,63
+2023-11-09,Soda,Snacks,27
+2023-11-10,Soda,Snacks,17
+2023-11-11,Soda,Snacks,41
+2023-11-12,Soda,Snacks,9
+2023-11-13,Soda,Snacks,27
+2023-11-14,Soda,Snacks,26
+2023-11-15,Soda,Snacks,49
+2023-11-16,Soda,Snacks,21
+2023-11-17,Soda,Snacks,43
+2023-11-18,Soda,Snacks,46
+2023-11-19,Soda,Snacks,48
+2023-11-20,Soda,Snacks,4
+2023-11-21,Soda,Snacks,14
+2023-11-22,Soda,Snacks,42
+2023-11-23,Soda,Snacks,45
+2023-11-24,Soda,Snacks,59
+2023-11-25,Soda,Snacks,11
+2023-11-26,Soda,Snacks,62
+2023-11-27,Soda,Snacks,4
+2023-11-28,Soda,Snacks,59
+2023-11-29,Soda,Snacks,34
+2023-11-30,Soda,Snacks,5
+2023-12-01,Soda,Snacks,59
+2023-12-02,Soda,Snacks,32
+2023-12-03,Soda,Snacks,16
+2023-12-04,Soda,Snacks,28
+2023-12-05,Soda,Snacks,2
+2023-12-06,Soda,Snacks,35
+2023-12-07,Soda,Snacks,8
+2023-12-08,Soda,Snacks,57
+2023-12-09,Soda,Snacks,25
+2023-12-10,Soda,Snacks,63
+2023-12-11,Soda,Snacks,23
+2023-12-12,Soda,Snacks,36
+2023-12-13,Soda,Snacks,25
+2023-12-14,Soda,Snacks,17
+2023-12-15,Soda,Snacks,63
+2023-12-16,Soda,Snacks,50
+2023-12-17,Soda,Snacks,64
+2023-12-18,Soda,Snacks,26
+2023-12-19,Soda,Snacks,46
+2023-12-20,Soda,Snacks,37
+2023-12-21,Soda,Snacks,21
+2023-12-22,Soda,Snacks,5
+2023-12-23,Soda,Snacks,24
+2023-12-24,Soda,Snacks,10
+2023-12-25,Soda,Snacks,2
+2023-12-26,Soda,Snacks,26
+2023-12-27,Soda,Snacks,9
+2023-12-28,Soda,Snacks,48
+2023-12-29,Soda,Snacks,53
+2023-12-30,Soda,Snacks,30
+2023-12-31,Soda,Snacks,39
+2024-01-01,Soda,Snacks,57
+2024-01-02,Soda,Snacks,53
+2024-01-03,Soda,Snacks,36
+2024-01-04,Soda,Snacks,63
+2024-01-05,Soda,Snacks,32
+2024-01-06,Soda,Snacks,57
+2024-01-07,Soda,Snacks,8
+2024-01-08,Soda,Snacks,61
+2024-01-09,Soda,Snacks,3
+2024-01-10,Soda,Snacks,4
+2024-01-11,Soda,Snacks,63
+2024-01-12,Soda,Snacks,25
+2024-01-13,Soda,Snacks,49
+2024-01-14,Soda,Snacks,27
+2024-01-15,Soda,Snacks,16
+2024-01-16,Soda,Snacks,23
+2024-01-17,Soda,Snacks,47
+2024-01-18,Soda,Snacks,26
+2024-01-19,Soda,Snacks,15
+2024-01-20,Soda,Snacks,51
+2024-01-21,Soda,Snacks,26
+2024-01-22,Soda,Snacks,62
+2024-01-23,Soda,Snacks,55
+2024-01-24,Soda,Snacks,25
+2024-01-25,Soda,Snacks,42
+2024-01-26,Soda,Snacks,11
+2024-01-27,Soda,Snacks,13
+2024-01-28,Soda,Snacks,44
+2024-01-29,Soda,Snacks,1
+2024-01-30,Soda,Snacks,36
+2024-01-31,Soda,Snacks,31
+2024-02-01,Soda,Snacks,51
+2024-02-02,Soda,Snacks,22
+2024-02-03,Soda,Snacks,36
+2024-02-04,Soda,Snacks,5
+2024-02-05,Soda,Snacks,45
+2024-02-06,Soda,Snacks,53
+2024-02-07,Soda,Snacks,19
+2024-02-08,Soda,Snacks,48
+2024-02-09,Soda,Snacks,31
+2024-02-10,Soda,Snacks,23
+2024-02-11,Soda,Snacks,61
+2024-02-12,Soda,Snacks,22
+2024-02-13,Soda,Snacks,57
+2024-02-14,Soda,Snacks,31
+2024-02-15,Soda,Snacks,21
+2024-02-16,Soda,Snacks,3
+2024-02-17,Soda,Snacks,53
+2024-02-18,Soda,Snacks,60
+2024-02-19,Soda,Snacks,61
+2024-02-20,Soda,Snacks,11
+2024-02-21,Soda,Snacks,12
+2024-02-22,Soda,Snacks,42
+2024-02-23,Soda,Snacks,64
+2024-02-24,Soda,Snacks,25
+2024-02-25,Soda,Snacks,48
+2024-02-26,Soda,Snacks,21
+2024-02-27,Soda,Snacks,7
+2024-02-28,Soda,Snacks,31
+2024-02-29,Soda,Snacks,11
+2024-03-01,Soda,Snacks,1
+2024-03-02,Soda,Snacks,14
+2024-03-03,Soda,Snacks,47
+2024-03-04,Soda,Snacks,23
+2024-03-05,Soda,Snacks,36
+2024-03-06,Soda,Snacks,43
+2024-03-07,Soda,Snacks,5
+2024-03-08,Soda,Snacks,40
+2024-03-09,Soda,Snacks,56
+2024-03-10,Soda,Snacks,5
+2024-03-11,Soda,Snacks,2
+2024-03-12,Soda,Snacks,62
+2024-03-13,Soda,Snacks,38
+2024-03-14,Soda,Snacks,6
+2024-03-15,Soda,Snacks,17
+2024-03-16,Soda,Snacks,5
+2024-03-17,Soda,Snacks,14
+2024-03-18,Soda,Snacks,36
+2024-03-19,Soda,Snacks,60
+2024-03-20,Soda,Snacks,47
+2024-03-21,Soda,Snacks,46
+2024-03-22,Soda,Snacks,28
+2024-03-23,Soda,Snacks,64
+2024-03-24,Soda,Snacks,12
+2024-03-25,Soda,Snacks,33
+2024-03-26,Soda,Snacks,40
+2024-03-27,Soda,Snacks,24
+2024-03-28,Soda,Snacks,18
+2024-03-29,Soda,Snacks,58
+2024-03-30,Soda,Snacks,11
+2024-03-31,Soda,Snacks,46
+2024-04-01,Soda,Snacks,25
+2024-04-02,Soda,Snacks,51
+2024-04-03,Soda,Snacks,61
+2024-04-04,Soda,Snacks,19
+2024-04-05,Soda,Snacks,4
+2024-04-06,Soda,Snacks,62
+2024-04-07,Soda,Snacks,7
+2024-04-08,Soda,Snacks,18
+2024-04-09,Soda,Snacks,15
+2024-04-10,Soda,Snacks,42
+2024-04-11,Soda,Snacks,48
+2024-04-12,Soda,Snacks,15
+2024-04-13,Soda,Snacks,2
+2024-04-14,Soda,Snacks,41
+2024-04-15,Soda,Snacks,36
+2024-04-16,Soda,Snacks,59
+2024-04-17,Soda,Snacks,7
+2024-04-18,Soda,Snacks,29
+2024-04-19,Soda,Snacks,25
+2024-04-20,Soda,Snacks,55
+2024-04-21,Soda,Snacks,21
+2024-04-22,Soda,Snacks,49
+2024-04-23,Soda,Snacks,12
+2024-04-24,Soda,Snacks,57
+2024-04-25,Soda,Snacks,8
+2024-04-26,Soda,Snacks,21
+2024-04-27,Soda,Snacks,41
+2024-04-28,Soda,Snacks,24
+2024-04-29,Soda,Snacks,36
+2024-04-30,Soda,Snacks,2
+2024-05-01,Soda,Snacks,57
+2024-05-02,Soda,Snacks,29
+2024-05-03,Soda,Snacks,62
+2024-05-04,Soda,Snacks,13
+2024-05-05,Soda,Snacks,25
+2024-05-06,Soda,Snacks,7
+2024-05-07,Soda,Snacks,47
+2024-05-08,Soda,Snacks,40
+2024-05-09,Soda,Snacks,36
+2024-05-10,Soda,Snacks,59
+2024-05-11,Soda,Snacks,58
+2024-05-12,Soda,Snacks,36
+2024-05-13,Soda,Snacks,11
+2024-05-14,Soda,Snacks,29
+2024-05-15,Soda,Snacks,63
+2024-05-16,Soda,Snacks,17
+2024-05-17,Soda,Snacks,13
+2024-05-18,Soda,Snacks,9
+2024-05-19,Soda,Snacks,30
+2024-05-20,Soda,Snacks,42
+2024-05-21,Soda,Snacks,9
+2024-05-22,Soda,Snacks,21
+2024-05-23,Soda,Snacks,14
+2024-05-24,Soda,Snacks,27
+2024-05-25,Soda,Snacks,55
+2024-05-26,Soda,Snacks,35
+2024-05-27,Soda,Snacks,27
+2024-05-28,Soda,Snacks,40
+2024-05-29,Soda,Snacks,25
+2024-05-30,Soda,Snacks,12
+2024-05-31,Soda,Snacks,63
+2024-06-01,Soda,Snacks,8
+2024-06-02,Soda,Snacks,29
+2024-06-03,Soda,Snacks,5
+2024-06-04,Soda,Snacks,60
+2024-06-05,Soda,Snacks,38
+2024-06-06,Soda,Snacks,19
+2024-06-07,Soda,Snacks,35
+2024-06-08,Soda,Snacks,46
+2024-06-09,Soda,Snacks,46
+2024-06-10,Soda,Snacks,45
+2024-06-11,Soda,Snacks,39
+2024-06-12,Soda,Snacks,41
+2024-06-13,Soda,Snacks,47
+2024-06-14,Soda,Snacks,47
+2024-06-15,Soda,Snacks,25
+2024-06-16,Soda,Snacks,18
+2024-06-17,Soda,Snacks,59
+2024-06-18,Soda,Snacks,23
+2024-06-19,Soda,Snacks,62
+2024-06-20,Soda,Snacks,40
+2024-06-21,Soda,Snacks,30
+2024-06-22,Soda,Snacks,61
+2024-06-23,Soda,Snacks,1
+2024-06-24,Soda,Snacks,26
+2024-06-25,Soda,Snacks,20
+2024-06-26,Soda,Snacks,41
+2024-06-27,Soda,Snacks,41
+2024-06-28,Soda,Snacks,21
+2024-06-29,Soda,Snacks,55
+2024-06-30,Soda,Snacks,59
+2024-07-01,Soda,Snacks,54
+2024-07-02,Soda,Snacks,45
+2024-07-03,Soda,Snacks,20
+2024-07-04,Soda,Snacks,55
+2024-07-05,Soda,Snacks,3
+2024-07-06,Soda,Snacks,61
+2024-07-07,Soda,Snacks,17
+2024-07-08,Soda,Snacks,61
+2024-07-09,Soda,Snacks,27
+2024-07-10,Soda,Snacks,18
+2024-07-11,Soda,Snacks,39
+2024-07-12,Soda,Snacks,10
+2024-07-13,Soda,Snacks,20
+2024-07-14,Soda,Snacks,23
+2024-07-15,Soda,Snacks,64
+2024-07-16,Soda,Snacks,8
+2024-07-17,Soda,Snacks,39
+2024-07-18,Soda,Snacks,37
+2024-07-19,Soda,Snacks,1
+2024-07-20,Soda,Snacks,54
+2024-07-21,Soda,Snacks,60
+2024-07-22,Soda,Snacks,7
+2024-07-23,Soda,Snacks,4
+2024-07-24,Soda,Snacks,28
+2024-07-25,Soda,Snacks,19
+2024-07-26,Soda,Snacks,6
+2024-07-27,Soda,Snacks,58
+2024-07-28,Soda,Snacks,51
+2024-07-29,Soda,Snacks,26
+2024-07-30,Soda,Snacks,40
+2024-07-31,Soda,Snacks,37
+2024-08-01,Soda,Snacks,54
+2024-08-02,Soda,Snacks,19
+2024-08-03,Soda,Snacks,17
+2024-08-04,Soda,Snacks,29
+2024-08-05,Soda,Snacks,59
+2024-08-06,Soda,Snacks,49
+2024-08-07,Soda,Snacks,21
+2024-08-08,Soda,Snacks,5
+2024-08-09,Soda,Snacks,17
+2024-08-10,Soda,Snacks,38
+2024-08-11,Soda,Snacks,62
+2024-08-12,Soda,Snacks,41
+2024-08-13,Soda,Snacks,52
+2024-08-14,Soda,Snacks,40
+2024-08-15,Soda,Snacks,7
+2024-08-16,Soda,Snacks,27
+2024-08-17,Soda,Snacks,54
+2024-08-18,Soda,Snacks,31
+2024-08-19,Soda,Snacks,34
+2024-08-20,Soda,Snacks,62
+2024-08-21,Soda,Snacks,57
+2024-08-22,Soda,Snacks,26
+2024-08-23,Soda,Snacks,6
+2024-08-24,Soda,Snacks,31
+2024-08-25,Soda,Snacks,12
+2024-08-26,Soda,Snacks,15
+2024-08-27,Soda,Snacks,62
+2024-08-28,Soda,Snacks,58
+2024-08-29,Soda,Snacks,1
+2024-08-30,Soda,Snacks,62
+2024-08-31,Soda,Snacks,59
+2024-09-01,Soda,Snacks,26
+2024-09-02,Soda,Snacks,37
+2024-09-03,Soda,Snacks,6
+2024-09-04,Soda,Snacks,24
+2024-09-05,Soda,Snacks,47
+2024-09-06,Soda,Snacks,64
+2024-09-07,Soda,Snacks,58
+2024-09-08,Soda,Snacks,36
+2024-09-09,Soda,Snacks,44
+2024-09-10,Soda,Snacks,57
+2024-09-11,Soda,Snacks,19
+2024-09-12,Soda,Snacks,56
+2024-09-13,Soda,Snacks,18
+2024-09-14,Soda,Snacks,38
+2024-09-15,Soda,Snacks,16
+2024-09-16,Soda,Snacks,17
+2024-09-17,Soda,Snacks,11
+2024-09-18,Soda,Snacks,4
+2024-09-19,Soda,Snacks,58
+2024-09-20,Soda,Snacks,16
+2024-09-21,Soda,Snacks,9
+2024-09-22,Soda,Snacks,23
+2024-09-23,Soda,Snacks,10
+2024-09-24,Soda,Snacks,26
+2024-09-25,Soda,Snacks,45
+2024-09-26,Soda,Snacks,36
+2024-09-27,Soda,Snacks,46
+2024-09-28,Soda,Snacks,39
+2024-09-29,Soda,Snacks,3
+2024-09-30,Soda,Snacks,20
+2024-10-01,Soda,Snacks,17
+2024-10-02,Soda,Snacks,46
+2024-10-03,Soda,Snacks,47
+2024-10-04,Soda,Snacks,28
+2024-10-05,Soda,Snacks,1
+2024-10-06,Soda,Snacks,36
+2024-10-07,Soda,Snacks,25
+2024-10-08,Soda,Snacks,33
+2024-10-09,Soda,Snacks,50
+2024-10-10,Soda,Snacks,21
+2024-10-11,Soda,Snacks,30
+2023-10-13,Pork,Snacks,77
+2023-10-14,Pork,Snacks,39
+2023-10-15,Pork,Snacks,50
+2023-10-16,Pork,Snacks,23
+2023-10-17,Pork,Snacks,53
+2023-10-18,Pork,Snacks,6
+2023-10-19,Pork,Snacks,83
+2023-10-20,Pork,Snacks,10
+2023-10-21,Pork,Snacks,16
+2023-10-22,Pork,Snacks,77
+2023-10-23,Pork,Snacks,22
+2023-10-24,Pork,Snacks,66
+2023-10-25,Pork,Snacks,42
+2023-10-26,Pork,Snacks,90
+2023-10-27,Pork,Snacks,5
+2023-10-28,Pork,Snacks,94
+2023-10-29,Pork,Snacks,37
+2023-10-30,Pork,Snacks,86
+2023-10-31,Pork,Snacks,51
+2023-11-01,Pork,Snacks,82
+2023-11-02,Pork,Snacks,93
+2023-11-03,Pork,Snacks,19
+2023-11-04,Pork,Snacks,4
+2023-11-05,Pork,Snacks,72
+2023-11-06,Pork,Snacks,27
+2023-11-07,Pork,Snacks,55
+2023-11-08,Pork,Snacks,93
+2023-11-09,Pork,Snacks,97
+2023-11-10,Pork,Snacks,7
+2023-11-11,Pork,Snacks,61
+2023-11-12,Pork,Snacks,68
+2023-11-13,Pork,Snacks,26
+2023-11-14,Pork,Snacks,59
+2023-11-15,Pork,Snacks,77
+2023-11-16,Pork,Snacks,75
+2023-11-17,Pork,Snacks,39
+2023-11-18,Pork,Snacks,34
+2023-11-19,Pork,Snacks,25
+2023-11-20,Pork,Snacks,85
+2023-11-21,Pork,Snacks,36
+2023-11-22,Pork,Snacks,66
+2023-11-23,Pork,Snacks,89
+2023-11-24,Pork,Snacks,96
+2023-11-25,Pork,Snacks,65
+2023-11-26,Pork,Snacks,97
+2023-11-27,Pork,Snacks,6
+2023-11-28,Pork,Snacks,13
+2023-11-29,Pork,Snacks,17
+2023-11-30,Pork,Snacks,80
+2023-12-01,Pork,Snacks,38
+2023-12-02,Pork,Snacks,86
+2023-12-03,Pork,Snacks,43
+2023-12-04,Pork,Snacks,41
+2023-12-05,Pork,Snacks,71
+2023-12-06,Pork,Snacks,2
+2023-12-07,Pork,Snacks,1
+2023-12-08,Pork,Snacks,19
+2023-12-09,Pork,Snacks,16
+2023-12-10,Pork,Snacks,34
+2023-12-11,Pork,Snacks,93
+2023-12-12,Pork,Snacks,72
+2023-12-13,Pork,Snacks,90
+2023-12-14,Pork,Snacks,11
+2023-12-15,Pork,Snacks,74
+2023-12-16,Pork,Snacks,68
+2023-12-17,Pork,Snacks,51
+2023-12-18,Pork,Snacks,98
+2023-12-19,Pork,Snacks,49
+2023-12-20,Pork,Snacks,23
+2023-12-21,Pork,Snacks,2
+2023-12-22,Pork,Snacks,97
+2023-12-23,Pork,Snacks,32
+2023-12-24,Pork,Snacks,54
+2023-12-25,Pork,Snacks,20
+2023-12-26,Pork,Snacks,77
+2023-12-27,Pork,Snacks,67
+2023-12-28,Pork,Snacks,93
+2023-12-29,Pork,Snacks,18
+2023-12-30,Pork,Snacks,70
+2023-12-31,Pork,Snacks,14
+2024-01-01,Pork,Snacks,68
+2024-01-02,Pork,Snacks,90
+2024-01-03,Pork,Snacks,76
+2024-01-04,Pork,Snacks,61
+2024-01-05,Pork,Snacks,38
+2024-01-06,Pork,Snacks,58
+2024-01-07,Pork,Snacks,92
+2024-01-08,Pork,Snacks,41
+2024-01-09,Pork,Snacks,6
+2024-01-10,Pork,Snacks,4
+2024-01-11,Pork,Snacks,72
+2024-01-12,Pork,Snacks,44
+2024-01-13,Pork,Snacks,95
+2024-01-14,Pork,Snacks,96
+2024-01-15,Pork,Snacks,4
+2024-01-16,Pork,Snacks,28
+2024-01-17,Pork,Snacks,7
+2024-01-18,Pork,Snacks,9
+2024-01-19,Pork,Snacks,67
+2024-01-20,Pork,Snacks,53
+2024-01-21,Pork,Snacks,97
+2024-01-22,Pork,Snacks,20
+2024-01-23,Pork,Snacks,19
+2024-01-24,Pork,Snacks,16
+2024-01-25,Pork,Snacks,3
+2024-01-26,Pork,Snacks,6
+2024-01-27,Pork,Snacks,93
+2024-01-28,Pork,Snacks,54
+2024-01-29,Pork,Snacks,98
+2024-01-30,Pork,Snacks,78
+2024-01-31,Pork,Snacks,26
+2024-02-01,Pork,Snacks,34
+2024-02-02,Pork,Snacks,9
+2024-02-03,Pork,Snacks,55
+2024-02-04,Pork,Snacks,33
+2024-02-05,Pork,Snacks,60
+2024-02-06,Pork,Snacks,19
+2024-02-07,Pork,Snacks,73
+2024-02-08,Pork,Snacks,39
+2024-02-09,Pork,Snacks,6
+2024-02-10,Pork,Snacks,23
+2024-02-11,Pork,Snacks,57
+2024-02-12,Pork,Snacks,9
+2024-02-13,Pork,Snacks,90
+2024-02-14,Pork,Snacks,10
+2024-02-15,Pork,Snacks,70
+2024-02-16,Pork,Snacks,14
+2024-02-17,Pork,Snacks,17
+2024-02-18,Pork,Snacks,68
+2024-02-19,Pork,Snacks,78
+2024-02-20,Pork,Snacks,24
+2024-02-21,Pork,Snacks,13
+2024-02-22,Pork,Snacks,59
+2024-02-23,Pork,Snacks,65
+2024-02-24,Pork,Snacks,38
+2024-02-25,Pork,Snacks,97
+2024-02-26,Pork,Snacks,17
+2024-02-27,Pork,Snacks,14
+2024-02-28,Pork,Snacks,81
+2024-02-29,Pork,Snacks,46
+2024-03-01,Pork,Snacks,16
+2024-03-02,Pork,Snacks,71
+2024-03-03,Pork,Snacks,47
+2024-03-04,Pork,Snacks,76
+2024-03-05,Pork,Snacks,23
+2024-03-06,Pork,Snacks,6
+2024-03-07,Pork,Snacks,38
+2024-03-08,Pork,Snacks,30
+2024-03-09,Pork,Snacks,22
+2024-03-10,Pork,Snacks,1
+2024-03-11,Pork,Snacks,67
+2024-03-12,Pork,Snacks,40
+2024-03-13,Pork,Snacks,1
+2024-03-14,Pork,Snacks,97
+2024-03-15,Pork,Snacks,48
+2024-03-16,Pork,Snacks,39
+2024-03-17,Pork,Snacks,44
+2024-03-18,Pork,Snacks,49
+2024-03-19,Pork,Snacks,61
+2024-03-20,Pork,Snacks,75
+2024-03-21,Pork,Snacks,54
+2024-03-22,Pork,Snacks,96
+2024-03-23,Pork,Snacks,19
+2024-03-24,Pork,Snacks,21
+2024-03-25,Pork,Snacks,75
+2024-03-26,Pork,Snacks,86
+2024-03-27,Pork,Snacks,19
+2024-03-28,Pork,Snacks,28
+2024-03-29,Pork,Snacks,96
+2024-03-30,Pork,Snacks,90
+2024-03-31,Pork,Snacks,19
+2024-04-01,Pork,Snacks,15
+2024-04-02,Pork,Snacks,5
+2024-04-03,Pork,Snacks,12
+2024-04-04,Pork,Snacks,23
+2024-04-05,Pork,Snacks,49
+2024-04-06,Pork,Snacks,81
+2024-04-07,Pork,Snacks,11
+2024-04-08,Pork,Snacks,95
+2024-04-09,Pork,Snacks,41
+2024-04-10,Pork,Snacks,58
+2024-04-11,Pork,Snacks,72
+2024-04-12,Pork,Snacks,40
+2024-04-13,Pork,Snacks,22
+2024-04-14,Pork,Snacks,96
+2024-04-15,Pork,Snacks,10
+2024-04-16,Pork,Snacks,39
+2024-04-17,Pork,Snacks,51
+2024-04-18,Pork,Snacks,45
+2024-04-19,Pork,Snacks,70
+2024-04-20,Pork,Snacks,75
+2024-04-21,Pork,Snacks,18
+2024-04-22,Pork,Snacks,97
+2024-04-23,Pork,Snacks,41
+2024-04-24,Pork,Snacks,77
+2024-04-25,Pork,Snacks,69
+2024-04-26,Pork,Snacks,53
+2024-04-27,Pork,Snacks,64
+2024-04-28,Pork,Snacks,46
+2024-04-29,Pork,Snacks,25
+2024-04-30,Pork,Snacks,68
+2024-05-01,Pork,Snacks,47
+2024-05-02,Pork,Snacks,29
+2024-05-03,Pork,Snacks,24
+2024-05-04,Pork,Snacks,85
+2024-05-05,Pork,Snacks,58
+2024-05-06,Pork,Snacks,75
+2024-05-07,Pork,Snacks,27
+2024-05-08,Pork,Snacks,48
+2024-05-09,Pork,Snacks,41
+2024-05-10,Pork,Snacks,74
+2024-05-11,Pork,Snacks,11
+2024-05-12,Pork,Snacks,43
+2024-05-13,Pork,Snacks,73
+2024-05-14,Pork,Snacks,3
+2024-05-15,Pork,Snacks,49
+2024-05-16,Pork,Snacks,49
+2024-05-17,Pork,Snacks,44
+2024-05-18,Pork,Snacks,6
+2024-05-19,Pork,Snacks,48
+2024-05-20,Pork,Snacks,89
+2024-05-21,Pork,Snacks,71
+2024-05-22,Pork,Snacks,27
+2024-05-23,Pork,Snacks,50
+2024-05-24,Pork,Snacks,86
+2024-05-25,Pork,Snacks,83
+2024-05-26,Pork,Snacks,94
+2024-05-27,Pork,Snacks,86
+2024-05-28,Pork,Snacks,23
+2024-05-29,Pork,Snacks,76
+2024-05-30,Pork,Snacks,66
+2024-05-31,Pork,Snacks,29
+2024-06-01,Pork,Snacks,93
+2024-06-02,Pork,Snacks,14
+2024-06-03,Pork,Snacks,73
+2024-06-04,Pork,Snacks,90
+2024-06-05,Pork,Snacks,29
+2024-06-06,Pork,Snacks,5
+2024-06-07,Pork,Snacks,86
+2024-06-08,Pork,Snacks,59
+2024-06-09,Pork,Snacks,93
+2024-06-10,Pork,Snacks,77
+2024-06-11,Pork,Snacks,18
+2024-06-12,Pork,Snacks,71
+2024-06-13,Pork,Snacks,77
+2024-06-14,Pork,Snacks,61
+2024-06-15,Pork,Snacks,48
+2024-06-16,Pork,Snacks,85
+2024-06-17,Pork,Snacks,92
+2024-06-18,Pork,Snacks,44
+2024-06-19,Pork,Snacks,38
+2024-06-20,Pork,Snacks,3
+2024-06-21,Pork,Snacks,28
+2024-06-22,Pork,Snacks,54
+2024-06-23,Pork,Snacks,45
+2024-06-24,Pork,Snacks,86
+2024-06-25,Pork,Snacks,43
+2024-06-26,Pork,Snacks,33
+2024-06-27,Pork,Snacks,13
+2024-06-28,Pork,Snacks,41
+2024-06-29,Pork,Snacks,57
+2024-06-30,Pork,Snacks,5
+2024-07-01,Pork,Snacks,8
+2024-07-02,Pork,Snacks,66
+2024-07-03,Pork,Snacks,44
+2024-07-04,Pork,Snacks,43
+2024-07-05,Pork,Snacks,81
+2024-07-06,Pork,Snacks,4
+2024-07-07,Pork,Snacks,19
+2024-07-08,Pork,Snacks,34
+2024-07-09,Pork,Snacks,62
+2024-07-10,Pork,Snacks,81
+2024-07-11,Pork,Snacks,89
+2024-07-12,Pork,Snacks,5
+2024-07-13,Pork,Snacks,81
+2024-07-14,Pork,Snacks,11
+2024-07-15,Pork,Snacks,58
+2024-07-16,Pork,Snacks,16
+2024-07-17,Pork,Snacks,80
+2024-07-18,Pork,Snacks,70
+2024-07-19,Pork,Snacks,82
+2024-07-20,Pork,Snacks,3
+2024-07-21,Pork,Snacks,18
+2024-07-22,Pork,Snacks,7
+2024-07-23,Pork,Snacks,75
+2024-07-24,Pork,Snacks,47
+2024-07-25,Pork,Snacks,15
+2024-07-26,Pork,Snacks,62
+2024-07-27,Pork,Snacks,78
+2024-07-28,Pork,Snacks,23
+2024-07-29,Pork,Snacks,36
+2024-07-30,Pork,Snacks,17
+2024-07-31,Pork,Snacks,22
+2024-08-01,Pork,Snacks,24
+2024-08-02,Pork,Snacks,27
+2024-08-03,Pork,Snacks,17
+2024-08-04,Pork,Snacks,23
+2024-08-05,Pork,Snacks,71
+2024-08-06,Pork,Snacks,1
+2024-08-07,Pork,Snacks,50
+2024-08-08,Pork,Snacks,63
+2024-08-09,Pork,Snacks,50
+2024-08-10,Pork,Snacks,91
+2024-08-11,Pork,Snacks,98
+2024-08-12,Pork,Snacks,37
+2024-08-13,Pork,Snacks,15
+2024-08-14,Pork,Snacks,56
+2024-08-15,Pork,Snacks,82
+2024-08-16,Pork,Snacks,56
+2024-08-17,Pork,Snacks,68
+2024-08-18,Pork,Snacks,29
+2024-08-19,Pork,Snacks,87
+2024-08-20,Pork,Snacks,43
+2024-08-21,Pork,Snacks,86
+2024-08-22,Pork,Snacks,20
+2024-08-23,Pork,Snacks,86
+2024-08-24,Pork,Snacks,12
+2024-08-25,Pork,Snacks,90
+2024-08-26,Pork,Snacks,14
+2024-08-27,Pork,Snacks,61
+2024-08-28,Pork,Snacks,84
+2024-08-29,Pork,Snacks,76
+2024-08-30,Pork,Snacks,61
+2024-08-31,Pork,Snacks,9
+2024-09-01,Pork,Snacks,97
+2024-09-02,Pork,Snacks,88
+2024-09-03,Pork,Snacks,73
+2024-09-04,Pork,Snacks,24
+2024-09-05,Pork,Snacks,94
+2024-09-06,Pork,Snacks,69
+2024-09-07,Pork,Snacks,8
+2024-09-08,Pork,Snacks,79
+2024-09-09,Pork,Snacks,45
+2024-09-10,Pork,Snacks,53
+2024-09-11,Pork,Snacks,20
+2024-09-12,Pork,Snacks,58
+2024-09-13,Pork,Snacks,79
+2024-09-14,Pork,Snacks,86
+2024-09-15,Pork,Snacks,96
+2024-09-16,Pork,Snacks,70
+2024-09-17,Pork,Snacks,33
+2024-09-18,Pork,Snacks,61
+2024-09-19,Pork,Snacks,11
+2024-09-20,Pork,Snacks,92
+2024-09-21,Pork,Snacks,3
+2024-09-22,Pork,Snacks,49
+2024-09-23,Pork,Snacks,57
+2024-09-24,Pork,Snacks,67
+2024-09-25,Pork,Snacks,29
+2024-09-26,Pork,Snacks,11
+2024-09-27,Pork,Snacks,55
+2024-09-28,Pork,Snacks,96
+2024-09-29,Pork,Snacks,50
+2024-09-30,Pork,Snacks,15
+2024-10-01,Pork,Snacks,4
+2024-10-02,Pork,Snacks,32
+2024-10-03,Pork,Snacks,52
+2024-10-04,Pork,Snacks,62
+2024-10-05,Pork,Snacks,98
+2024-10-06,Pork,Snacks,74
+2024-10-07,Pork,Snacks,94
+2024-10-08,Pork,Snacks,41
+2024-10-09,Pork,Snacks,82
+2024-10-10,Pork,Snacks,17
+2024-10-11,Pork,Snacks,5
+2023-10-13,Pasta,Snacks,72
+2023-10-14,Pasta,Snacks,69
+2023-10-15,Pasta,Snacks,39
+2023-10-16,Pasta,Snacks,32
+2023-10-17,Pasta,Snacks,7
+2023-10-18,Pasta,Snacks,76
+2023-10-19,Pasta,Snacks,50
+2023-10-20,Pasta,Snacks,49
+2023-10-21,Pasta,Snacks,43
+2023-10-22,Pasta,Snacks,17
+2023-10-23,Pasta,Snacks,71
+2023-10-24,Pasta,Snacks,20
+2023-10-25,Pasta,Snacks,45
+2023-10-26,Pasta,Snacks,74
+2023-10-27,Pasta,Snacks,70
+2023-10-28,Pasta,Snacks,48
+2023-10-29,Pasta,Snacks,32
+2023-10-30,Pasta,Snacks,8
+2023-10-31,Pasta,Snacks,44
+2023-11-01,Pasta,Snacks,62
+2023-11-02,Pasta,Snacks,22
+2023-11-03,Pasta,Snacks,35
+2023-11-04,Pasta,Snacks,28
+2023-11-05,Pasta,Snacks,33
+2023-11-06,Pasta,Snacks,6
+2023-11-07,Pasta,Snacks,12
+2023-11-08,Pasta,Snacks,50
+2023-11-09,Pasta,Snacks,61
+2023-11-10,Pasta,Snacks,50
+2023-11-11,Pasta,Snacks,76
+2023-11-12,Pasta,Snacks,37
+2023-11-13,Pasta,Snacks,67
+2023-11-14,Pasta,Snacks,61
+2023-11-15,Pasta,Snacks,11
+2023-11-16,Pasta,Snacks,54
+2023-11-17,Pasta,Snacks,67
+2023-11-18,Pasta,Snacks,58
+2023-11-19,Pasta,Snacks,49
+2023-11-20,Pasta,Snacks,43
+2023-11-21,Pasta,Snacks,68
+2023-11-22,Pasta,Snacks,29
+2023-11-23,Pasta,Snacks,14
+2023-11-24,Pasta,Snacks,1
+2023-11-25,Pasta,Snacks,18
+2023-11-26,Pasta,Snacks,15
+2023-11-27,Pasta,Snacks,13
+2023-11-28,Pasta,Snacks,24
+2023-11-29,Pasta,Snacks,34
+2023-11-30,Pasta,Snacks,11
+2023-12-01,Pasta,Snacks,62
+2023-12-02,Pasta,Snacks,47
+2023-12-03,Pasta,Snacks,25
+2023-12-04,Pasta,Snacks,32
+2023-12-05,Pasta,Snacks,65
+2023-12-06,Pasta,Snacks,29
+2023-12-07,Pasta,Snacks,41
+2023-12-08,Pasta,Snacks,75
+2023-12-09,Pasta,Snacks,22
+2023-12-10,Pasta,Snacks,76
+2023-12-11,Pasta,Snacks,1
+2023-12-12,Pasta,Snacks,16
+2023-12-13,Pasta,Snacks,16
+2023-12-14,Pasta,Snacks,3
+2023-12-15,Pasta,Snacks,3
+2023-12-16,Pasta,Snacks,52
+2023-12-17,Pasta,Snacks,31
+2023-12-18,Pasta,Snacks,35
+2023-12-19,Pasta,Snacks,50
+2023-12-20,Pasta,Snacks,76
+2023-12-21,Pasta,Snacks,23
+2023-12-22,Pasta,Snacks,65
+2023-12-23,Pasta,Snacks,59
+2023-12-24,Pasta,Snacks,35
+2023-12-25,Pasta,Snacks,63
+2023-12-26,Pasta,Snacks,18
+2023-12-27,Pasta,Snacks,10
+2023-12-28,Pasta,Snacks,47
+2023-12-29,Pasta,Snacks,33
+2023-12-30,Pasta,Snacks,6
+2023-12-31,Pasta,Snacks,21
+2024-01-01,Pasta,Snacks,47
+2024-01-02,Pasta,Snacks,30
+2024-01-03,Pasta,Snacks,71
+2024-01-04,Pasta,Snacks,21
+2024-01-05,Pasta,Snacks,45
+2024-01-06,Pasta,Snacks,50
+2024-01-07,Pasta,Snacks,3
+2024-01-08,Pasta,Snacks,76
+2024-01-09,Pasta,Snacks,33
+2024-01-10,Pasta,Snacks,71
+2024-01-11,Pasta,Snacks,58
+2024-01-12,Pasta,Snacks,72
+2024-01-13,Pasta,Snacks,47
+2024-01-14,Pasta,Snacks,37
+2024-01-15,Pasta,Snacks,54
+2024-01-16,Pasta,Snacks,35
+2024-01-17,Pasta,Snacks,63
+2024-01-18,Pasta,Snacks,7
+2024-01-19,Pasta,Snacks,4
+2024-01-20,Pasta,Snacks,34
+2024-01-21,Pasta,Snacks,39
+2024-01-22,Pasta,Snacks,33
+2024-01-23,Pasta,Snacks,75
+2024-01-24,Pasta,Snacks,9
+2024-01-25,Pasta,Snacks,15
+2024-01-26,Pasta,Snacks,30
+2024-01-27,Pasta,Snacks,44
+2024-01-28,Pasta,Snacks,23
+2024-01-29,Pasta,Snacks,68
+2024-01-30,Pasta,Snacks,57
+2024-01-31,Pasta,Snacks,45
+2024-02-01,Pasta,Snacks,71
+2024-02-02,Pasta,Snacks,18
+2024-02-03,Pasta,Snacks,45
+2024-02-04,Pasta,Snacks,49
+2024-02-05,Pasta,Snacks,15
+2024-02-06,Pasta,Snacks,47
+2024-02-07,Pasta,Snacks,5
+2024-02-08,Pasta,Snacks,62
+2024-02-09,Pasta,Snacks,7
+2024-02-10,Pasta,Snacks,74
+2024-02-11,Pasta,Snacks,65
+2024-02-12,Pasta,Snacks,40
+2024-02-13,Pasta,Snacks,57
+2024-02-14,Pasta,Snacks,33
+2024-02-15,Pasta,Snacks,34
+2024-02-16,Pasta,Snacks,30
+2024-02-17,Pasta,Snacks,24
+2024-02-18,Pasta,Snacks,36
+2024-02-19,Pasta,Snacks,16
+2024-02-20,Pasta,Snacks,58
+2024-02-21,Pasta,Snacks,3
+2024-02-22,Pasta,Snacks,31
+2024-02-23,Pasta,Snacks,3
+2024-02-24,Pasta,Snacks,12
+2024-02-25,Pasta,Snacks,38
+2024-02-26,Pasta,Snacks,46
+2024-02-27,Pasta,Snacks,62
+2024-02-28,Pasta,Snacks,70
+2024-02-29,Pasta,Snacks,53
+2024-03-01,Pasta,Snacks,34
+2024-03-02,Pasta,Snacks,5
+2024-03-03,Pasta,Snacks,73
+2024-03-04,Pasta,Snacks,33
+2024-03-05,Pasta,Snacks,27
+2024-03-06,Pasta,Snacks,12
+2024-03-07,Pasta,Snacks,18
+2024-03-08,Pasta,Snacks,47
+2024-03-09,Pasta,Snacks,42
+2024-03-10,Pasta,Snacks,73
+2024-03-11,Pasta,Snacks,30
+2024-03-12,Pasta,Snacks,37
+2024-03-13,Pasta,Snacks,42
+2024-03-14,Pasta,Snacks,16
+2024-03-15,Pasta,Snacks,27
+2024-03-16,Pasta,Snacks,23
+2024-03-17,Pasta,Snacks,70
+2024-03-18,Pasta,Snacks,27
+2024-03-19,Pasta,Snacks,17
+2024-03-20,Pasta,Snacks,6
+2024-03-21,Pasta,Snacks,10
+2024-03-22,Pasta,Snacks,45
+2024-03-23,Pasta,Snacks,56
+2024-03-24,Pasta,Snacks,31
+2024-03-25,Pasta,Snacks,40
+2024-03-26,Pasta,Snacks,3
+2024-03-27,Pasta,Snacks,47
+2024-03-28,Pasta,Snacks,24
+2024-03-29,Pasta,Snacks,11
+2024-03-30,Pasta,Snacks,75
+2024-03-31,Pasta,Snacks,31
+2024-04-01,Pasta,Snacks,47
+2024-04-02,Pasta,Snacks,43
+2024-04-03,Pasta,Snacks,11
+2024-04-04,Pasta,Snacks,56
+2024-04-05,Pasta,Snacks,6
+2024-04-06,Pasta,Snacks,1
+2024-04-07,Pasta,Snacks,76
+2024-04-08,Pasta,Snacks,2
+2024-04-09,Pasta,Snacks,36
+2024-04-10,Pasta,Snacks,73
+2024-04-11,Pasta,Snacks,41
+2024-04-12,Pasta,Snacks,65
+2024-04-13,Pasta,Snacks,33
+2024-04-14,Pasta,Snacks,66
+2024-04-15,Pasta,Snacks,73
+2024-04-16,Pasta,Snacks,8
+2024-04-17,Pasta,Snacks,3
+2024-04-18,Pasta,Snacks,44
+2024-04-19,Pasta,Snacks,11
+2024-04-20,Pasta,Snacks,1
+2024-04-21,Pasta,Snacks,48
+2024-04-22,Pasta,Snacks,70
+2024-04-23,Pasta,Snacks,42
+2024-04-24,Pasta,Snacks,45
+2024-04-25,Pasta,Snacks,34
+2024-04-26,Pasta,Snacks,32
+2024-04-27,Pasta,Snacks,61
+2024-04-28,Pasta,Snacks,6
+2024-04-29,Pasta,Snacks,62
+2024-04-30,Pasta,Snacks,35
+2024-05-01,Pasta,Snacks,11
+2024-05-02,Pasta,Snacks,14
+2024-05-03,Pasta,Snacks,45
+2024-05-04,Pasta,Snacks,26
+2024-05-05,Pasta,Snacks,40
+2024-05-06,Pasta,Snacks,34
+2024-05-07,Pasta,Snacks,66
+2024-05-08,Pasta,Snacks,22
+2024-05-09,Pasta,Snacks,41
+2024-05-10,Pasta,Snacks,59
+2024-05-11,Pasta,Snacks,32
+2024-05-12,Pasta,Snacks,35
+2024-05-13,Pasta,Snacks,70
+2024-05-14,Pasta,Snacks,4
+2024-05-15,Pasta,Snacks,76
+2024-05-16,Pasta,Snacks,8
+2024-05-17,Pasta,Snacks,53
+2024-05-18,Pasta,Snacks,31
+2024-05-19,Pasta,Snacks,22
+2024-05-20,Pasta,Snacks,14
+2024-05-21,Pasta,Snacks,73
+2024-05-22,Pasta,Snacks,33
+2024-05-23,Pasta,Snacks,16
+2024-05-24,Pasta,Snacks,18
+2024-05-25,Pasta,Snacks,16
+2024-05-26,Pasta,Snacks,30
+2024-05-27,Pasta,Snacks,12
+2024-05-28,Pasta,Snacks,14
+2024-05-29,Pasta,Snacks,6
+2024-05-30,Pasta,Snacks,24
+2024-05-31,Pasta,Snacks,13
+2024-06-01,Pasta,Snacks,52
+2024-06-02,Pasta,Snacks,74
+2024-06-03,Pasta,Snacks,71
+2024-06-04,Pasta,Snacks,69
+2024-06-05,Pasta,Snacks,14
+2024-06-06,Pasta,Snacks,39
+2024-06-07,Pasta,Snacks,48
+2024-06-08,Pasta,Snacks,26
+2024-06-09,Pasta,Snacks,28
+2024-06-10,Pasta,Snacks,65
+2024-06-11,Pasta,Snacks,13
+2024-06-12,Pasta,Snacks,45
+2024-06-13,Pasta,Snacks,3
+2024-06-14,Pasta,Snacks,50
+2024-06-15,Pasta,Snacks,1
+2024-06-16,Pasta,Snacks,52
+2024-06-17,Pasta,Snacks,38
+2024-06-18,Pasta,Snacks,10
+2024-06-19,Pasta,Snacks,63
+2024-06-20,Pasta,Snacks,52
+2024-06-21,Pasta,Snacks,8
+2024-06-22,Pasta,Snacks,58
+2024-06-23,Pasta,Snacks,49
+2024-06-24,Pasta,Snacks,4
+2024-06-25,Pasta,Snacks,34
+2024-06-26,Pasta,Snacks,32
+2024-06-27,Pasta,Snacks,25
+2024-06-28,Pasta,Snacks,31
+2024-06-29,Pasta,Snacks,10
+2024-06-30,Pasta,Snacks,35
+2024-07-01,Pasta,Snacks,40
+2024-07-02,Pasta,Snacks,60
+2024-07-03,Pasta,Snacks,68
+2024-07-04,Pasta,Snacks,3
+2024-07-05,Pasta,Snacks,67
+2024-07-06,Pasta,Snacks,3
+2024-07-07,Pasta,Snacks,64
+2024-07-08,Pasta,Snacks,48
+2024-07-09,Pasta,Snacks,53
+2024-07-10,Pasta,Snacks,8
+2024-07-11,Pasta,Snacks,47
+2024-07-12,Pasta,Snacks,61
+2024-07-13,Pasta,Snacks,27
+2024-07-14,Pasta,Snacks,73
+2024-07-15,Pasta,Snacks,70
+2024-07-16,Pasta,Snacks,20
+2024-07-17,Pasta,Snacks,10
+2024-07-18,Pasta,Snacks,28
+2024-07-19,Pasta,Snacks,68
+2024-07-20,Pasta,Snacks,52
+2024-07-21,Pasta,Snacks,2
+2024-07-22,Pasta,Snacks,38
+2024-07-23,Pasta,Snacks,1
+2024-07-24,Pasta,Snacks,43
+2024-07-25,Pasta,Snacks,58
+2024-07-26,Pasta,Snacks,64
+2024-07-27,Pasta,Snacks,3
+2024-07-28,Pasta,Snacks,69
+2024-07-29,Pasta,Snacks,8
+2024-07-30,Pasta,Snacks,16
+2024-07-31,Pasta,Snacks,76
+2024-08-01,Pasta,Snacks,14
+2024-08-02,Pasta,Snacks,33
+2024-08-03,Pasta,Snacks,43
+2024-08-04,Pasta,Snacks,42
+2024-08-05,Pasta,Snacks,46
+2024-08-06,Pasta,Snacks,47
+2024-08-07,Pasta,Snacks,2
+2024-08-08,Pasta,Snacks,70
+2024-08-09,Pasta,Snacks,33
+2024-08-10,Pasta,Snacks,69
+2024-08-11,Pasta,Snacks,59
+2024-08-12,Pasta,Snacks,44
+2024-08-13,Pasta,Snacks,28
+2024-08-14,Pasta,Snacks,48
+2024-08-15,Pasta,Snacks,64
+2024-08-16,Pasta,Snacks,58
+2024-08-17,Pasta,Snacks,18
+2024-08-18,Pasta,Snacks,37
+2024-08-19,Pasta,Snacks,29
+2024-08-20,Pasta,Snacks,52
+2024-08-21,Pasta,Snacks,61
+2024-08-22,Pasta,Snacks,53
+2024-08-23,Pasta,Snacks,20
+2024-08-24,Pasta,Snacks,67
+2024-08-25,Pasta,Snacks,43
+2024-08-26,Pasta,Snacks,58
+2024-08-27,Pasta,Snacks,14
+2024-08-28,Pasta,Snacks,12
+2024-08-29,Pasta,Snacks,33
+2024-08-30,Pasta,Snacks,12
+2024-08-31,Pasta,Snacks,45
+2024-09-01,Pasta,Snacks,26
+2024-09-02,Pasta,Snacks,28
+2024-09-03,Pasta,Snacks,12
+2024-09-04,Pasta,Snacks,57
+2024-09-05,Pasta,Snacks,4
+2024-09-06,Pasta,Snacks,57
+2024-09-07,Pasta,Snacks,10
+2024-09-08,Pasta,Snacks,49
+2024-09-09,Pasta,Snacks,45
+2024-09-10,Pasta,Snacks,47
+2024-09-11,Pasta,Snacks,74
+2024-09-12,Pasta,Snacks,28
+2024-09-13,Pasta,Snacks,12
+2024-09-14,Pasta,Snacks,22
+2024-09-15,Pasta,Snacks,64
+2024-09-16,Pasta,Snacks,45
+2024-09-17,Pasta,Snacks,15
+2024-09-18,Pasta,Snacks,64
+2024-09-19,Pasta,Snacks,66
+2024-09-20,Pasta,Snacks,50
+2024-09-21,Pasta,Snacks,43
+2024-09-22,Pasta,Snacks,33
+2024-09-23,Pasta,Snacks,37
+2024-09-24,Pasta,Snacks,17
+2024-09-25,Pasta,Snacks,26
+2024-09-26,Pasta,Snacks,43
+2024-09-27,Pasta,Snacks,58
+2024-09-28,Pasta,Snacks,9
+2024-09-29,Pasta,Snacks,21
+2024-09-30,Pasta,Snacks,65
+2024-10-01,Pasta,Snacks,63
+2024-10-02,Pasta,Snacks,73
+2024-10-03,Pasta,Snacks,27
+2024-10-04,Pasta,Snacks,36
+2024-10-05,Pasta,Snacks,59
+2024-10-06,Pasta,Snacks,46
+2024-10-07,Pasta,Snacks,30
+2024-10-08,Pasta,Snacks,17
+2024-10-09,Pasta,Snacks,52
+2024-10-10,Pasta,Snacks,47
+2024-10-11,Pasta,Snacks,37
+2023-10-13,Frozen Vegetables,Snacks,35
+2023-10-14,Frozen Vegetables,Snacks,28
+2023-10-15,Frozen Vegetables,Snacks,14
+2023-10-16,Frozen Vegetables,Snacks,35
+2023-10-17,Frozen Vegetables,Snacks,6
+2023-10-18,Frozen Vegetables,Snacks,21
+2023-10-19,Frozen Vegetables,Snacks,28
+2023-10-20,Frozen Vegetables,Snacks,9
+2023-10-21,Frozen Vegetables,Snacks,13
+2023-10-22,Frozen Vegetables,Snacks,16
+2023-10-23,Frozen Vegetables,Snacks,23
+2023-10-24,Frozen Vegetables,Snacks,32
+2023-10-25,Frozen Vegetables,Snacks,33
+2023-10-26,Frozen Vegetables,Snacks,21
+2023-10-27,Frozen Vegetables,Snacks,4
+2023-10-28,Frozen Vegetables,Snacks,35
+2023-10-29,Frozen Vegetables,Snacks,11
+2023-10-30,Frozen Vegetables,Snacks,22
+2023-10-31,Frozen Vegetables,Snacks,13
+2023-11-01,Frozen Vegetables,Snacks,19
+2023-11-02,Frozen Vegetables,Snacks,24
+2023-11-03,Frozen Vegetables,Snacks,4
+2023-11-04,Frozen Vegetables,Snacks,25
+2023-11-05,Frozen Vegetables,Snacks,31
+2023-11-06,Frozen Vegetables,Snacks,21
+2023-11-07,Frozen Vegetables,Snacks,30
+2023-11-08,Frozen Vegetables,Snacks,5
+2023-11-09,Frozen Vegetables,Snacks,4
+2023-11-10,Frozen Vegetables,Snacks,32
+2023-11-11,Frozen Vegetables,Snacks,5
+2023-11-12,Frozen Vegetables,Snacks,16
+2023-11-13,Frozen Vegetables,Snacks,27
+2023-11-14,Frozen Vegetables,Snacks,12
+2023-11-15,Frozen Vegetables,Snacks,1
+2023-11-16,Frozen Vegetables,Snacks,2
+2023-11-17,Frozen Vegetables,Snacks,8
+2023-11-18,Frozen Vegetables,Snacks,34
+2023-11-19,Frozen Vegetables,Snacks,25
+2023-11-20,Frozen Vegetables,Snacks,34
+2023-11-21,Frozen Vegetables,Snacks,1
+2023-11-22,Frozen Vegetables,Snacks,14
+2023-11-23,Frozen Vegetables,Snacks,32
+2023-11-24,Frozen Vegetables,Snacks,29
+2023-11-25,Frozen Vegetables,Snacks,19
+2023-11-26,Frozen Vegetables,Snacks,30
+2023-11-27,Frozen Vegetables,Snacks,23
+2023-11-28,Frozen Vegetables,Snacks,5
+2023-11-29,Frozen Vegetables,Snacks,23
+2023-11-30,Frozen Vegetables,Snacks,35
+2023-12-01,Frozen Vegetables,Snacks,7
+2023-12-02,Frozen Vegetables,Snacks,31
+2023-12-03,Frozen Vegetables,Snacks,14
+2023-12-04,Frozen Vegetables,Snacks,27
+2023-12-05,Frozen Vegetables,Snacks,23
+2023-12-06,Frozen Vegetables,Snacks,26
+2023-12-07,Frozen Vegetables,Snacks,7
+2023-12-08,Frozen Vegetables,Snacks,21
+2023-12-09,Frozen Vegetables,Snacks,24
+2023-12-10,Frozen Vegetables,Snacks,17
+2023-12-11,Frozen Vegetables,Snacks,9
+2023-12-12,Frozen Vegetables,Snacks,15
+2023-12-13,Frozen Vegetables,Snacks,4
+2023-12-14,Frozen Vegetables,Snacks,24
+2023-12-15,Frozen Vegetables,Snacks,31
+2023-12-16,Frozen Vegetables,Snacks,12
+2023-12-17,Frozen Vegetables,Snacks,8
+2023-12-18,Frozen Vegetables,Snacks,17
+2023-12-19,Frozen Vegetables,Snacks,9
+2023-12-20,Frozen Vegetables,Snacks,17
+2023-12-21,Frozen Vegetables,Snacks,16
+2023-12-22,Frozen Vegetables,Snacks,35
+2023-12-23,Frozen Vegetables,Snacks,13
+2023-12-24,Frozen Vegetables,Snacks,12
+2023-12-25,Frozen Vegetables,Snacks,30
+2023-12-26,Frozen Vegetables,Snacks,3
+2023-12-27,Frozen Vegetables,Snacks,5
+2023-12-28,Frozen Vegetables,Snacks,13
+2023-12-29,Frozen Vegetables,Snacks,13
+2023-12-30,Frozen Vegetables,Snacks,28
+2023-12-31,Frozen Vegetables,Snacks,5
+2024-01-01,Frozen Vegetables,Snacks,20
+2024-01-02,Frozen Vegetables,Snacks,28
+2024-01-03,Frozen Vegetables,Snacks,18
+2024-01-04,Frozen Vegetables,Snacks,23
+2024-01-05,Frozen Vegetables,Snacks,27
+2024-01-06,Frozen Vegetables,Snacks,2
+2024-01-07,Frozen Vegetables,Snacks,31
+2024-01-08,Frozen Vegetables,Snacks,18
+2024-01-09,Frozen Vegetables,Snacks,23
+2024-01-10,Frozen Vegetables,Snacks,16
+2024-01-11,Frozen Vegetables,Snacks,26
+2024-01-12,Frozen Vegetables,Snacks,25
+2024-01-13,Frozen Vegetables,Snacks,35
+2024-01-14,Frozen Vegetables,Snacks,22
+2024-01-15,Frozen Vegetables,Snacks,9
+2024-01-16,Frozen Vegetables,Snacks,34
+2024-01-17,Frozen Vegetables,Snacks,23
+2024-01-18,Frozen Vegetables,Snacks,27
+2024-01-19,Frozen Vegetables,Snacks,10
+2024-01-20,Frozen Vegetables,Snacks,16
+2024-01-21,Frozen Vegetables,Snacks,4
+2024-01-22,Frozen Vegetables,Snacks,31
+2024-01-23,Frozen Vegetables,Snacks,4
+2024-01-24,Frozen Vegetables,Snacks,14
+2024-01-25,Frozen Vegetables,Snacks,16
+2024-01-26,Frozen Vegetables,Snacks,19
+2024-01-27,Frozen Vegetables,Snacks,3
+2024-01-28,Frozen Vegetables,Snacks,3
+2024-01-29,Frozen Vegetables,Snacks,20
+2024-01-30,Frozen Vegetables,Snacks,2
+2024-01-31,Frozen Vegetables,Snacks,20
+2024-02-01,Frozen Vegetables,Snacks,26
+2024-02-02,Frozen Vegetables,Snacks,19
+2024-02-03,Frozen Vegetables,Snacks,33
+2024-02-04,Frozen Vegetables,Snacks,34
+2024-02-05,Frozen Vegetables,Snacks,28
+2024-02-06,Frozen Vegetables,Snacks,14
+2024-02-07,Frozen Vegetables,Snacks,14
+2024-02-08,Frozen Vegetables,Snacks,29
+2024-02-09,Frozen Vegetables,Snacks,26
+2024-02-10,Frozen Vegetables,Snacks,33
+2024-02-11,Frozen Vegetables,Snacks,5
+2024-02-12,Frozen Vegetables,Snacks,2
+2024-02-13,Frozen Vegetables,Snacks,9
+2024-02-14,Frozen Vegetables,Snacks,19
+2024-02-15,Frozen Vegetables,Snacks,27
+2024-02-16,Frozen Vegetables,Snacks,27
+2024-02-17,Frozen Vegetables,Snacks,26
+2024-02-18,Frozen Vegetables,Snacks,14
+2024-02-19,Frozen Vegetables,Snacks,3
+2024-02-20,Frozen Vegetables,Snacks,21
+2024-02-21,Frozen Vegetables,Snacks,8
+2024-02-22,Frozen Vegetables,Snacks,6
+2024-02-23,Frozen Vegetables,Snacks,2
+2024-02-24,Frozen Vegetables,Snacks,6
+2024-02-25,Frozen Vegetables,Snacks,11
+2024-02-26,Frozen Vegetables,Snacks,5
+2024-02-27,Frozen Vegetables,Snacks,10
+2024-02-28,Frozen Vegetables,Snacks,7
+2024-02-29,Frozen Vegetables,Snacks,18
+2024-03-01,Frozen Vegetables,Snacks,10
+2024-03-02,Frozen Vegetables,Snacks,7
+2024-03-03,Frozen Vegetables,Snacks,31
+2024-03-04,Frozen Vegetables,Snacks,8
+2024-03-05,Frozen Vegetables,Snacks,10
+2024-03-06,Frozen Vegetables,Snacks,28
+2024-03-07,Frozen Vegetables,Snacks,26
+2024-03-08,Frozen Vegetables,Snacks,20
+2024-03-09,Frozen Vegetables,Snacks,2
+2024-03-10,Frozen Vegetables,Snacks,23
+2024-03-11,Frozen Vegetables,Snacks,23
+2024-03-12,Frozen Vegetables,Snacks,17
+2024-03-13,Frozen Vegetables,Snacks,21
+2024-03-14,Frozen Vegetables,Snacks,26
+2024-03-15,Frozen Vegetables,Snacks,31
+2024-03-16,Frozen Vegetables,Snacks,8
+2024-03-17,Frozen Vegetables,Snacks,7
+2024-03-18,Frozen Vegetables,Snacks,21
+2024-03-19,Frozen Vegetables,Snacks,23
+2024-03-20,Frozen Vegetables,Snacks,13
+2024-03-21,Frozen Vegetables,Snacks,28
+2024-03-22,Frozen Vegetables,Snacks,27
+2024-03-23,Frozen Vegetables,Snacks,32
+2024-03-24,Frozen Vegetables,Snacks,20
+2024-03-25,Frozen Vegetables,Snacks,13
+2024-03-26,Frozen Vegetables,Snacks,2
+2024-03-27,Frozen Vegetables,Snacks,19
+2024-03-28,Frozen Vegetables,Snacks,15
+2024-03-29,Frozen Vegetables,Snacks,27
+2024-03-30,Frozen Vegetables,Snacks,12
+2024-03-31,Frozen Vegetables,Snacks,10
+2024-04-01,Frozen Vegetables,Snacks,28
+2024-04-02,Frozen Vegetables,Snacks,4
+2024-04-03,Frozen Vegetables,Snacks,4
+2024-04-04,Frozen Vegetables,Snacks,28
+2024-04-05,Frozen Vegetables,Snacks,29
+2024-04-06,Frozen Vegetables,Snacks,12
+2024-04-07,Frozen Vegetables,Snacks,22
+2024-04-08,Frozen Vegetables,Snacks,4
+2024-04-09,Frozen Vegetables,Snacks,25
+2024-04-10,Frozen Vegetables,Snacks,8
+2024-04-11,Frozen Vegetables,Snacks,29
+2024-04-12,Frozen Vegetables,Snacks,7
+2024-04-13,Frozen Vegetables,Snacks,8
+2024-04-14,Frozen Vegetables,Snacks,18
+2024-04-15,Frozen Vegetables,Snacks,26
+2024-04-16,Frozen Vegetables,Snacks,9
+2024-04-17,Frozen Vegetables,Snacks,31
+2024-04-18,Frozen Vegetables,Snacks,6
+2024-04-19,Frozen Vegetables,Snacks,15
+2024-04-20,Frozen Vegetables,Snacks,18
+2024-04-21,Frozen Vegetables,Snacks,10
+2024-04-22,Frozen Vegetables,Snacks,8
+2024-04-23,Frozen Vegetables,Snacks,25
+2024-04-24,Frozen Vegetables,Snacks,34
+2024-04-25,Frozen Vegetables,Snacks,6
+2024-04-26,Frozen Vegetables,Snacks,23
+2024-04-27,Frozen Vegetables,Snacks,20
+2024-04-28,Frozen Vegetables,Snacks,23
+2024-04-29,Frozen Vegetables,Snacks,23
+2024-04-30,Frozen Vegetables,Snacks,22
+2024-05-01,Frozen Vegetables,Snacks,23
+2024-05-02,Frozen Vegetables,Snacks,9
+2024-05-03,Frozen Vegetables,Snacks,29
+2024-05-04,Frozen Vegetables,Snacks,21
+2024-05-05,Frozen Vegetables,Snacks,30
+2024-05-06,Frozen Vegetables,Snacks,3
+2024-05-07,Frozen Vegetables,Snacks,33
+2024-05-08,Frozen Vegetables,Snacks,16
+2024-05-09,Frozen Vegetables,Snacks,28
+2024-05-10,Frozen Vegetables,Snacks,20
+2024-05-11,Frozen Vegetables,Snacks,10
+2024-05-12,Frozen Vegetables,Snacks,28
+2024-05-13,Frozen Vegetables,Snacks,8
+2024-05-14,Frozen Vegetables,Snacks,24
+2024-05-15,Frozen Vegetables,Snacks,1
+2024-05-16,Frozen Vegetables,Snacks,17
+2024-05-17,Frozen Vegetables,Snacks,20
+2024-05-18,Frozen Vegetables,Snacks,13
+2024-05-19,Frozen Vegetables,Snacks,13
+2024-05-20,Frozen Vegetables,Snacks,31
+2024-05-21,Frozen Vegetables,Snacks,22
+2024-05-22,Frozen Vegetables,Snacks,15
+2024-05-23,Frozen Vegetables,Snacks,15
+2024-05-24,Frozen Vegetables,Snacks,34
+2024-05-25,Frozen Vegetables,Snacks,32
+2024-05-26,Frozen Vegetables,Snacks,13
+2024-05-27,Frozen Vegetables,Snacks,20
+2024-05-28,Frozen Vegetables,Snacks,25
+2024-05-29,Frozen Vegetables,Snacks,22
+2024-05-30,Frozen Vegetables,Snacks,3
+2024-05-31,Frozen Vegetables,Snacks,29
+2024-06-01,Frozen Vegetables,Snacks,4
+2024-06-02,Frozen Vegetables,Snacks,18
+2024-06-03,Frozen Vegetables,Snacks,21
+2024-06-04,Frozen Vegetables,Snacks,31
+2024-06-05,Frozen Vegetables,Snacks,34
+2024-06-06,Frozen Vegetables,Snacks,17
+2024-06-07,Frozen Vegetables,Snacks,26
+2024-06-08,Frozen Vegetables,Snacks,25
+2024-06-09,Frozen Vegetables,Snacks,4
+2024-06-10,Frozen Vegetables,Snacks,28
+2024-06-11,Frozen Vegetables,Snacks,2
+2024-06-12,Frozen Vegetables,Snacks,3
+2024-06-13,Frozen Vegetables,Snacks,29
+2024-06-14,Frozen Vegetables,Snacks,28
+2024-06-15,Frozen Vegetables,Snacks,27
+2024-06-16,Frozen Vegetables,Snacks,7
+2024-06-17,Frozen Vegetables,Snacks,21
+2024-06-18,Frozen Vegetables,Snacks,14
+2024-06-19,Frozen Vegetables,Snacks,23
+2024-06-20,Frozen Vegetables,Snacks,35
+2024-06-21,Frozen Vegetables,Snacks,30
+2024-06-22,Frozen Vegetables,Snacks,29
+2024-06-23,Frozen Vegetables,Snacks,9
+2024-06-24,Frozen Vegetables,Snacks,23
+2024-06-25,Frozen Vegetables,Snacks,5
+2024-06-26,Frozen Vegetables,Snacks,14
+2024-06-27,Frozen Vegetables,Snacks,15
+2024-06-28,Frozen Vegetables,Snacks,15
+2024-06-29,Frozen Vegetables,Snacks,35
+2024-06-30,Frozen Vegetables,Snacks,11
+2024-07-01,Frozen Vegetables,Snacks,29
+2024-07-02,Frozen Vegetables,Snacks,8
+2024-07-03,Frozen Vegetables,Snacks,21
+2024-07-04,Frozen Vegetables,Snacks,15
+2024-07-05,Frozen Vegetables,Snacks,12
+2024-07-06,Frozen Vegetables,Snacks,33
+2024-07-07,Frozen Vegetables,Snacks,8
+2024-07-08,Frozen Vegetables,Snacks,24
+2024-07-09,Frozen Vegetables,Snacks,32
+2024-07-10,Frozen Vegetables,Snacks,7
+2024-07-11,Frozen Vegetables,Snacks,25
+2024-07-12,Frozen Vegetables,Snacks,17
+2024-07-13,Frozen Vegetables,Snacks,31
+2024-07-14,Frozen Vegetables,Snacks,10
+2024-07-15,Frozen Vegetables,Snacks,8
+2024-07-16,Frozen Vegetables,Snacks,1
+2024-07-17,Frozen Vegetables,Snacks,9
+2024-07-18,Frozen Vegetables,Snacks,26
+2024-07-19,Frozen Vegetables,Snacks,10
+2024-07-20,Frozen Vegetables,Snacks,26
+2024-07-21,Frozen Vegetables,Snacks,18
+2024-07-22,Frozen Vegetables,Snacks,3
+2024-07-23,Frozen Vegetables,Snacks,28
+2024-07-24,Frozen Vegetables,Snacks,17
+2024-07-25,Frozen Vegetables,Snacks,15
+2024-07-26,Frozen Vegetables,Snacks,35
+2024-07-27,Frozen Vegetables,Snacks,25
+2024-07-28,Frozen Vegetables,Snacks,13
+2024-07-29,Frozen Vegetables,Snacks,2
+2024-07-30,Frozen Vegetables,Snacks,35
+2024-07-31,Frozen Vegetables,Snacks,22
+2024-08-01,Frozen Vegetables,Snacks,18
+2024-08-02,Frozen Vegetables,Snacks,21
+2024-08-03,Frozen Vegetables,Snacks,11
+2024-08-04,Frozen Vegetables,Snacks,4
+2024-08-05,Frozen Vegetables,Snacks,25
+2024-08-06,Frozen Vegetables,Snacks,34
+2024-08-07,Frozen Vegetables,Snacks,5
+2024-08-08,Frozen Vegetables,Snacks,33
+2024-08-09,Frozen Vegetables,Snacks,7
+2024-08-10,Frozen Vegetables,Snacks,28
+2024-08-11,Frozen Vegetables,Snacks,20
+2024-08-12,Frozen Vegetables,Snacks,10
+2024-08-13,Frozen Vegetables,Snacks,30
+2024-08-14,Frozen Vegetables,Snacks,3
+2024-08-15,Frozen Vegetables,Snacks,28
+2024-08-16,Frozen Vegetables,Snacks,31
+2024-08-17,Frozen Vegetables,Snacks,31
+2024-08-18,Frozen Vegetables,Snacks,2
+2024-08-19,Frozen Vegetables,Snacks,31
+2024-08-20,Frozen Vegetables,Snacks,18
+2024-08-21,Frozen Vegetables,Snacks,10
+2024-08-22,Frozen Vegetables,Snacks,32
+2024-08-23,Frozen Vegetables,Snacks,8
+2024-08-24,Frozen Vegetables,Snacks,21
+2024-08-25,Frozen Vegetables,Snacks,21
+2024-08-26,Frozen Vegetables,Snacks,21
+2024-08-27,Frozen Vegetables,Snacks,31
+2024-08-28,Frozen Vegetables,Snacks,27
+2024-08-29,Frozen Vegetables,Snacks,29
+2024-08-30,Frozen Vegetables,Snacks,14
+2024-08-31,Frozen Vegetables,Snacks,9
+2024-09-01,Frozen Vegetables,Snacks,11
+2024-09-02,Frozen Vegetables,Snacks,7
+2024-09-03,Frozen Vegetables,Snacks,5
+2024-09-04,Frozen Vegetables,Snacks,8
+2024-09-05,Frozen Vegetables,Snacks,3
+2024-09-06,Frozen Vegetables,Snacks,33
+2024-09-07,Frozen Vegetables,Snacks,19
+2024-09-08,Frozen Vegetables,Snacks,32
+2024-09-09,Frozen Vegetables,Snacks,9
+2024-09-10,Frozen Vegetables,Snacks,11
+2024-09-11,Frozen Vegetables,Snacks,35
+2024-09-12,Frozen Vegetables,Snacks,12
+2024-09-13,Frozen Vegetables,Snacks,12
+2024-09-14,Frozen Vegetables,Snacks,34
+2024-09-15,Frozen Vegetables,Snacks,34
+2024-09-16,Frozen Vegetables,Snacks,30
+2024-09-17,Frozen Vegetables,Snacks,3
+2024-09-18,Frozen Vegetables,Snacks,34
+2024-09-19,Frozen Vegetables,Snacks,32
+2024-09-20,Frozen Vegetables,Snacks,15
+2024-09-21,Frozen Vegetables,Snacks,8
+2024-09-22,Frozen Vegetables,Snacks,9
+2024-09-23,Frozen Vegetables,Snacks,26
+2024-09-24,Frozen Vegetables,Snacks,22
+2024-09-25,Frozen Vegetables,Snacks,30
+2024-09-26,Frozen Vegetables,Snacks,33
+2024-09-27,Frozen Vegetables,Snacks,14
+2024-09-28,Frozen Vegetables,Snacks,5
+2024-09-29,Frozen Vegetables,Snacks,10
+2024-09-30,Frozen Vegetables,Snacks,25
+2024-10-01,Frozen Vegetables,Snacks,20
+2024-10-02,Frozen Vegetables,Snacks,11
+2024-10-03,Frozen Vegetables,Snacks,34
+2024-10-04,Frozen Vegetables,Snacks,16
+2024-10-05,Frozen Vegetables,Snacks,4
+2024-10-06,Frozen Vegetables,Snacks,28
+2024-10-07,Frozen Vegetables,Snacks,10
+2024-10-08,Frozen Vegetables,Snacks,24
+2024-10-09,Frozen Vegetables,Snacks,9
+2024-10-10,Frozen Vegetables,Snacks,6
+2024-10-11,Frozen Vegetables,Snacks,10
+2023-10-13,Sugar,Snacks,4
+2023-10-14,Sugar,Snacks,9
+2023-10-15,Sugar,Snacks,2
+2023-10-16,Sugar,Snacks,9
+2023-10-17,Sugar,Snacks,9
+2023-10-18,Sugar,Snacks,6
+2023-10-19,Sugar,Snacks,14
+2023-10-20,Sugar,Snacks,1
+2023-10-21,Sugar,Snacks,18
+2023-10-22,Sugar,Snacks,12
+2023-10-23,Sugar,Snacks,1
+2023-10-24,Sugar,Snacks,6
+2023-10-25,Sugar,Snacks,6
+2023-10-26,Sugar,Snacks,4
+2023-10-27,Sugar,Snacks,11
+2023-10-28,Sugar,Snacks,1
+2023-10-29,Sugar,Snacks,1
+2023-10-30,Sugar,Snacks,8
+2023-10-31,Sugar,Snacks,3
+2023-11-01,Sugar,Snacks,12
+2023-11-02,Sugar,Snacks,6
+2023-11-03,Sugar,Snacks,6
+2023-11-04,Sugar,Snacks,17
+2023-11-05,Sugar,Snacks,9
+2023-11-06,Sugar,Snacks,14
+2023-11-07,Sugar,Snacks,19
+2023-11-08,Sugar,Snacks,13
+2023-11-09,Sugar,Snacks,5
+2023-11-10,Sugar,Snacks,9
+2023-11-11,Sugar,Snacks,10
+2023-11-12,Sugar,Snacks,4
+2023-11-13,Sugar,Snacks,7
+2023-11-14,Sugar,Snacks,19
+2023-11-15,Sugar,Snacks,17
+2023-11-16,Sugar,Snacks,14
+2023-11-17,Sugar,Snacks,17
+2023-11-18,Sugar,Snacks,14
+2023-11-19,Sugar,Snacks,7
+2023-11-20,Sugar,Snacks,15
+2023-11-21,Sugar,Snacks,12
+2023-11-22,Sugar,Snacks,13
+2023-11-23,Sugar,Snacks,18
+2023-11-24,Sugar,Snacks,6
+2023-11-25,Sugar,Snacks,6
+2023-11-26,Sugar,Snacks,6
+2023-11-27,Sugar,Snacks,3
+2023-11-28,Sugar,Snacks,7
+2023-11-29,Sugar,Snacks,12
+2023-11-30,Sugar,Snacks,2
+2023-12-01,Sugar,Snacks,18
+2023-12-02,Sugar,Snacks,1
+2023-12-03,Sugar,Snacks,15
+2023-12-04,Sugar,Snacks,11
+2023-12-05,Sugar,Snacks,8
+2023-12-06,Sugar,Snacks,12
+2023-12-07,Sugar,Snacks,18
+2023-12-08,Sugar,Snacks,5
+2023-12-09,Sugar,Snacks,19
+2023-12-10,Sugar,Snacks,15
+2023-12-11,Sugar,Snacks,17
+2023-12-12,Sugar,Snacks,11
+2023-12-13,Sugar,Snacks,6
+2023-12-14,Sugar,Snacks,18
+2023-12-15,Sugar,Snacks,14
+2023-12-16,Sugar,Snacks,6
+2023-12-17,Sugar,Snacks,8
+2023-12-18,Sugar,Snacks,12
+2023-12-19,Sugar,Snacks,17
+2023-12-20,Sugar,Snacks,10
+2023-12-21,Sugar,Snacks,1
+2023-12-22,Sugar,Snacks,15
+2023-12-23,Sugar,Snacks,17
+2023-12-24,Sugar,Snacks,8
+2023-12-25,Sugar,Snacks,8
+2023-12-26,Sugar,Snacks,10
+2023-12-27,Sugar,Snacks,14
+2023-12-28,Sugar,Snacks,15
+2023-12-29,Sugar,Snacks,10
+2023-12-30,Sugar,Snacks,13
+2023-12-31,Sugar,Snacks,19
+2024-01-01,Sugar,Snacks,14
+2024-01-02,Sugar,Snacks,14
+2024-01-03,Sugar,Snacks,8
+2024-01-04,Sugar,Snacks,14
+2024-01-05,Sugar,Snacks,9
+2024-01-06,Sugar,Snacks,3
+2024-01-07,Sugar,Snacks,5
+2024-01-08,Sugar,Snacks,15
+2024-01-09,Sugar,Snacks,13
+2024-01-10,Sugar,Snacks,1
+2024-01-11,Sugar,Snacks,7
+2024-01-12,Sugar,Snacks,12
+2024-01-13,Sugar,Snacks,12
+2024-01-14,Sugar,Snacks,4
+2024-01-15,Sugar,Snacks,1
+2024-01-16,Sugar,Snacks,4
+2024-01-17,Sugar,Snacks,19
+2024-01-18,Sugar,Snacks,17
+2024-01-19,Sugar,Snacks,9
+2024-01-20,Sugar,Snacks,7
+2024-01-21,Sugar,Snacks,7
+2024-01-22,Sugar,Snacks,18
+2024-01-23,Sugar,Snacks,4
+2024-01-24,Sugar,Snacks,4
+2024-01-25,Sugar,Snacks,3
+2024-01-26,Sugar,Snacks,19
+2024-01-27,Sugar,Snacks,16
+2024-01-28,Sugar,Snacks,3
+2024-01-29,Sugar,Snacks,3
+2024-01-30,Sugar,Snacks,16
+2024-01-31,Sugar,Snacks,11
+2024-02-01,Sugar,Snacks,12
+2024-02-02,Sugar,Snacks,3
+2024-02-03,Sugar,Snacks,5
+2024-02-04,Sugar,Snacks,7
+2024-02-05,Sugar,Snacks,9
+2024-02-06,Sugar,Snacks,12
+2024-02-07,Sugar,Snacks,6
+2024-02-08,Sugar,Snacks,17
+2024-02-09,Sugar,Snacks,13
+2024-02-10,Sugar,Snacks,13
+2024-02-11,Sugar,Snacks,14
+2024-02-12,Sugar,Snacks,15
+2024-02-13,Sugar,Snacks,18
+2024-02-14,Sugar,Snacks,11
+2024-02-15,Sugar,Snacks,11
+2024-02-16,Sugar,Snacks,6
+2024-02-17,Sugar,Snacks,7
+2024-02-18,Sugar,Snacks,9
+2024-02-19,Sugar,Snacks,2
+2024-02-20,Sugar,Snacks,13
+2024-02-21,Sugar,Snacks,16
+2024-02-22,Sugar,Snacks,8
+2024-02-23,Sugar,Snacks,9
+2024-02-24,Sugar,Snacks,2
+2024-02-25,Sugar,Snacks,18
+2024-02-26,Sugar,Snacks,12
+2024-02-27,Sugar,Snacks,8
+2024-02-28,Sugar,Snacks,10
+2024-02-29,Sugar,Snacks,9
+2024-03-01,Sugar,Snacks,15
+2024-03-02,Sugar,Snacks,11
+2024-03-03,Sugar,Snacks,11
+2024-03-04,Sugar,Snacks,6
+2024-03-05,Sugar,Snacks,17
+2024-03-06,Sugar,Snacks,1
+2024-03-07,Sugar,Snacks,17
+2024-03-08,Sugar,Snacks,2
+2024-03-09,Sugar,Snacks,11
+2024-03-10,Sugar,Snacks,10
+2024-03-11,Sugar,Snacks,3
+2024-03-12,Sugar,Snacks,5
+2024-03-13,Sugar,Snacks,11
+2024-03-14,Sugar,Snacks,7
+2024-03-15,Sugar,Snacks,18
+2024-03-16,Sugar,Snacks,9
+2024-03-17,Sugar,Snacks,12
+2024-03-18,Sugar,Snacks,10
+2024-03-19,Sugar,Snacks,6
+2024-03-20,Sugar,Snacks,2
+2024-03-21,Sugar,Snacks,2
+2024-03-22,Sugar,Snacks,1
+2024-03-23,Sugar,Snacks,15
+2024-03-24,Sugar,Snacks,14
+2024-03-25,Sugar,Snacks,11
+2024-03-26,Sugar,Snacks,3
+2024-03-27,Sugar,Snacks,2
+2024-03-28,Sugar,Snacks,12
+2024-03-29,Sugar,Snacks,19
+2024-03-30,Sugar,Snacks,2
+2024-03-31,Sugar,Snacks,14
+2024-04-01,Sugar,Snacks,17
+2024-04-02,Sugar,Snacks,9
+2024-04-03,Sugar,Snacks,15
+2024-04-04,Sugar,Snacks,1
+2024-04-05,Sugar,Snacks,5
+2024-04-06,Sugar,Snacks,7
+2024-04-07,Sugar,Snacks,10
+2024-04-08,Sugar,Snacks,3
+2024-04-09,Sugar,Snacks,18
+2024-04-10,Sugar,Snacks,2
+2024-04-11,Sugar,Snacks,9
+2024-04-12,Sugar,Snacks,11
+2024-04-13,Sugar,Snacks,16
+2024-04-14,Sugar,Snacks,14
+2024-04-15,Sugar,Snacks,4
+2024-04-16,Sugar,Snacks,10
+2024-04-17,Sugar,Snacks,16
+2024-04-18,Sugar,Snacks,10
+2024-04-19,Sugar,Snacks,7
+2024-04-20,Sugar,Snacks,18
+2024-04-21,Sugar,Snacks,17
+2024-04-22,Sugar,Snacks,11
+2024-04-23,Sugar,Snacks,4
+2024-04-24,Sugar,Snacks,10
+2024-04-25,Sugar,Snacks,9
+2024-04-26,Sugar,Snacks,11
+2024-04-27,Sugar,Snacks,5
+2024-04-28,Sugar,Snacks,7
+2024-04-29,Sugar,Snacks,9
+2024-04-30,Sugar,Snacks,11
+2024-05-01,Sugar,Snacks,11
+2024-05-02,Sugar,Snacks,16
+2024-05-03,Sugar,Snacks,8
+2024-05-04,Sugar,Snacks,8
+2024-05-05,Sugar,Snacks,2
+2024-05-06,Sugar,Snacks,17
+2024-05-07,Sugar,Snacks,2
+2024-05-08,Sugar,Snacks,19
+2024-05-09,Sugar,Snacks,13
+2024-05-10,Sugar,Snacks,10
+2024-05-11,Sugar,Snacks,14
+2024-05-12,Sugar,Snacks,5
+2024-05-13,Sugar,Snacks,3
+2024-05-14,Sugar,Snacks,2
+2024-05-15,Sugar,Snacks,9
+2024-05-16,Sugar,Snacks,7
+2024-05-17,Sugar,Snacks,4
+2024-05-18,Sugar,Snacks,3
+2024-05-19,Sugar,Snacks,14
+2024-05-20,Sugar,Snacks,10
+2024-05-21,Sugar,Snacks,19
+2024-05-22,Sugar,Snacks,19
+2024-05-23,Sugar,Snacks,17
+2024-05-24,Sugar,Snacks,10
+2024-05-25,Sugar,Snacks,7
+2024-05-26,Sugar,Snacks,2
+2024-05-27,Sugar,Snacks,7
+2024-05-28,Sugar,Snacks,8
+2024-05-29,Sugar,Snacks,15
+2024-05-30,Sugar,Snacks,17
+2024-05-31,Sugar,Snacks,14
+2024-06-01,Sugar,Snacks,8
+2024-06-02,Sugar,Snacks,15
+2024-06-03,Sugar,Snacks,12
+2024-06-04,Sugar,Snacks,18
+2024-06-05,Sugar,Snacks,15
+2024-06-06,Sugar,Snacks,6
+2024-06-07,Sugar,Snacks,8
+2024-06-08,Sugar,Snacks,14
+2024-06-09,Sugar,Snacks,18
+2024-06-10,Sugar,Snacks,18
+2024-06-11,Sugar,Snacks,10
+2024-06-12,Sugar,Snacks,5
+2024-06-13,Sugar,Snacks,3
+2024-06-14,Sugar,Snacks,8
+2024-06-15,Sugar,Snacks,13
+2024-06-16,Sugar,Snacks,12
+2024-06-17,Sugar,Snacks,7
+2024-06-18,Sugar,Snacks,1
+2024-06-19,Sugar,Snacks,1
+2024-06-20,Sugar,Snacks,5
+2024-06-21,Sugar,Snacks,12
+2024-06-22,Sugar,Snacks,4
+2024-06-23,Sugar,Snacks,7
+2024-06-24,Sugar,Snacks,13
+2024-06-25,Sugar,Snacks,16
+2024-06-26,Sugar,Snacks,8
+2024-06-27,Sugar,Snacks,15
+2024-06-28,Sugar,Snacks,10
+2024-06-29,Sugar,Snacks,17
+2024-06-30,Sugar,Snacks,11
+2024-07-01,Sugar,Snacks,16
+2024-07-02,Sugar,Snacks,15
+2024-07-03,Sugar,Snacks,1
+2024-07-04,Sugar,Snacks,6
+2024-07-05,Sugar,Snacks,7
+2024-07-06,Sugar,Snacks,11
+2024-07-07,Sugar,Snacks,5
+2024-07-08,Sugar,Snacks,2
+2024-07-09,Sugar,Snacks,15
+2024-07-10,Sugar,Snacks,8
+2024-07-11,Sugar,Snacks,1
+2024-07-12,Sugar,Snacks,1
+2024-07-13,Sugar,Snacks,14
+2024-07-14,Sugar,Snacks,15
+2024-07-15,Sugar,Snacks,11
+2024-07-16,Sugar,Snacks,5
+2024-07-17,Sugar,Snacks,7
+2024-07-18,Sugar,Snacks,2
+2024-07-19,Sugar,Snacks,3
+2024-07-20,Sugar,Snacks,6
+2024-07-21,Sugar,Snacks,3
+2024-07-22,Sugar,Snacks,1
+2024-07-23,Sugar,Snacks,2
+2024-07-24,Sugar,Snacks,9
+2024-07-25,Sugar,Snacks,11
+2024-07-26,Sugar,Snacks,3
+2024-07-27,Sugar,Snacks,19
+2024-07-28,Sugar,Snacks,5
+2024-07-29,Sugar,Snacks,17
+2024-07-30,Sugar,Snacks,11
+2024-07-31,Sugar,Snacks,1
+2024-08-01,Sugar,Snacks,1
+2024-08-02,Sugar,Snacks,14
+2024-08-03,Sugar,Snacks,13
+2024-08-04,Sugar,Snacks,13
+2024-08-05,Sugar,Snacks,9
+2024-08-06,Sugar,Snacks,8
+2024-08-07,Sugar,Snacks,11
+2024-08-08,Sugar,Snacks,3
+2024-08-09,Sugar,Snacks,16
+2024-08-10,Sugar,Snacks,12
+2024-08-11,Sugar,Snacks,2
+2024-08-12,Sugar,Snacks,19
+2024-08-13,Sugar,Snacks,1
+2024-08-14,Sugar,Snacks,16
+2024-08-15,Sugar,Snacks,6
+2024-08-16,Sugar,Snacks,11
+2024-08-17,Sugar,Snacks,2
+2024-08-18,Sugar,Snacks,9
+2024-08-19,Sugar,Snacks,19
+2024-08-20,Sugar,Snacks,19
+2024-08-21,Sugar,Snacks,13
+2024-08-22,Sugar,Snacks,1
+2024-08-23,Sugar,Snacks,10
+2024-08-24,Sugar,Snacks,15
+2024-08-25,Sugar,Snacks,7
+2024-08-26,Sugar,Snacks,1
+2024-08-27,Sugar,Snacks,18
+2024-08-28,Sugar,Snacks,3
+2024-08-29,Sugar,Snacks,15
+2024-08-30,Sugar,Snacks,15
+2024-08-31,Sugar,Snacks,16
+2024-09-01,Sugar,Snacks,10
+2024-09-02,Sugar,Snacks,1
+2024-09-03,Sugar,Snacks,17
+2024-09-04,Sugar,Snacks,11
+2024-09-05,Sugar,Snacks,2
+2024-09-06,Sugar,Snacks,6
+2024-09-07,Sugar,Snacks,12
+2024-09-08,Sugar,Snacks,18
+2024-09-09,Sugar,Snacks,3
+2024-09-10,Sugar,Snacks,13
+2024-09-11,Sugar,Snacks,13
+2024-09-12,Sugar,Snacks,2
+2024-09-13,Sugar,Snacks,2
+2024-09-14,Sugar,Snacks,1
+2024-09-15,Sugar,Snacks,13
+2024-09-16,Sugar,Snacks,16
+2024-09-17,Sugar,Snacks,1
+2024-09-18,Sugar,Snacks,12
+2024-09-19,Sugar,Snacks,18
+2024-09-20,Sugar,Snacks,14
+2024-09-21,Sugar,Snacks,9
+2024-09-22,Sugar,Snacks,16
+2024-09-23,Sugar,Snacks,8
+2024-09-24,Sugar,Snacks,4
+2024-09-25,Sugar,Snacks,14
+2024-09-26,Sugar,Snacks,14
+2024-09-27,Sugar,Snacks,10
+2024-09-28,Sugar,Snacks,1
+2024-09-29,Sugar,Snacks,14
+2024-09-30,Sugar,Snacks,19
+2024-10-01,Sugar,Snacks,3
+2024-10-02,Sugar,Snacks,6
+2024-10-03,Sugar,Snacks,7
+2024-10-04,Sugar,Snacks,15
+2024-10-05,Sugar,Snacks,13
+2024-10-06,Sugar,Snacks,10
+2024-10-07,Sugar,Snacks,18
+2024-10-08,Sugar,Snacks,5
+2024-10-09,Sugar,Snacks,12
+2024-10-10,Sugar,Snacks,13
+2024-10-11,Sugar,Snacks,17
+2023-10-13,Frozen Vegetables,Snacks,19
+2023-10-14,Frozen Vegetables,Snacks,4
+2023-10-15,Frozen Vegetables,Snacks,27
+2023-10-16,Frozen Vegetables,Snacks,15
+2023-10-17,Frozen Vegetables,Snacks,21
+2023-10-18,Frozen Vegetables,Snacks,24
+2023-10-19,Frozen Vegetables,Snacks,20
+2023-10-20,Frozen Vegetables,Snacks,24
+2023-10-21,Frozen Vegetables,Snacks,15
+2023-10-22,Frozen Vegetables,Snacks,8
+2023-10-23,Frozen Vegetables,Snacks,26
+2023-10-24,Frozen Vegetables,Snacks,23
+2023-10-25,Frozen Vegetables,Snacks,9
+2023-10-26,Frozen Vegetables,Snacks,27
+2023-10-27,Frozen Vegetables,Snacks,14
+2023-10-28,Frozen Vegetables,Snacks,9
+2023-10-29,Frozen Vegetables,Snacks,11
+2023-10-30,Frozen Vegetables,Snacks,7
+2023-10-31,Frozen Vegetables,Snacks,11
+2023-11-01,Frozen Vegetables,Snacks,22
+2023-11-02,Frozen Vegetables,Snacks,3
+2023-11-03,Frozen Vegetables,Snacks,17
+2023-11-04,Frozen Vegetables,Snacks,18
+2023-11-05,Frozen Vegetables,Snacks,11
+2023-11-06,Frozen Vegetables,Snacks,21
+2023-11-07,Frozen Vegetables,Snacks,14
+2023-11-08,Frozen Vegetables,Snacks,13
+2023-11-09,Frozen Vegetables,Snacks,14
+2023-11-10,Frozen Vegetables,Snacks,25
+2023-11-11,Frozen Vegetables,Snacks,25
+2023-11-12,Frozen Vegetables,Snacks,23
+2023-11-13,Frozen Vegetables,Snacks,22
+2023-11-14,Frozen Vegetables,Snacks,26
+2023-11-15,Frozen Vegetables,Snacks,10
+2023-11-16,Frozen Vegetables,Snacks,12
+2023-11-17,Frozen Vegetables,Snacks,23
+2023-11-18,Frozen Vegetables,Snacks,11
+2023-11-19,Frozen Vegetables,Snacks,6
+2023-11-20,Frozen Vegetables,Snacks,5
+2023-11-21,Frozen Vegetables,Snacks,22
+2023-11-22,Frozen Vegetables,Snacks,17
+2023-11-23,Frozen Vegetables,Snacks,21
+2023-11-24,Frozen Vegetables,Snacks,13
+2023-11-25,Frozen Vegetables,Snacks,17
+2023-11-26,Frozen Vegetables,Snacks,21
+2023-11-27,Frozen Vegetables,Snacks,2
+2023-11-28,Frozen Vegetables,Snacks,27
+2023-11-29,Frozen Vegetables,Snacks,10
+2023-11-30,Frozen Vegetables,Snacks,5
+2023-12-01,Frozen Vegetables,Snacks,26
+2023-12-02,Frozen Vegetables,Snacks,4
+2023-12-03,Frozen Vegetables,Snacks,13
+2023-12-04,Frozen Vegetables,Snacks,20
+2023-12-05,Frozen Vegetables,Snacks,22
+2023-12-06,Frozen Vegetables,Snacks,26
+2023-12-07,Frozen Vegetables,Snacks,8
+2023-12-08,Frozen Vegetables,Snacks,6
+2023-12-09,Frozen Vegetables,Snacks,17
+2023-12-10,Frozen Vegetables,Snacks,11
+2023-12-11,Frozen Vegetables,Snacks,25
+2023-12-12,Frozen Vegetables,Snacks,4
+2023-12-13,Frozen Vegetables,Snacks,14
+2023-12-14,Frozen Vegetables,Snacks,7
+2023-12-15,Frozen Vegetables,Snacks,17
+2023-12-16,Frozen Vegetables,Snacks,28
+2023-12-17,Frozen Vegetables,Snacks,15
+2023-12-18,Frozen Vegetables,Snacks,25
+2023-12-19,Frozen Vegetables,Snacks,19
+2023-12-20,Frozen Vegetables,Snacks,13
+2023-12-21,Frozen Vegetables,Snacks,3
+2023-12-22,Frozen Vegetables,Snacks,10
+2023-12-23,Frozen Vegetables,Snacks,8
+2023-12-24,Frozen Vegetables,Snacks,18
+2023-12-25,Frozen Vegetables,Snacks,25
+2023-12-26,Frozen Vegetables,Snacks,3
+2023-12-27,Frozen Vegetables,Snacks,18
+2023-12-28,Frozen Vegetables,Snacks,21
+2023-12-29,Frozen Vegetables,Snacks,25
+2023-12-30,Frozen Vegetables,Snacks,12
+2023-12-31,Frozen Vegetables,Snacks,25
+2024-01-01,Frozen Vegetables,Snacks,24
+2024-01-02,Frozen Vegetables,Snacks,8
+2024-01-03,Frozen Vegetables,Snacks,15
+2024-01-04,Frozen Vegetables,Snacks,7
+2024-01-05,Frozen Vegetables,Snacks,19
+2024-01-06,Frozen Vegetables,Snacks,3
+2024-01-07,Frozen Vegetables,Snacks,5
+2024-01-08,Frozen Vegetables,Snacks,9
+2024-01-09,Frozen Vegetables,Snacks,1
+2024-01-10,Frozen Vegetables,Snacks,19
+2024-01-11,Frozen Vegetables,Snacks,9
+2024-01-12,Frozen Vegetables,Snacks,23
+2024-01-13,Frozen Vegetables,Snacks,2
+2024-01-14,Frozen Vegetables,Snacks,18
+2024-01-15,Frozen Vegetables,Snacks,17
+2024-01-16,Frozen Vegetables,Snacks,26
+2024-01-17,Frozen Vegetables,Snacks,3
+2024-01-18,Frozen Vegetables,Snacks,4
+2024-01-19,Frozen Vegetables,Snacks,15
+2024-01-20,Frozen Vegetables,Snacks,1
+2024-01-21,Frozen Vegetables,Snacks,14
+2024-01-22,Frozen Vegetables,Snacks,13
+2024-01-23,Frozen Vegetables,Snacks,16
+2024-01-24,Frozen Vegetables,Snacks,16
+2024-01-25,Frozen Vegetables,Snacks,1
+2024-01-26,Frozen Vegetables,Snacks,3
+2024-01-27,Frozen Vegetables,Snacks,5
+2024-01-28,Frozen Vegetables,Snacks,24
+2024-01-29,Frozen Vegetables,Snacks,5
+2024-01-30,Frozen Vegetables,Snacks,12
+2024-01-31,Frozen Vegetables,Snacks,15
+2024-02-01,Frozen Vegetables,Snacks,7
+2024-02-02,Frozen Vegetables,Snacks,9
+2024-02-03,Frozen Vegetables,Snacks,1
+2024-02-04,Frozen Vegetables,Snacks,5
+2024-02-05,Frozen Vegetables,Snacks,18
+2024-02-06,Frozen Vegetables,Snacks,1
+2024-02-07,Frozen Vegetables,Snacks,15
+2024-02-08,Frozen Vegetables,Snacks,7
+2024-02-09,Frozen Vegetables,Snacks,23
+2024-02-10,Frozen Vegetables,Snacks,17
+2024-02-11,Frozen Vegetables,Snacks,10
+2024-02-12,Frozen Vegetables,Snacks,7
+2024-02-13,Frozen Vegetables,Snacks,16
+2024-02-14,Frozen Vegetables,Snacks,6
+2024-02-15,Frozen Vegetables,Snacks,22
+2024-02-16,Frozen Vegetables,Snacks,12
+2024-02-17,Frozen Vegetables,Snacks,17
+2024-02-18,Frozen Vegetables,Snacks,11
+2024-02-19,Frozen Vegetables,Snacks,10
+2024-02-20,Frozen Vegetables,Snacks,7
+2024-02-21,Frozen Vegetables,Snacks,17
+2024-02-22,Frozen Vegetables,Snacks,26
+2024-02-23,Frozen Vegetables,Snacks,26
+2024-02-24,Frozen Vegetables,Snacks,12
+2024-02-25,Frozen Vegetables,Snacks,28
+2024-02-26,Frozen Vegetables,Snacks,5
+2024-02-27,Frozen Vegetables,Snacks,1
+2024-02-28,Frozen Vegetables,Snacks,12
+2024-02-29,Frozen Vegetables,Snacks,1
+2024-03-01,Frozen Vegetables,Snacks,13
+2024-03-02,Frozen Vegetables,Snacks,12
+2024-03-03,Frozen Vegetables,Snacks,15
+2024-03-04,Frozen Vegetables,Snacks,8
+2024-03-05,Frozen Vegetables,Snacks,12
+2024-03-06,Frozen Vegetables,Snacks,21
+2024-03-07,Frozen Vegetables,Snacks,27
+2024-03-08,Frozen Vegetables,Snacks,11
+2024-03-09,Frozen Vegetables,Snacks,5
+2024-03-10,Frozen Vegetables,Snacks,27
+2024-03-11,Frozen Vegetables,Snacks,3
+2024-03-12,Frozen Vegetables,Snacks,27
+2024-03-13,Frozen Vegetables,Snacks,11
+2024-03-14,Frozen Vegetables,Snacks,18
+2024-03-15,Frozen Vegetables,Snacks,10
+2024-03-16,Frozen Vegetables,Snacks,20
+2024-03-17,Frozen Vegetables,Snacks,1
+2024-03-18,Frozen Vegetables,Snacks,23
+2024-03-19,Frozen Vegetables,Snacks,24
+2024-03-20,Frozen Vegetables,Snacks,18
+2024-03-21,Frozen Vegetables,Snacks,16
+2024-03-22,Frozen Vegetables,Snacks,1
+2024-03-23,Frozen Vegetables,Snacks,7
+2024-03-24,Frozen Vegetables,Snacks,15
+2024-03-25,Frozen Vegetables,Snacks,22
+2024-03-26,Frozen Vegetables,Snacks,5
+2024-03-27,Frozen Vegetables,Snacks,15
+2024-03-28,Frozen Vegetables,Snacks,22
+2024-03-29,Frozen Vegetables,Snacks,13
+2024-03-30,Frozen Vegetables,Snacks,6
+2024-03-31,Frozen Vegetables,Snacks,13
+2024-04-01,Frozen Vegetables,Snacks,25
+2024-04-02,Frozen Vegetables,Snacks,20
+2024-04-03,Frozen Vegetables,Snacks,1
+2024-04-04,Frozen Vegetables,Snacks,28
+2024-04-05,Frozen Vegetables,Snacks,4
+2024-04-06,Frozen Vegetables,Snacks,27
+2024-04-07,Frozen Vegetables,Snacks,24
+2024-04-08,Frozen Vegetables,Snacks,28
+2024-04-09,Frozen Vegetables,Snacks,10
+2024-04-10,Frozen Vegetables,Snacks,14
+2024-04-11,Frozen Vegetables,Snacks,4
+2024-04-12,Frozen Vegetables,Snacks,21
+2024-04-13,Frozen Vegetables,Snacks,19
+2024-04-14,Frozen Vegetables,Snacks,6
+2024-04-15,Frozen Vegetables,Snacks,9
+2024-04-16,Frozen Vegetables,Snacks,12
+2024-04-17,Frozen Vegetables,Snacks,14
+2024-04-18,Frozen Vegetables,Snacks,27
+2024-04-19,Frozen Vegetables,Snacks,28
+2024-04-20,Frozen Vegetables,Snacks,28
+2024-04-21,Frozen Vegetables,Snacks,21
+2024-04-22,Frozen Vegetables,Snacks,18
+2024-04-23,Frozen Vegetables,Snacks,3
+2024-04-24,Frozen Vegetables,Snacks,3
+2024-04-25,Frozen Vegetables,Snacks,4
+2024-04-26,Frozen Vegetables,Snacks,19
+2024-04-27,Frozen Vegetables,Snacks,1
+2024-04-28,Frozen Vegetables,Snacks,25
+2024-04-29,Frozen Vegetables,Snacks,15
+2024-04-30,Frozen Vegetables,Snacks,28
+2024-05-01,Frozen Vegetables,Snacks,27
+2024-05-02,Frozen Vegetables,Snacks,15
+2024-05-03,Frozen Vegetables,Snacks,14
+2024-05-04,Frozen Vegetables,Snacks,7
+2024-05-05,Frozen Vegetables,Snacks,4
+2024-05-06,Frozen Vegetables,Snacks,25
+2024-05-07,Frozen Vegetables,Snacks,11
+2024-05-08,Frozen Vegetables,Snacks,2
+2024-05-09,Frozen Vegetables,Snacks,28
+2024-05-10,Frozen Vegetables,Snacks,25
+2024-05-11,Frozen Vegetables,Snacks,25
+2024-05-12,Frozen Vegetables,Snacks,2
+2024-05-13,Frozen Vegetables,Snacks,7
+2024-05-14,Frozen Vegetables,Snacks,20
+2024-05-15,Frozen Vegetables,Snacks,15
+2024-05-16,Frozen Vegetables,Snacks,5
+2024-05-17,Frozen Vegetables,Snacks,21
+2024-05-18,Frozen Vegetables,Snacks,25
+2024-05-19,Frozen Vegetables,Snacks,22
+2024-05-20,Frozen Vegetables,Snacks,17
+2024-05-21,Frozen Vegetables,Snacks,5
+2024-05-22,Frozen Vegetables,Snacks,1
+2024-05-23,Frozen Vegetables,Snacks,16
+2024-05-24,Frozen Vegetables,Snacks,15
+2024-05-25,Frozen Vegetables,Snacks,16
+2024-05-26,Frozen Vegetables,Snacks,14
+2024-05-27,Frozen Vegetables,Snacks,7
+2024-05-28,Frozen Vegetables,Snacks,3
+2024-05-29,Frozen Vegetables,Snacks,2
+2024-05-30,Frozen Vegetables,Snacks,23
+2024-05-31,Frozen Vegetables,Snacks,25
+2024-06-01,Frozen Vegetables,Snacks,21
+2024-06-02,Frozen Vegetables,Snacks,4
+2024-06-03,Frozen Vegetables,Snacks,10
+2024-06-04,Frozen Vegetables,Snacks,13
+2024-06-05,Frozen Vegetables,Snacks,21
+2024-06-06,Frozen Vegetables,Snacks,7
+2024-06-07,Frozen Vegetables,Snacks,20
+2024-06-08,Frozen Vegetables,Snacks,25
+2024-06-09,Frozen Vegetables,Snacks,6
+2024-06-10,Frozen Vegetables,Snacks,19
+2024-06-11,Frozen Vegetables,Snacks,12
+2024-06-12,Frozen Vegetables,Snacks,18
+2024-06-13,Frozen Vegetables,Snacks,4
+2024-06-14,Frozen Vegetables,Snacks,15
+2024-06-15,Frozen Vegetables,Snacks,9
+2024-06-16,Frozen Vegetables,Snacks,18
+2024-06-17,Frozen Vegetables,Snacks,3
+2024-06-18,Frozen Vegetables,Snacks,19
+2024-06-19,Frozen Vegetables,Snacks,21
+2024-06-20,Frozen Vegetables,Snacks,5
+2024-06-21,Frozen Vegetables,Snacks,10
+2024-06-22,Frozen Vegetables,Snacks,11
+2024-06-23,Frozen Vegetables,Snacks,7
+2024-06-24,Frozen Vegetables,Snacks,1
+2024-06-25,Frozen Vegetables,Snacks,2
+2024-06-26,Frozen Vegetables,Snacks,5
+2024-06-27,Frozen Vegetables,Snacks,5
+2024-06-28,Frozen Vegetables,Snacks,13
+2024-06-29,Frozen Vegetables,Snacks,7
+2024-06-30,Frozen Vegetables,Snacks,28
+2024-07-01,Frozen Vegetables,Snacks,7
+2024-07-02,Frozen Vegetables,Snacks,19
+2024-07-03,Frozen Vegetables,Snacks,20
+2024-07-04,Frozen Vegetables,Snacks,2
+2024-07-05,Frozen Vegetables,Snacks,12
+2024-07-06,Frozen Vegetables,Snacks,11
+2024-07-07,Frozen Vegetables,Snacks,16
+2024-07-08,Frozen Vegetables,Snacks,18
+2024-07-09,Frozen Vegetables,Snacks,19
+2024-07-10,Frozen Vegetables,Snacks,27
+2024-07-11,Frozen Vegetables,Snacks,16
+2024-07-12,Frozen Vegetables,Snacks,23
+2024-07-13,Frozen Vegetables,Snacks,6
+2024-07-14,Frozen Vegetables,Snacks,17
+2024-07-15,Frozen Vegetables,Snacks,9
+2024-07-16,Frozen Vegetables,Snacks,1
+2024-07-17,Frozen Vegetables,Snacks,23
+2024-07-18,Frozen Vegetables,Snacks,8
+2024-07-19,Frozen Vegetables,Snacks,6
+2024-07-20,Frozen Vegetables,Snacks,28
+2024-07-21,Frozen Vegetables,Snacks,17
+2024-07-22,Frozen Vegetables,Snacks,2
+2024-07-23,Frozen Vegetables,Snacks,7
+2024-07-24,Frozen Vegetables,Snacks,14
+2024-07-25,Frozen Vegetables,Snacks,16
+2024-07-26,Frozen Vegetables,Snacks,5
+2024-07-27,Frozen Vegetables,Snacks,9
+2024-07-28,Frozen Vegetables,Snacks,24
+2024-07-29,Frozen Vegetables,Snacks,4
+2024-07-30,Frozen Vegetables,Snacks,21
+2024-07-31,Frozen Vegetables,Snacks,14
+2024-08-01,Frozen Vegetables,Snacks,26
+2024-08-02,Frozen Vegetables,Snacks,19
+2024-08-03,Frozen Vegetables,Snacks,18
+2024-08-04,Frozen Vegetables,Snacks,28
+2024-08-05,Frozen Vegetables,Snacks,28
+2024-08-06,Frozen Vegetables,Snacks,12
+2024-08-07,Frozen Vegetables,Snacks,21
+2024-08-08,Frozen Vegetables,Snacks,4
+2024-08-09,Frozen Vegetables,Snacks,23
+2024-08-10,Frozen Vegetables,Snacks,26
+2024-08-11,Frozen Vegetables,Snacks,13
+2024-08-12,Frozen Vegetables,Snacks,26
+2024-08-13,Frozen Vegetables,Snacks,17
+2024-08-14,Frozen Vegetables,Snacks,22
+2024-08-15,Frozen Vegetables,Snacks,9
+2024-08-16,Frozen Vegetables,Snacks,6
+2024-08-17,Frozen Vegetables,Snacks,9
+2024-08-18,Frozen Vegetables,Snacks,2
+2024-08-19,Frozen Vegetables,Snacks,27
+2024-08-20,Frozen Vegetables,Snacks,8
+2024-08-21,Frozen Vegetables,Snacks,16
+2024-08-22,Frozen Vegetables,Snacks,10
+2024-08-23,Frozen Vegetables,Snacks,9
+2024-08-24,Frozen Vegetables,Snacks,3
+2024-08-25,Frozen Vegetables,Snacks,6
+2024-08-26,Frozen Vegetables,Snacks,21
+2024-08-27,Frozen Vegetables,Snacks,6
+2024-08-28,Frozen Vegetables,Snacks,12
+2024-08-29,Frozen Vegetables,Snacks,11
+2024-08-30,Frozen Vegetables,Snacks,14
+2024-08-31,Frozen Vegetables,Snacks,9
+2024-09-01,Frozen Vegetables,Snacks,14
+2024-09-02,Frozen Vegetables,Snacks,3
+2024-09-03,Frozen Vegetables,Snacks,24
+2024-09-04,Frozen Vegetables,Snacks,16
+2024-09-05,Frozen Vegetables,Snacks,28
+2024-09-06,Frozen Vegetables,Snacks,23
+2024-09-07,Frozen Vegetables,Snacks,10
+2024-09-08,Frozen Vegetables,Snacks,11
+2024-09-09,Frozen Vegetables,Snacks,9
+2024-09-10,Frozen Vegetables,Snacks,4
+2024-09-11,Frozen Vegetables,Snacks,27
+2024-09-12,Frozen Vegetables,Snacks,3
+2024-09-13,Frozen Vegetables,Snacks,11
+2024-09-14,Frozen Vegetables,Snacks,9
+2024-09-15,Frozen Vegetables,Snacks,19
+2024-09-16,Frozen Vegetables,Snacks,15
+2024-09-17,Frozen Vegetables,Snacks,3
+2024-09-18,Frozen Vegetables,Snacks,1
+2024-09-19,Frozen Vegetables,Snacks,15
+2024-09-20,Frozen Vegetables,Snacks,11
+2024-09-21,Frozen Vegetables,Snacks,20
+2024-09-22,Frozen Vegetables,Snacks,7
+2024-09-23,Frozen Vegetables,Snacks,24
+2024-09-24,Frozen Vegetables,Snacks,2
+2024-09-25,Frozen Vegetables,Snacks,26
+2024-09-26,Frozen Vegetables,Snacks,7
+2024-09-27,Frozen Vegetables,Snacks,25
+2024-09-28,Frozen Vegetables,Snacks,4
+2024-09-29,Frozen Vegetables,Snacks,9
+2024-09-30,Frozen Vegetables,Snacks,26
+2024-10-01,Frozen Vegetables,Snacks,20
+2024-10-02,Frozen Vegetables,Snacks,10
+2024-10-03,Frozen Vegetables,Snacks,10
+2024-10-04,Frozen Vegetables,Snacks,15
+2024-10-05,Frozen Vegetables,Snacks,17
+2024-10-06,Frozen Vegetables,Snacks,27
+2024-10-07,Frozen Vegetables,Snacks,22
+2024-10-08,Frozen Vegetables,Snacks,4
+2024-10-09,Frozen Vegetables,Snacks,14
+2024-10-10,Frozen Vegetables,Snacks,21
+2024-10-11,Frozen Vegetables,Snacks,28
+2023-10-13,Butter,Snacks,72
+2023-10-14,Butter,Snacks,50
+2023-10-15,Butter,Snacks,30
+2023-10-16,Butter,Snacks,41
+2023-10-17,Butter,Snacks,12
+2023-10-18,Butter,Snacks,83
+2023-10-19,Butter,Snacks,54
+2023-10-20,Butter,Snacks,46
+2023-10-21,Butter,Snacks,69
+2023-10-22,Butter,Snacks,76
+2023-10-23,Butter,Snacks,70
+2023-10-24,Butter,Snacks,5
+2023-10-25,Butter,Snacks,88
+2023-10-26,Butter,Snacks,18
+2023-10-27,Butter,Snacks,25
+2023-10-28,Butter,Snacks,58
+2023-10-29,Butter,Snacks,56
+2023-10-30,Butter,Snacks,28
+2023-10-31,Butter,Snacks,49
+2023-11-01,Butter,Snacks,88
+2023-11-02,Butter,Snacks,87
+2023-11-03,Butter,Snacks,65
+2023-11-04,Butter,Snacks,78
+2023-11-05,Butter,Snacks,83
+2023-11-06,Butter,Snacks,38
+2023-11-07,Butter,Snacks,70
+2023-11-08,Butter,Snacks,34
+2023-11-09,Butter,Snacks,23
+2023-11-10,Butter,Snacks,14
+2023-11-11,Butter,Snacks,86
+2023-11-12,Butter,Snacks,38
+2023-11-13,Butter,Snacks,78
+2023-11-14,Butter,Snacks,86
+2023-11-15,Butter,Snacks,45
+2023-11-16,Butter,Snacks,61
+2023-11-17,Butter,Snacks,9
+2023-11-18,Butter,Snacks,75
+2023-11-19,Butter,Snacks,76
+2023-11-20,Butter,Snacks,89
+2023-11-21,Butter,Snacks,2
+2023-11-22,Butter,Snacks,9
+2023-11-23,Butter,Snacks,50
+2023-11-24,Butter,Snacks,45
+2023-11-25,Butter,Snacks,35
+2023-11-26,Butter,Snacks,62
+2023-11-27,Butter,Snacks,78
+2023-11-28,Butter,Snacks,57
+2023-11-29,Butter,Snacks,83
+2023-11-30,Butter,Snacks,46
+2023-12-01,Butter,Snacks,69
+2023-12-02,Butter,Snacks,81
+2023-12-03,Butter,Snacks,86
+2023-12-04,Butter,Snacks,75
+2023-12-05,Butter,Snacks,30
+2023-12-06,Butter,Snacks,50
+2023-12-07,Butter,Snacks,15
+2023-12-08,Butter,Snacks,36
+2023-12-09,Butter,Snacks,39
+2023-12-10,Butter,Snacks,81
+2023-12-11,Butter,Snacks,60
+2023-12-12,Butter,Snacks,27
+2023-12-13,Butter,Snacks,54
+2023-12-14,Butter,Snacks,2
+2023-12-15,Butter,Snacks,70
+2023-12-16,Butter,Snacks,4
+2023-12-17,Butter,Snacks,87
+2023-12-18,Butter,Snacks,47
+2023-12-19,Butter,Snacks,48
+2023-12-20,Butter,Snacks,57
+2023-12-21,Butter,Snacks,65
+2023-12-22,Butter,Snacks,58
+2023-12-23,Butter,Snacks,51
+2023-12-24,Butter,Snacks,47
+2023-12-25,Butter,Snacks,77
+2023-12-26,Butter,Snacks,70
+2023-12-27,Butter,Snacks,34
+2023-12-28,Butter,Snacks,37
+2023-12-29,Butter,Snacks,80
+2023-12-30,Butter,Snacks,55
+2023-12-31,Butter,Snacks,44
+2024-01-01,Butter,Snacks,79
+2024-01-02,Butter,Snacks,68
+2024-01-03,Butter,Snacks,43
+2024-01-04,Butter,Snacks,76
+2024-01-05,Butter,Snacks,10
+2024-01-06,Butter,Snacks,66
+2024-01-07,Butter,Snacks,88
+2024-01-08,Butter,Snacks,16
+2024-01-09,Butter,Snacks,35
+2024-01-10,Butter,Snacks,40
+2024-01-11,Butter,Snacks,81
+2024-01-12,Butter,Snacks,72
+2024-01-13,Butter,Snacks,62
+2024-01-14,Butter,Snacks,34
+2024-01-15,Butter,Snacks,42
+2024-01-16,Butter,Snacks,81
+2024-01-17,Butter,Snacks,4
+2024-01-18,Butter,Snacks,63
+2024-01-19,Butter,Snacks,23
+2024-01-20,Butter,Snacks,11
+2024-01-21,Butter,Snacks,23
+2024-01-22,Butter,Snacks,61
+2024-01-23,Butter,Snacks,69
+2024-01-24,Butter,Snacks,52
+2024-01-25,Butter,Snacks,61
+2024-01-26,Butter,Snacks,5
+2024-01-27,Butter,Snacks,17
+2024-01-28,Butter,Snacks,87
+2024-01-29,Butter,Snacks,34
+2024-01-30,Butter,Snacks,16
+2024-01-31,Butter,Snacks,4
+2024-02-01,Butter,Snacks,52
+2024-02-02,Butter,Snacks,20
+2024-02-03,Butter,Snacks,48
+2024-02-04,Butter,Snacks,51
+2024-02-05,Butter,Snacks,45
+2024-02-06,Butter,Snacks,80
+2024-02-07,Butter,Snacks,49
+2024-02-08,Butter,Snacks,56
+2024-02-09,Butter,Snacks,3
+2024-02-10,Butter,Snacks,42
+2024-02-11,Butter,Snacks,71
+2024-02-12,Butter,Snacks,42
+2024-02-13,Butter,Snacks,85
+2024-02-14,Butter,Snacks,29
+2024-02-15,Butter,Snacks,17
+2024-02-16,Butter,Snacks,85
+2024-02-17,Butter,Snacks,28
+2024-02-18,Butter,Snacks,60
+2024-02-19,Butter,Snacks,87
+2024-02-20,Butter,Snacks,47
+2024-02-21,Butter,Snacks,11
+2024-02-22,Butter,Snacks,65
+2024-02-23,Butter,Snacks,60
+2024-02-24,Butter,Snacks,88
+2024-02-25,Butter,Snacks,61
+2024-02-26,Butter,Snacks,77
+2024-02-27,Butter,Snacks,43
+2024-02-28,Butter,Snacks,39
+2024-02-29,Butter,Snacks,1
+2024-03-01,Butter,Snacks,9
+2024-03-02,Butter,Snacks,85
+2024-03-03,Butter,Snacks,74
+2024-03-04,Butter,Snacks,9
+2024-03-05,Butter,Snacks,3
+2024-03-06,Butter,Snacks,29
+2024-03-07,Butter,Snacks,86
+2024-03-08,Butter,Snacks,42
+2024-03-09,Butter,Snacks,43
+2024-03-10,Butter,Snacks,24
+2024-03-11,Butter,Snacks,3
+2024-03-12,Butter,Snacks,8
+2024-03-13,Butter,Snacks,45
+2024-03-14,Butter,Snacks,26
+2024-03-15,Butter,Snacks,51
+2024-03-16,Butter,Snacks,55
+2024-03-17,Butter,Snacks,33
+2024-03-18,Butter,Snacks,35
+2024-03-19,Butter,Snacks,80
+2024-03-20,Butter,Snacks,11
+2024-03-21,Butter,Snacks,49
+2024-03-22,Butter,Snacks,79
+2024-03-23,Butter,Snacks,25
+2024-03-24,Butter,Snacks,78
+2024-03-25,Butter,Snacks,73
+2024-03-26,Butter,Snacks,10
+2024-03-27,Butter,Snacks,87
+2024-03-28,Butter,Snacks,45
+2024-03-29,Butter,Snacks,6
+2024-03-30,Butter,Snacks,28
+2024-03-31,Butter,Snacks,13
+2024-04-01,Butter,Snacks,77
+2024-04-02,Butter,Snacks,64
+2024-04-03,Butter,Snacks,30
+2024-04-04,Butter,Snacks,5
+2024-04-05,Butter,Snacks,71
+2024-04-06,Butter,Snacks,55
+2024-04-07,Butter,Snacks,87
+2024-04-08,Butter,Snacks,52
+2024-04-09,Butter,Snacks,28
+2024-04-10,Butter,Snacks,24
+2024-04-11,Butter,Snacks,77
+2024-04-12,Butter,Snacks,49
+2024-04-13,Butter,Snacks,77
+2024-04-14,Butter,Snacks,48
+2024-04-15,Butter,Snacks,31
+2024-04-16,Butter,Snacks,24
+2024-04-17,Butter,Snacks,71
+2024-04-18,Butter,Snacks,20
+2024-04-19,Butter,Snacks,2
+2024-04-20,Butter,Snacks,82
+2024-04-21,Butter,Snacks,76
+2024-04-22,Butter,Snacks,58
+2024-04-23,Butter,Snacks,54
+2024-04-24,Butter,Snacks,85
+2024-04-25,Butter,Snacks,39
+2024-04-26,Butter,Snacks,19
+2024-04-27,Butter,Snacks,70
+2024-04-28,Butter,Snacks,73
+2024-04-29,Butter,Snacks,4
+2024-04-30,Butter,Snacks,20
+2024-05-01,Butter,Snacks,3
+2024-05-02,Butter,Snacks,73
+2024-05-03,Butter,Snacks,62
+2024-05-04,Butter,Snacks,69
+2024-05-05,Butter,Snacks,68
+2024-05-06,Butter,Snacks,19
+2024-05-07,Butter,Snacks,16
+2024-05-08,Butter,Snacks,22
+2024-05-09,Butter,Snacks,80
+2024-05-10,Butter,Snacks,21
+2024-05-11,Butter,Snacks,56
+2024-05-12,Butter,Snacks,60
+2024-05-13,Butter,Snacks,34
+2024-05-14,Butter,Snacks,69
+2024-05-15,Butter,Snacks,80
+2024-05-16,Butter,Snacks,66
+2024-05-17,Butter,Snacks,13
+2024-05-18,Butter,Snacks,78
+2024-05-19,Butter,Snacks,21
+2024-05-20,Butter,Snacks,60
+2024-05-21,Butter,Snacks,68
+2024-05-22,Butter,Snacks,74
+2024-05-23,Butter,Snacks,46
+2024-05-24,Butter,Snacks,16
+2024-05-25,Butter,Snacks,55
+2024-05-26,Butter,Snacks,11
+2024-05-27,Butter,Snacks,33
+2024-05-28,Butter,Snacks,86
+2024-05-29,Butter,Snacks,50
+2024-05-30,Butter,Snacks,52
+2024-05-31,Butter,Snacks,75
+2024-06-01,Butter,Snacks,62
+2024-06-02,Butter,Snacks,41
+2024-06-03,Butter,Snacks,11
+2024-06-04,Butter,Snacks,7
+2024-06-05,Butter,Snacks,79
+2024-06-06,Butter,Snacks,84
+2024-06-07,Butter,Snacks,16
+2024-06-08,Butter,Snacks,29
+2024-06-09,Butter,Snacks,5
+2024-06-10,Butter,Snacks,85
+2024-06-11,Butter,Snacks,64
+2024-06-12,Butter,Snacks,15
+2024-06-13,Butter,Snacks,6
+2024-06-14,Butter,Snacks,49
+2024-06-15,Butter,Snacks,87
+2024-06-16,Butter,Snacks,51
+2024-06-17,Butter,Snacks,42
+2024-06-18,Butter,Snacks,65
+2024-06-19,Butter,Snacks,5
+2024-06-20,Butter,Snacks,73
+2024-06-21,Butter,Snacks,79
+2024-06-22,Butter,Snacks,24
+2024-06-23,Butter,Snacks,37
+2024-06-24,Butter,Snacks,53
+2024-06-25,Butter,Snacks,6
+2024-06-26,Butter,Snacks,39
+2024-06-27,Butter,Snacks,75
+2024-06-28,Butter,Snacks,89
+2024-06-29,Butter,Snacks,62
+2024-06-30,Butter,Snacks,82
+2024-07-01,Butter,Snacks,86
+2024-07-02,Butter,Snacks,60
+2024-07-03,Butter,Snacks,41
+2024-07-04,Butter,Snacks,78
+2024-07-05,Butter,Snacks,10
+2024-07-06,Butter,Snacks,81
+2024-07-07,Butter,Snacks,70
+2024-07-08,Butter,Snacks,7
+2024-07-09,Butter,Snacks,5
+2024-07-10,Butter,Snacks,27
+2024-07-11,Butter,Snacks,35
+2024-07-12,Butter,Snacks,55
+2024-07-13,Butter,Snacks,17
+2024-07-14,Butter,Snacks,7
+2024-07-15,Butter,Snacks,61
+2024-07-16,Butter,Snacks,65
+2024-07-17,Butter,Snacks,15
+2024-07-18,Butter,Snacks,58
+2024-07-19,Butter,Snacks,49
+2024-07-20,Butter,Snacks,75
+2024-07-21,Butter,Snacks,52
+2024-07-22,Butter,Snacks,26
+2024-07-23,Butter,Snacks,43
+2024-07-24,Butter,Snacks,53
+2024-07-25,Butter,Snacks,56
+2024-07-26,Butter,Snacks,78
+2024-07-27,Butter,Snacks,77
+2024-07-28,Butter,Snacks,68
+2024-07-29,Butter,Snacks,33
+2024-07-30,Butter,Snacks,14
+2024-07-31,Butter,Snacks,77
+2024-08-01,Butter,Snacks,17
+2024-08-02,Butter,Snacks,39
+2024-08-03,Butter,Snacks,48
+2024-08-04,Butter,Snacks,6
+2024-08-05,Butter,Snacks,22
+2024-08-06,Butter,Snacks,87
+2024-08-07,Butter,Snacks,37
+2024-08-08,Butter,Snacks,43
+2024-08-09,Butter,Snacks,45
+2024-08-10,Butter,Snacks,65
+2024-08-11,Butter,Snacks,4
+2024-08-12,Butter,Snacks,68
+2024-08-13,Butter,Snacks,57
+2024-08-14,Butter,Snacks,34
+2024-08-15,Butter,Snacks,30
+2024-08-16,Butter,Snacks,39
+2024-08-17,Butter,Snacks,79
+2024-08-18,Butter,Snacks,39
+2024-08-19,Butter,Snacks,72
+2024-08-20,Butter,Snacks,17
+2024-08-21,Butter,Snacks,12
+2024-08-22,Butter,Snacks,6
+2024-08-23,Butter,Snacks,29
+2024-08-24,Butter,Snacks,14
+2024-08-25,Butter,Snacks,1
+2024-08-26,Butter,Snacks,39
+2024-08-27,Butter,Snacks,6
+2024-08-28,Butter,Snacks,44
+2024-08-29,Butter,Snacks,41
+2024-08-30,Butter,Snacks,32
+2024-08-31,Butter,Snacks,84
+2024-09-01,Butter,Snacks,5
+2024-09-02,Butter,Snacks,47
+2024-09-03,Butter,Snacks,17
+2024-09-04,Butter,Snacks,33
+2024-09-05,Butter,Snacks,42
+2024-09-06,Butter,Snacks,23
+2024-09-07,Butter,Snacks,70
+2024-09-08,Butter,Snacks,50
+2024-09-09,Butter,Snacks,29
+2024-09-10,Butter,Snacks,64
+2024-09-11,Butter,Snacks,4
+2024-09-12,Butter,Snacks,7
+2024-09-13,Butter,Snacks,79
+2024-09-14,Butter,Snacks,62
+2024-09-15,Butter,Snacks,59
+2024-09-16,Butter,Snacks,21
+2024-09-17,Butter,Snacks,16
+2024-09-18,Butter,Snacks,70
+2024-09-19,Butter,Snacks,13
+2024-09-20,Butter,Snacks,8
+2024-09-21,Butter,Snacks,61
+2024-09-22,Butter,Snacks,3
+2024-09-23,Butter,Snacks,46
+2024-09-24,Butter,Snacks,62
+2024-09-25,Butter,Snacks,23
+2024-09-26,Butter,Snacks,8
+2024-09-27,Butter,Snacks,20
+2024-09-28,Butter,Snacks,30
+2024-09-29,Butter,Snacks,75
+2024-09-30,Butter,Snacks,54
+2024-10-01,Butter,Snacks,20
+2024-10-02,Butter,Snacks,2
+2024-10-03,Butter,Snacks,17
+2024-10-04,Butter,Snacks,15
+2024-10-05,Butter,Snacks,65
+2024-10-06,Butter,Snacks,69
+2024-10-07,Butter,Snacks,69
+2024-10-08,Butter,Snacks,72
+2024-10-09,Butter,Snacks,68
+2024-10-10,Butter,Snacks,43
+2024-10-11,Butter,Snacks,12
+2023-10-13,Yogurt,Snacks,36
+2023-10-14,Yogurt,Snacks,30
+2023-10-15,Yogurt,Snacks,19
+2023-10-16,Yogurt,Snacks,22
+2023-10-17,Yogurt,Snacks,28
+2023-10-18,Yogurt,Snacks,30
+2023-10-19,Yogurt,Snacks,6
+2023-10-20,Yogurt,Snacks,41
+2023-10-21,Yogurt,Snacks,20
+2023-10-22,Yogurt,Snacks,15
+2023-10-23,Yogurt,Snacks,8
+2023-10-24,Yogurt,Snacks,37
+2023-10-25,Yogurt,Snacks,28
+2023-10-26,Yogurt,Snacks,11
+2023-10-27,Yogurt,Snacks,6
+2023-10-28,Yogurt,Snacks,27
+2023-10-29,Yogurt,Snacks,11
+2023-10-30,Yogurt,Snacks,19
+2023-10-31,Yogurt,Snacks,12
+2023-11-01,Yogurt,Snacks,17
+2023-11-02,Yogurt,Snacks,8
+2023-11-03,Yogurt,Snacks,31
+2023-11-04,Yogurt,Snacks,19
+2023-11-05,Yogurt,Snacks,20
+2023-11-06,Yogurt,Snacks,2
+2023-11-07,Yogurt,Snacks,6
+2023-11-08,Yogurt,Snacks,41
+2023-11-09,Yogurt,Snacks,27
+2023-11-10,Yogurt,Snacks,18
+2023-11-11,Yogurt,Snacks,20
+2023-11-12,Yogurt,Snacks,9
+2023-11-13,Yogurt,Snacks,3
+2023-11-14,Yogurt,Snacks,40
+2023-11-15,Yogurt,Snacks,38
+2023-11-16,Yogurt,Snacks,18
+2023-11-17,Yogurt,Snacks,12
+2023-11-18,Yogurt,Snacks,19
+2023-11-19,Yogurt,Snacks,26
+2023-11-20,Yogurt,Snacks,33
+2023-11-21,Yogurt,Snacks,33
+2023-11-22,Yogurt,Snacks,6
+2023-11-23,Yogurt,Snacks,9
+2023-11-24,Yogurt,Snacks,10
+2023-11-25,Yogurt,Snacks,27
+2023-11-26,Yogurt,Snacks,17
+2023-11-27,Yogurt,Snacks,20
+2023-11-28,Yogurt,Snacks,13
+2023-11-29,Yogurt,Snacks,31
+2023-11-30,Yogurt,Snacks,17
+2023-12-01,Yogurt,Snacks,11
+2023-12-02,Yogurt,Snacks,27
+2023-12-03,Yogurt,Snacks,13
+2023-12-04,Yogurt,Snacks,40
+2023-12-05,Yogurt,Snacks,36
+2023-12-06,Yogurt,Snacks,15
+2023-12-07,Yogurt,Snacks,22
+2023-12-08,Yogurt,Snacks,25
+2023-12-09,Yogurt,Snacks,19
+2023-12-10,Yogurt,Snacks,29
+2023-12-11,Yogurt,Snacks,23
+2023-12-12,Yogurt,Snacks,19
+2023-12-13,Yogurt,Snacks,3
+2023-12-14,Yogurt,Snacks,19
+2023-12-15,Yogurt,Snacks,13
+2023-12-16,Yogurt,Snacks,33
+2023-12-17,Yogurt,Snacks,24
+2023-12-18,Yogurt,Snacks,38
+2023-12-19,Yogurt,Snacks,35
+2023-12-20,Yogurt,Snacks,33
+2023-12-21,Yogurt,Snacks,2
+2023-12-22,Yogurt,Snacks,19
+2023-12-23,Yogurt,Snacks,39
+2023-12-24,Yogurt,Snacks,33
+2023-12-25,Yogurt,Snacks,27
+2023-12-26,Yogurt,Snacks,2
+2023-12-27,Yogurt,Snacks,33
+2023-12-28,Yogurt,Snacks,7
+2023-12-29,Yogurt,Snacks,10
+2023-12-30,Yogurt,Snacks,28
+2023-12-31,Yogurt,Snacks,25
+2024-01-01,Yogurt,Snacks,31
+2024-01-02,Yogurt,Snacks,13
+2024-01-03,Yogurt,Snacks,31
+2024-01-04,Yogurt,Snacks,29
+2024-01-05,Yogurt,Snacks,40
+2024-01-06,Yogurt,Snacks,9
+2024-01-07,Yogurt,Snacks,31
+2024-01-08,Yogurt,Snacks,41
+2024-01-09,Yogurt,Snacks,29
+2024-01-10,Yogurt,Snacks,4
+2024-01-11,Yogurt,Snacks,17
+2024-01-12,Yogurt,Snacks,17
+2024-01-13,Yogurt,Snacks,19
+2024-01-14,Yogurt,Snacks,3
+2024-01-15,Yogurt,Snacks,33
+2024-01-16,Yogurt,Snacks,37
+2024-01-17,Yogurt,Snacks,18
+2024-01-18,Yogurt,Snacks,21
+2024-01-19,Yogurt,Snacks,24
+2024-01-20,Yogurt,Snacks,16
+2024-01-21,Yogurt,Snacks,31
+2024-01-22,Yogurt,Snacks,3
+2024-01-23,Yogurt,Snacks,17
+2024-01-24,Yogurt,Snacks,33
+2024-01-25,Yogurt,Snacks,7
+2024-01-26,Yogurt,Snacks,40
+2024-01-27,Yogurt,Snacks,22
+2024-01-28,Yogurt,Snacks,7
+2024-01-29,Yogurt,Snacks,33
+2024-01-30,Yogurt,Snacks,5
+2024-01-31,Yogurt,Snacks,13
+2024-02-01,Yogurt,Snacks,30
+2024-02-02,Yogurt,Snacks,10
+2024-02-03,Yogurt,Snacks,14
+2024-02-04,Yogurt,Snacks,7
+2024-02-05,Yogurt,Snacks,31
+2024-02-06,Yogurt,Snacks,4
+2024-02-07,Yogurt,Snacks,4
+2024-02-08,Yogurt,Snacks,14
+2024-02-09,Yogurt,Snacks,15
+2024-02-10,Yogurt,Snacks,35
+2024-02-11,Yogurt,Snacks,34
+2024-02-12,Yogurt,Snacks,14
+2024-02-13,Yogurt,Snacks,13
+2024-02-14,Yogurt,Snacks,24
+2024-02-15,Yogurt,Snacks,23
+2024-02-16,Yogurt,Snacks,16
+2024-02-17,Yogurt,Snacks,35
+2024-02-18,Yogurt,Snacks,27
+2024-02-19,Yogurt,Snacks,34
+2024-02-20,Yogurt,Snacks,21
+2024-02-21,Yogurt,Snacks,8
+2024-02-22,Yogurt,Snacks,33
+2024-02-23,Yogurt,Snacks,28
+2024-02-24,Yogurt,Snacks,27
+2024-02-25,Yogurt,Snacks,17
+2024-02-26,Yogurt,Snacks,14
+2024-02-27,Yogurt,Snacks,30
+2024-02-28,Yogurt,Snacks,17
+2024-02-29,Yogurt,Snacks,38
+2024-03-01,Yogurt,Snacks,3
+2024-03-02,Yogurt,Snacks,6
+2024-03-03,Yogurt,Snacks,25
+2024-03-04,Yogurt,Snacks,6
+2024-03-05,Yogurt,Snacks,36
+2024-03-06,Yogurt,Snacks,39
+2024-03-07,Yogurt,Snacks,36
+2024-03-08,Yogurt,Snacks,3
+2024-03-09,Yogurt,Snacks,35
+2024-03-10,Yogurt,Snacks,19
+2024-03-11,Yogurt,Snacks,11
+2024-03-12,Yogurt,Snacks,15
+2024-03-13,Yogurt,Snacks,37
+2024-03-14,Yogurt,Snacks,32
+2024-03-15,Yogurt,Snacks,31
+2024-03-16,Yogurt,Snacks,22
+2024-03-17,Yogurt,Snacks,7
+2024-03-18,Yogurt,Snacks,1
+2024-03-19,Yogurt,Snacks,32
+2024-03-20,Yogurt,Snacks,21
+2024-03-21,Yogurt,Snacks,34
+2024-03-22,Yogurt,Snacks,39
+2024-03-23,Yogurt,Snacks,8
+2024-03-24,Yogurt,Snacks,27
+2024-03-25,Yogurt,Snacks,23
+2024-03-26,Yogurt,Snacks,16
+2024-03-27,Yogurt,Snacks,14
+2024-03-28,Yogurt,Snacks,25
+2024-03-29,Yogurt,Snacks,5
+2024-03-30,Yogurt,Snacks,3
+2024-03-31,Yogurt,Snacks,4
+2024-04-01,Yogurt,Snacks,11
+2024-04-02,Yogurt,Snacks,8
+2024-04-03,Yogurt,Snacks,33
+2024-04-04,Yogurt,Snacks,22
+2024-04-05,Yogurt,Snacks,15
+2024-04-06,Yogurt,Snacks,12
+2024-04-07,Yogurt,Snacks,24
+2024-04-08,Yogurt,Snacks,7
+2024-04-09,Yogurt,Snacks,24
+2024-04-10,Yogurt,Snacks,14
+2024-04-11,Yogurt,Snacks,13
+2024-04-12,Yogurt,Snacks,10
+2024-04-13,Yogurt,Snacks,1
+2024-04-14,Yogurt,Snacks,5
+2024-04-15,Yogurt,Snacks,34
+2024-04-16,Yogurt,Snacks,8
+2024-04-17,Yogurt,Snacks,14
+2024-04-18,Yogurt,Snacks,37
+2024-04-19,Yogurt,Snacks,17
+2024-04-20,Yogurt,Snacks,22
+2024-04-21,Yogurt,Snacks,1
+2024-04-22,Yogurt,Snacks,39
+2024-04-23,Yogurt,Snacks,12
+2024-04-24,Yogurt,Snacks,30
+2024-04-25,Yogurt,Snacks,29
+2024-04-26,Yogurt,Snacks,16
+2024-04-27,Yogurt,Snacks,2
+2024-04-28,Yogurt,Snacks,15
+2024-04-29,Yogurt,Snacks,8
+2024-04-30,Yogurt,Snacks,6
+2024-05-01,Yogurt,Snacks,38
+2024-05-02,Yogurt,Snacks,5
+2024-05-03,Yogurt,Snacks,14
+2024-05-04,Yogurt,Snacks,4
+2024-05-05,Yogurt,Snacks,3
+2024-05-06,Yogurt,Snacks,32
+2024-05-07,Yogurt,Snacks,24
+2024-05-08,Yogurt,Snacks,24
+2024-05-09,Yogurt,Snacks,30
+2024-05-10,Yogurt,Snacks,12
+2024-05-11,Yogurt,Snacks,25
+2024-05-12,Yogurt,Snacks,18
+2024-05-13,Yogurt,Snacks,18
+2024-05-14,Yogurt,Snacks,29
+2024-05-15,Yogurt,Snacks,21
+2024-05-16,Yogurt,Snacks,2
+2024-05-17,Yogurt,Snacks,32
+2024-05-18,Yogurt,Snacks,30
+2024-05-19,Yogurt,Snacks,28
+2024-05-20,Yogurt,Snacks,25
+2024-05-21,Yogurt,Snacks,39
+2024-05-22,Yogurt,Snacks,29
+2024-05-23,Yogurt,Snacks,8
+2024-05-24,Yogurt,Snacks,31
+2024-05-25,Yogurt,Snacks,2
+2024-05-26,Yogurt,Snacks,18
+2024-05-27,Yogurt,Snacks,21
+2024-05-28,Yogurt,Snacks,37
+2024-05-29,Yogurt,Snacks,38
+2024-05-30,Yogurt,Snacks,22
+2024-05-31,Yogurt,Snacks,30
+2024-06-01,Yogurt,Snacks,19
+2024-06-02,Yogurt,Snacks,21
+2024-06-03,Yogurt,Snacks,14
+2024-06-04,Yogurt,Snacks,13
+2024-06-05,Yogurt,Snacks,35
+2024-06-06,Yogurt,Snacks,19
+2024-06-07,Yogurt,Snacks,4
+2024-06-08,Yogurt,Snacks,21
+2024-06-09,Yogurt,Snacks,24
+2024-06-10,Yogurt,Snacks,13
+2024-06-11,Yogurt,Snacks,22
+2024-06-12,Yogurt,Snacks,23
+2024-06-13,Yogurt,Snacks,17
+2024-06-14,Yogurt,Snacks,20
+2024-06-15,Yogurt,Snacks,32
+2024-06-16,Yogurt,Snacks,40
+2024-06-17,Yogurt,Snacks,41
+2024-06-18,Yogurt,Snacks,15
+2024-06-19,Yogurt,Snacks,11
+2024-06-20,Yogurt,Snacks,37
+2024-06-21,Yogurt,Snacks,40
+2024-06-22,Yogurt,Snacks,4
+2024-06-23,Yogurt,Snacks,38
+2024-06-24,Yogurt,Snacks,17
+2024-06-25,Yogurt,Snacks,29
+2024-06-26,Yogurt,Snacks,38
+2024-06-27,Yogurt,Snacks,15
+2024-06-28,Yogurt,Snacks,28
+2024-06-29,Yogurt,Snacks,23
+2024-06-30,Yogurt,Snacks,3
+2024-07-01,Yogurt,Snacks,21
+2024-07-02,Yogurt,Snacks,29
+2024-07-03,Yogurt,Snacks,16
+2024-07-04,Yogurt,Snacks,24
+2024-07-05,Yogurt,Snacks,32
+2024-07-06,Yogurt,Snacks,31
+2024-07-07,Yogurt,Snacks,34
+2024-07-08,Yogurt,Snacks,21
+2024-07-09,Yogurt,Snacks,13
+2024-07-10,Yogurt,Snacks,25
+2024-07-11,Yogurt,Snacks,6
+2024-07-12,Yogurt,Snacks,22
+2024-07-13,Yogurt,Snacks,15
+2024-07-14,Yogurt,Snacks,18
+2024-07-15,Yogurt,Snacks,31
+2024-07-16,Yogurt,Snacks,11
+2024-07-17,Yogurt,Snacks,25
+2024-07-18,Yogurt,Snacks,41
+2024-07-19,Yogurt,Snacks,25
+2024-07-20,Yogurt,Snacks,18
+2024-07-21,Yogurt,Snacks,35
+2024-07-22,Yogurt,Snacks,41
+2024-07-23,Yogurt,Snacks,14
+2024-07-24,Yogurt,Snacks,20
+2024-07-25,Yogurt,Snacks,37
+2024-07-26,Yogurt,Snacks,34
+2024-07-27,Yogurt,Snacks,39
+2024-07-28,Yogurt,Snacks,26
+2024-07-29,Yogurt,Snacks,40
+2024-07-30,Yogurt,Snacks,20
+2024-07-31,Yogurt,Snacks,8
+2024-08-01,Yogurt,Snacks,23
+2024-08-02,Yogurt,Snacks,35
+2024-08-03,Yogurt,Snacks,12
+2024-08-04,Yogurt,Snacks,3
+2024-08-05,Yogurt,Snacks,7
+2024-08-06,Yogurt,Snacks,37
+2024-08-07,Yogurt,Snacks,20
+2024-08-08,Yogurt,Snacks,24
+2024-08-09,Yogurt,Snacks,25
+2024-08-10,Yogurt,Snacks,19
+2024-08-11,Yogurt,Snacks,27
+2024-08-12,Yogurt,Snacks,13
+2024-08-13,Yogurt,Snacks,22
+2024-08-14,Yogurt,Snacks,36
+2024-08-15,Yogurt,Snacks,23
+2024-08-16,Yogurt,Snacks,20
+2024-08-17,Yogurt,Snacks,30
+2024-08-18,Yogurt,Snacks,19
+2024-08-19,Yogurt,Snacks,27
+2024-08-20,Yogurt,Snacks,39
+2024-08-21,Yogurt,Snacks,2
+2024-08-22,Yogurt,Snacks,40
+2024-08-23,Yogurt,Snacks,34
+2024-08-24,Yogurt,Snacks,9
+2024-08-25,Yogurt,Snacks,21
+2024-08-26,Yogurt,Snacks,20
+2024-08-27,Yogurt,Snacks,8
+2024-08-28,Yogurt,Snacks,21
+2024-08-29,Yogurt,Snacks,16
+2024-08-30,Yogurt,Snacks,1
+2024-08-31,Yogurt,Snacks,2
+2024-09-01,Yogurt,Snacks,5
+2024-09-02,Yogurt,Snacks,35
+2024-09-03,Yogurt,Snacks,10
+2024-09-04,Yogurt,Snacks,10
+2024-09-05,Yogurt,Snacks,26
+2024-09-06,Yogurt,Snacks,15
+2024-09-07,Yogurt,Snacks,39
+2024-09-08,Yogurt,Snacks,39
+2024-09-09,Yogurt,Snacks,3
+2024-09-10,Yogurt,Snacks,15
+2024-09-11,Yogurt,Snacks,39
+2024-09-12,Yogurt,Snacks,37
+2024-09-13,Yogurt,Snacks,40
+2024-09-14,Yogurt,Snacks,16
+2024-09-15,Yogurt,Snacks,23
+2024-09-16,Yogurt,Snacks,19
+2024-09-17,Yogurt,Snacks,10
+2024-09-18,Yogurt,Snacks,4
+2024-09-19,Yogurt,Snacks,33
+2024-09-20,Yogurt,Snacks,39
+2024-09-21,Yogurt,Snacks,13
+2024-09-22,Yogurt,Snacks,11
+2024-09-23,Yogurt,Snacks,8
+2024-09-24,Yogurt,Snacks,29
+2024-09-25,Yogurt,Snacks,34
+2024-09-26,Yogurt,Snacks,37
+2024-09-27,Yogurt,Snacks,21
+2024-09-28,Yogurt,Snacks,40
+2024-09-29,Yogurt,Snacks,18
+2024-09-30,Yogurt,Snacks,29
+2024-10-01,Yogurt,Snacks,30
+2024-10-02,Yogurt,Snacks,17
+2024-10-03,Yogurt,Snacks,23
+2024-10-04,Yogurt,Snacks,6
+2024-10-05,Yogurt,Snacks,27
+2024-10-06,Yogurt,Snacks,35
+2024-10-07,Yogurt,Snacks,37
+2024-10-08,Yogurt,Snacks,25
+2024-10-09,Yogurt,Snacks,3
+2024-10-10,Yogurt,Snacks,40
+2024-10-11,Yogurt,Snacks,35
+2023-10-13,Chicken,Snacks,40
+2023-10-14,Chicken,Snacks,59
+2023-10-15,Chicken,Snacks,4
+2023-10-16,Chicken,Snacks,41
+2023-10-17,Chicken,Snacks,55
+2023-10-18,Chicken,Snacks,5
+2023-10-19,Chicken,Snacks,65
+2023-10-20,Chicken,Snacks,31
+2023-10-21,Chicken,Snacks,60
+2023-10-22,Chicken,Snacks,43
+2023-10-23,Chicken,Snacks,9
+2023-10-24,Chicken,Snacks,58
+2023-10-25,Chicken,Snacks,16
+2023-10-26,Chicken,Snacks,70
+2023-10-27,Chicken,Snacks,34
+2023-10-28,Chicken,Snacks,35
+2023-10-29,Chicken,Snacks,38
+2023-10-30,Chicken,Snacks,50
+2023-10-31,Chicken,Snacks,12
+2023-11-01,Chicken,Snacks,30
+2023-11-02,Chicken,Snacks,44
+2023-11-03,Chicken,Snacks,2
+2023-11-04,Chicken,Snacks,9
+2023-11-05,Chicken,Snacks,12
+2023-11-06,Chicken,Snacks,34
+2023-11-07,Chicken,Snacks,49
+2023-11-08,Chicken,Snacks,51
+2023-11-09,Chicken,Snacks,12
+2023-11-10,Chicken,Snacks,6
+2023-11-11,Chicken,Snacks,26
+2023-11-12,Chicken,Snacks,69
+2023-11-13,Chicken,Snacks,49
+2023-11-14,Chicken,Snacks,51
+2023-11-15,Chicken,Snacks,41
+2023-11-16,Chicken,Snacks,11
+2023-11-17,Chicken,Snacks,47
+2023-11-18,Chicken,Snacks,14
+2023-11-19,Chicken,Snacks,16
+2023-11-20,Chicken,Snacks,44
+2023-11-21,Chicken,Snacks,58
+2023-11-22,Chicken,Snacks,21
+2023-11-23,Chicken,Snacks,14
+2023-11-24,Chicken,Snacks,26
+2023-11-25,Chicken,Snacks,3
+2023-11-26,Chicken,Snacks,49
+2023-11-27,Chicken,Snacks,41
+2023-11-28,Chicken,Snacks,19
+2023-11-29,Chicken,Snacks,12
+2023-11-30,Chicken,Snacks,55
+2023-12-01,Chicken,Snacks,2
+2023-12-02,Chicken,Snacks,28
+2023-12-03,Chicken,Snacks,42
+2023-12-04,Chicken,Snacks,65
+2023-12-05,Chicken,Snacks,29
+2023-12-06,Chicken,Snacks,3
+2023-12-07,Chicken,Snacks,8
+2023-12-08,Chicken,Snacks,28
+2023-12-09,Chicken,Snacks,42
+2023-12-10,Chicken,Snacks,3
+2023-12-11,Chicken,Snacks,60
+2023-12-12,Chicken,Snacks,51
+2023-12-13,Chicken,Snacks,19
+2023-12-14,Chicken,Snacks,4
+2023-12-15,Chicken,Snacks,7
+2023-12-16,Chicken,Snacks,41
+2023-12-17,Chicken,Snacks,16
+2023-12-18,Chicken,Snacks,65
+2023-12-19,Chicken,Snacks,53
+2023-12-20,Chicken,Snacks,55
+2023-12-21,Chicken,Snacks,20
+2023-12-22,Chicken,Snacks,4
+2023-12-23,Chicken,Snacks,37
+2023-12-24,Chicken,Snacks,22
+2023-12-25,Chicken,Snacks,44
+2023-12-26,Chicken,Snacks,61
+2023-12-27,Chicken,Snacks,46
+2023-12-28,Chicken,Snacks,26
+2023-12-29,Chicken,Snacks,3
+2023-12-30,Chicken,Snacks,55
+2023-12-31,Chicken,Snacks,37
+2024-01-01,Chicken,Snacks,47
+2024-01-02,Chicken,Snacks,48
+2024-01-03,Chicken,Snacks,36
+2024-01-04,Chicken,Snacks,15
+2024-01-05,Chicken,Snacks,7
+2024-01-06,Chicken,Snacks,31
+2024-01-07,Chicken,Snacks,61
+2024-01-08,Chicken,Snacks,46
+2024-01-09,Chicken,Snacks,15
+2024-01-10,Chicken,Snacks,13
+2024-01-11,Chicken,Snacks,22
+2024-01-12,Chicken,Snacks,50
+2024-01-13,Chicken,Snacks,52
+2024-01-14,Chicken,Snacks,56
+2024-01-15,Chicken,Snacks,44
+2024-01-16,Chicken,Snacks,67
+2024-01-17,Chicken,Snacks,20
+2024-01-18,Chicken,Snacks,46
+2024-01-19,Chicken,Snacks,48
+2024-01-20,Chicken,Snacks,30
+2024-01-21,Chicken,Snacks,42
+2024-01-22,Chicken,Snacks,41
+2024-01-23,Chicken,Snacks,30
+2024-01-24,Chicken,Snacks,24
+2024-01-25,Chicken,Snacks,12
+2024-01-26,Chicken,Snacks,44
+2024-01-27,Chicken,Snacks,53
+2024-01-28,Chicken,Snacks,17
+2024-01-29,Chicken,Snacks,25
+2024-01-30,Chicken,Snacks,12
+2024-01-31,Chicken,Snacks,46
+2024-02-01,Chicken,Snacks,49
+2024-02-02,Chicken,Snacks,45
+2024-02-03,Chicken,Snacks,37
+2024-02-04,Chicken,Snacks,27
+2024-02-05,Chicken,Snacks,30
+2024-02-06,Chicken,Snacks,25
+2024-02-07,Chicken,Snacks,26
+2024-02-08,Chicken,Snacks,47
+2024-02-09,Chicken,Snacks,39
+2024-02-10,Chicken,Snacks,8
+2024-02-11,Chicken,Snacks,28
+2024-02-12,Chicken,Snacks,15
+2024-02-13,Chicken,Snacks,26
+2024-02-14,Chicken,Snacks,53
+2024-02-15,Chicken,Snacks,15
+2024-02-16,Chicken,Snacks,55
+2024-02-17,Chicken,Snacks,13
+2024-02-18,Chicken,Snacks,20
+2024-02-19,Chicken,Snacks,8
+2024-02-20,Chicken,Snacks,17
+2024-02-21,Chicken,Snacks,34
+2024-02-22,Chicken,Snacks,48
+2024-02-23,Chicken,Snacks,10
+2024-02-24,Chicken,Snacks,29
+2024-02-25,Chicken,Snacks,16
+2024-02-26,Chicken,Snacks,19
+2024-02-27,Chicken,Snacks,24
+2024-02-28,Chicken,Snacks,43
+2024-02-29,Chicken,Snacks,56
+2024-03-01,Chicken,Snacks,39
+2024-03-02,Chicken,Snacks,9
+2024-03-03,Chicken,Snacks,48
+2024-03-04,Chicken,Snacks,33
+2024-03-05,Chicken,Snacks,42
+2024-03-06,Chicken,Snacks,34
+2024-03-07,Chicken,Snacks,45
+2024-03-08,Chicken,Snacks,36
+2024-03-09,Chicken,Snacks,32
+2024-03-10,Chicken,Snacks,26
+2024-03-11,Chicken,Snacks,33
+2024-03-12,Chicken,Snacks,43
+2024-03-13,Chicken,Snacks,6
+2024-03-14,Chicken,Snacks,52
+2024-03-15,Chicken,Snacks,60
+2024-03-16,Chicken,Snacks,59
+2024-03-17,Chicken,Snacks,44
+2024-03-18,Chicken,Snacks,24
+2024-03-19,Chicken,Snacks,67
+2024-03-20,Chicken,Snacks,40
+2024-03-21,Chicken,Snacks,20
+2024-03-22,Chicken,Snacks,25
+2024-03-23,Chicken,Snacks,32
+2024-03-24,Chicken,Snacks,52
+2024-03-25,Chicken,Snacks,21
+2024-03-26,Chicken,Snacks,49
+2024-03-27,Chicken,Snacks,23
+2024-03-28,Chicken,Snacks,64
+2024-03-29,Chicken,Snacks,12
+2024-03-30,Chicken,Snacks,68
+2024-03-31,Chicken,Snacks,5
+2024-04-01,Chicken,Snacks,65
+2024-04-02,Chicken,Snacks,64
+2024-04-03,Chicken,Snacks,43
+2024-04-04,Chicken,Snacks,48
+2024-04-05,Chicken,Snacks,2
+2024-04-06,Chicken,Snacks,66
+2024-04-07,Chicken,Snacks,67
+2024-04-08,Chicken,Snacks,33
+2024-04-09,Chicken,Snacks,23
+2024-04-10,Chicken,Snacks,62
+2024-04-11,Chicken,Snacks,59
+2024-04-12,Chicken,Snacks,27
+2024-04-13,Chicken,Snacks,68
+2024-04-14,Chicken,Snacks,43
+2024-04-15,Chicken,Snacks,54
+2024-04-16,Chicken,Snacks,65
+2024-04-17,Chicken,Snacks,46
+2024-04-18,Chicken,Snacks,12
+2024-04-19,Chicken,Snacks,55
+2024-04-20,Chicken,Snacks,58
+2024-04-21,Chicken,Snacks,9
+2024-04-22,Chicken,Snacks,46
+2024-04-23,Chicken,Snacks,37
+2024-04-24,Chicken,Snacks,65
+2024-04-25,Chicken,Snacks,64
+2024-04-26,Chicken,Snacks,22
+2024-04-27,Chicken,Snacks,25
+2024-04-28,Chicken,Snacks,9
+2024-04-29,Chicken,Snacks,35
+2024-04-30,Chicken,Snacks,53
+2024-05-01,Chicken,Snacks,46
+2024-05-02,Chicken,Snacks,46
+2024-05-03,Chicken,Snacks,63
+2024-05-04,Chicken,Snacks,57
+2024-05-05,Chicken,Snacks,7
+2024-05-06,Chicken,Snacks,6
+2024-05-07,Chicken,Snacks,19
+2024-05-08,Chicken,Snacks,55
+2024-05-09,Chicken,Snacks,64
+2024-05-10,Chicken,Snacks,65
+2024-05-11,Chicken,Snacks,56
+2024-05-12,Chicken,Snacks,18
+2024-05-13,Chicken,Snacks,11
+2024-05-14,Chicken,Snacks,64
+2024-05-15,Chicken,Snacks,34
+2024-05-16,Chicken,Snacks,38
+2024-05-17,Chicken,Snacks,66
+2024-05-18,Chicken,Snacks,36
+2024-05-19,Chicken,Snacks,27
+2024-05-20,Chicken,Snacks,8
+2024-05-21,Chicken,Snacks,1
+2024-05-22,Chicken,Snacks,67
+2024-05-23,Chicken,Snacks,65
+2024-05-24,Chicken,Snacks,4
+2024-05-25,Chicken,Snacks,10
+2024-05-26,Chicken,Snacks,69
+2024-05-27,Chicken,Snacks,33
+2024-05-28,Chicken,Snacks,42
+2024-05-29,Chicken,Snacks,29
+2024-05-30,Chicken,Snacks,63
+2024-05-31,Chicken,Snacks,25
+2024-06-01,Chicken,Snacks,19
+2024-06-02,Chicken,Snacks,29
+2024-06-03,Chicken,Snacks,3
+2024-06-04,Chicken,Snacks,30
+2024-06-05,Chicken,Snacks,6
+2024-06-06,Chicken,Snacks,41
+2024-06-07,Chicken,Snacks,5
+2024-06-08,Chicken,Snacks,65
+2024-06-09,Chicken,Snacks,50
+2024-06-10,Chicken,Snacks,21
+2024-06-11,Chicken,Snacks,69
+2024-06-12,Chicken,Snacks,56
+2024-06-13,Chicken,Snacks,23
+2024-06-14,Chicken,Snacks,33
+2024-06-15,Chicken,Snacks,65
+2024-06-16,Chicken,Snacks,24
+2024-06-17,Chicken,Snacks,21
+2024-06-18,Chicken,Snacks,41
+2024-06-19,Chicken,Snacks,22
+2024-06-20,Chicken,Snacks,46
+2024-06-21,Chicken,Snacks,29
+2024-06-22,Chicken,Snacks,53
+2024-06-23,Chicken,Snacks,23
+2024-06-24,Chicken,Snacks,22
+2024-06-25,Chicken,Snacks,8
+2024-06-26,Chicken,Snacks,44
+2024-06-27,Chicken,Snacks,9
+2024-06-28,Chicken,Snacks,31
+2024-06-29,Chicken,Snacks,11
+2024-06-30,Chicken,Snacks,49
+2024-07-01,Chicken,Snacks,52
+2024-07-02,Chicken,Snacks,54
+2024-07-03,Chicken,Snacks,67
+2024-07-04,Chicken,Snacks,25
+2024-07-05,Chicken,Snacks,44
+2024-07-06,Chicken,Snacks,22
+2024-07-07,Chicken,Snacks,13
+2024-07-08,Chicken,Snacks,19
+2024-07-09,Chicken,Snacks,58
+2024-07-10,Chicken,Snacks,61
+2024-07-11,Chicken,Snacks,21
+2024-07-12,Chicken,Snacks,26
+2024-07-13,Chicken,Snacks,41
+2024-07-14,Chicken,Snacks,42
+2024-07-15,Chicken,Snacks,51
+2024-07-16,Chicken,Snacks,61
+2024-07-17,Chicken,Snacks,7
+2024-07-18,Chicken,Snacks,57
+2024-07-19,Chicken,Snacks,58
+2024-07-20,Chicken,Snacks,24
+2024-07-21,Chicken,Snacks,17
+2024-07-22,Chicken,Snacks,58
+2024-07-23,Chicken,Snacks,64
+2024-07-24,Chicken,Snacks,14
+2024-07-25,Chicken,Snacks,4
+2024-07-26,Chicken,Snacks,20
+2024-07-27,Chicken,Snacks,33
+2024-07-28,Chicken,Snacks,49
+2024-07-29,Chicken,Snacks,18
+2024-07-30,Chicken,Snacks,28
+2024-07-31,Chicken,Snacks,53
+2024-08-01,Chicken,Snacks,12
+2024-08-02,Chicken,Snacks,69
+2024-08-03,Chicken,Snacks,58
+2024-08-04,Chicken,Snacks,36
+2024-08-05,Chicken,Snacks,63
+2024-08-06,Chicken,Snacks,64
+2024-08-07,Chicken,Snacks,11
+2024-08-08,Chicken,Snacks,41
+2024-08-09,Chicken,Snacks,32
+2024-08-10,Chicken,Snacks,1
+2024-08-11,Chicken,Snacks,22
+2024-08-12,Chicken,Snacks,22
+2024-08-13,Chicken,Snacks,54
+2024-08-14,Chicken,Snacks,47
+2024-08-15,Chicken,Snacks,69
+2024-08-16,Chicken,Snacks,31
+2024-08-17,Chicken,Snacks,30
+2024-08-18,Chicken,Snacks,9
+2024-08-19,Chicken,Snacks,54
+2024-08-20,Chicken,Snacks,69
+2024-08-21,Chicken,Snacks,10
+2024-08-22,Chicken,Snacks,8
+2024-08-23,Chicken,Snacks,56
+2024-08-24,Chicken,Snacks,26
+2024-08-25,Chicken,Snacks,32
+2024-08-26,Chicken,Snacks,12
+2024-08-27,Chicken,Snacks,38
+2024-08-28,Chicken,Snacks,32
+2024-08-29,Chicken,Snacks,26
+2024-08-30,Chicken,Snacks,2
+2024-08-31,Chicken,Snacks,39
+2024-09-01,Chicken,Snacks,5
+2024-09-02,Chicken,Snacks,60
+2024-09-03,Chicken,Snacks,23
+2024-09-04,Chicken,Snacks,60
+2024-09-05,Chicken,Snacks,40
+2024-09-06,Chicken,Snacks,57
+2024-09-07,Chicken,Snacks,59
+2024-09-08,Chicken,Snacks,28
+2024-09-09,Chicken,Snacks,5
+2024-09-10,Chicken,Snacks,2
+2024-09-11,Chicken,Snacks,41
+2024-09-12,Chicken,Snacks,66
+2024-09-13,Chicken,Snacks,33
+2024-09-14,Chicken,Snacks,69
+2024-09-15,Chicken,Snacks,38
+2024-09-16,Chicken,Snacks,29
+2024-09-17,Chicken,Snacks,50
+2024-09-18,Chicken,Snacks,68
+2024-09-19,Chicken,Snacks,58
+2024-09-20,Chicken,Snacks,2
+2024-09-21,Chicken,Snacks,7
+2024-09-22,Chicken,Snacks,63
+2024-09-23,Chicken,Snacks,47
+2024-09-24,Chicken,Snacks,29
+2024-09-25,Chicken,Snacks,61
+2024-09-26,Chicken,Snacks,31
+2024-09-27,Chicken,Snacks,33
+2024-09-28,Chicken,Snacks,39
+2024-09-29,Chicken,Snacks,14
+2024-09-30,Chicken,Snacks,34
+2024-10-01,Chicken,Snacks,31
+2024-10-02,Chicken,Snacks,48
+2024-10-03,Chicken,Snacks,70
+2024-10-04,Chicken,Snacks,26
+2024-10-05,Chicken,Snacks,52
+2024-10-06,Chicken,Snacks,32
+2024-10-07,Chicken,Snacks,5
+2024-10-08,Chicken,Snacks,52
+2024-10-09,Chicken,Snacks,61
+2024-10-10,Chicken,Snacks,19
+2024-10-11,Chicken,Snacks,17
+2023-10-13,Mustard,Snacks,38
+2023-10-14,Mustard,Snacks,65
+2023-10-15,Mustard,Snacks,21
+2023-10-16,Mustard,Snacks,14
+2023-10-17,Mustard,Snacks,53
+2023-10-18,Mustard,Snacks,14
+2023-10-19,Mustard,Snacks,72
+2023-10-20,Mustard,Snacks,63
+2023-10-21,Mustard,Snacks,25
+2023-10-22,Mustard,Snacks,18
+2023-10-23,Mustard,Snacks,56
+2023-10-24,Mustard,Snacks,9
+2023-10-25,Mustard,Snacks,23
+2023-10-26,Mustard,Snacks,13
+2023-10-27,Mustard,Snacks,39
+2023-10-28,Mustard,Snacks,14
+2023-10-29,Mustard,Snacks,61
+2023-10-30,Mustard,Snacks,41
+2023-10-31,Mustard,Snacks,21
+2023-11-01,Mustard,Snacks,62
+2023-11-02,Mustard,Snacks,43
+2023-11-03,Mustard,Snacks,25
+2023-11-04,Mustard,Snacks,29
+2023-11-05,Mustard,Snacks,22
+2023-11-06,Mustard,Snacks,13
+2023-11-07,Mustard,Snacks,46
+2023-11-08,Mustard,Snacks,58
+2023-11-09,Mustard,Snacks,28
+2023-11-10,Mustard,Snacks,41
+2023-11-11,Mustard,Snacks,41
+2023-11-12,Mustard,Snacks,20
+2023-11-13,Mustard,Snacks,51
+2023-11-14,Mustard,Snacks,8
+2023-11-15,Mustard,Snacks,50
+2023-11-16,Mustard,Snacks,32
+2023-11-17,Mustard,Snacks,43
+2023-11-18,Mustard,Snacks,61
+2023-11-19,Mustard,Snacks,44
+2023-11-20,Mustard,Snacks,36
+2023-11-21,Mustard,Snacks,68
+2023-11-22,Mustard,Snacks,11
+2023-11-23,Mustard,Snacks,8
+2023-11-24,Mustard,Snacks,4
+2023-11-25,Mustard,Snacks,12
+2023-11-26,Mustard,Snacks,37
+2023-11-27,Mustard,Snacks,65
+2023-11-28,Mustard,Snacks,14
+2023-11-29,Mustard,Snacks,40
+2023-11-30,Mustard,Snacks,24
+2023-12-01,Mustard,Snacks,63
+2023-12-02,Mustard,Snacks,16
+2023-12-03,Mustard,Snacks,51
+2023-12-04,Mustard,Snacks,16
+2023-12-05,Mustard,Snacks,58
+2023-12-06,Mustard,Snacks,35
+2023-12-07,Mustard,Snacks,68
+2023-12-08,Mustard,Snacks,33
+2023-12-09,Mustard,Snacks,57
+2023-12-10,Mustard,Snacks,68
+2023-12-11,Mustard,Snacks,12
+2023-12-12,Mustard,Snacks,17
+2023-12-13,Mustard,Snacks,69
+2023-12-14,Mustard,Snacks,2
+2023-12-15,Mustard,Snacks,13
+2023-12-16,Mustard,Snacks,32
+2023-12-17,Mustard,Snacks,41
+2023-12-18,Mustard,Snacks,20
+2023-12-19,Mustard,Snacks,59
+2023-12-20,Mustard,Snacks,1
+2023-12-21,Mustard,Snacks,47
+2023-12-22,Mustard,Snacks,47
+2023-12-23,Mustard,Snacks,5
+2023-12-24,Mustard,Snacks,4
+2023-12-25,Mustard,Snacks,66
+2023-12-26,Mustard,Snacks,48
+2023-12-27,Mustard,Snacks,54
+2023-12-28,Mustard,Snacks,3
+2023-12-29,Mustard,Snacks,22
+2023-12-30,Mustard,Snacks,2
+2023-12-31,Mustard,Snacks,55
+2024-01-01,Mustard,Snacks,73
+2024-01-02,Mustard,Snacks,16
+2024-01-03,Mustard,Snacks,12
+2024-01-04,Mustard,Snacks,56
+2024-01-05,Mustard,Snacks,50
+2024-01-06,Mustard,Snacks,66
+2024-01-07,Mustard,Snacks,11
+2024-01-08,Mustard,Snacks,18
+2024-01-09,Mustard,Snacks,51
+2024-01-10,Mustard,Snacks,72
+2024-01-11,Mustard,Snacks,66
+2024-01-12,Mustard,Snacks,57
+2024-01-13,Mustard,Snacks,26
+2024-01-14,Mustard,Snacks,72
+2024-01-15,Mustard,Snacks,6
+2024-01-16,Mustard,Snacks,56
+2024-01-17,Mustard,Snacks,47
+2024-01-18,Mustard,Snacks,19
+2024-01-19,Mustard,Snacks,3
+2024-01-20,Mustard,Snacks,13
+2024-01-21,Mustard,Snacks,41
+2024-01-22,Mustard,Snacks,41
+2024-01-23,Mustard,Snacks,7
+2024-01-24,Mustard,Snacks,22
+2024-01-25,Mustard,Snacks,31
+2024-01-26,Mustard,Snacks,19
+2024-01-27,Mustard,Snacks,47
+2024-01-28,Mustard,Snacks,15
+2024-01-29,Mustard,Snacks,72
+2024-01-30,Mustard,Snacks,56
+2024-01-31,Mustard,Snacks,50
+2024-02-01,Mustard,Snacks,17
+2024-02-02,Mustard,Snacks,34
+2024-02-03,Mustard,Snacks,42
+2024-02-04,Mustard,Snacks,29
+2024-02-05,Mustard,Snacks,72
+2024-02-06,Mustard,Snacks,6
+2024-02-07,Mustard,Snacks,68
+2024-02-08,Mustard,Snacks,24
+2024-02-09,Mustard,Snacks,20
+2024-02-10,Mustard,Snacks,52
+2024-02-11,Mustard,Snacks,23
+2024-02-12,Mustard,Snacks,54
+2024-02-13,Mustard,Snacks,8
+2024-02-14,Mustard,Snacks,12
+2024-02-15,Mustard,Snacks,45
+2024-02-16,Mustard,Snacks,57
+2024-02-17,Mustard,Snacks,65
+2024-02-18,Mustard,Snacks,68
+2024-02-19,Mustard,Snacks,4
+2024-02-20,Mustard,Snacks,62
+2024-02-21,Mustard,Snacks,31
+2024-02-22,Mustard,Snacks,54
+2024-02-23,Mustard,Snacks,31
+2024-02-24,Mustard,Snacks,32
+2024-02-25,Mustard,Snacks,40
+2024-02-26,Mustard,Snacks,4
+2024-02-27,Mustard,Snacks,7
+2024-02-28,Mustard,Snacks,56
+2024-02-29,Mustard,Snacks,57
+2024-03-01,Mustard,Snacks,46
+2024-03-02,Mustard,Snacks,49
+2024-03-03,Mustard,Snacks,50
+2024-03-04,Mustard,Snacks,49
+2024-03-05,Mustard,Snacks,43
+2024-03-06,Mustard,Snacks,65
+2024-03-07,Mustard,Snacks,6
+2024-03-08,Mustard,Snacks,30
+2024-03-09,Mustard,Snacks,72
+2024-03-10,Mustard,Snacks,67
+2024-03-11,Mustard,Snacks,54
+2024-03-12,Mustard,Snacks,25
+2024-03-13,Mustard,Snacks,42
+2024-03-14,Mustard,Snacks,72
+2024-03-15,Mustard,Snacks,61
+2024-03-16,Mustard,Snacks,38
+2024-03-17,Mustard,Snacks,36
+2024-03-18,Mustard,Snacks,41
+2024-03-19,Mustard,Snacks,47
+2024-03-20,Mustard,Snacks,31
+2024-03-21,Mustard,Snacks,2
+2024-03-22,Mustard,Snacks,68
+2024-03-23,Mustard,Snacks,34
+2024-03-24,Mustard,Snacks,8
+2024-03-25,Mustard,Snacks,56
+2024-03-26,Mustard,Snacks,11
+2024-03-27,Mustard,Snacks,70
+2024-03-28,Mustard,Snacks,68
+2024-03-29,Mustard,Snacks,67
+2024-03-30,Mustard,Snacks,12
+2024-03-31,Mustard,Snacks,61
+2024-04-01,Mustard,Snacks,1
+2024-04-02,Mustard,Snacks,11
+2024-04-03,Mustard,Snacks,30
+2024-04-04,Mustard,Snacks,2
+2024-04-05,Mustard,Snacks,6
+2024-04-06,Mustard,Snacks,24
+2024-04-07,Mustard,Snacks,36
+2024-04-08,Mustard,Snacks,2
+2024-04-09,Mustard,Snacks,67
+2024-04-10,Mustard,Snacks,26
+2024-04-11,Mustard,Snacks,29
+2024-04-12,Mustard,Snacks,50
+2024-04-13,Mustard,Snacks,7
+2024-04-14,Mustard,Snacks,60
+2024-04-15,Mustard,Snacks,68
+2024-04-16,Mustard,Snacks,23
+2024-04-17,Mustard,Snacks,22
+2024-04-18,Mustard,Snacks,71
+2024-04-19,Mustard,Snacks,50
+2024-04-20,Mustard,Snacks,48
+2024-04-21,Mustard,Snacks,15
+2024-04-22,Mustard,Snacks,6
+2024-04-23,Mustard,Snacks,59
+2024-04-24,Mustard,Snacks,26
+2024-04-25,Mustard,Snacks,39
+2024-04-26,Mustard,Snacks,72
+2024-04-27,Mustard,Snacks,27
+2024-04-28,Mustard,Snacks,65
+2024-04-29,Mustard,Snacks,43
+2024-04-30,Mustard,Snacks,41
+2024-05-01,Mustard,Snacks,61
+2024-05-02,Mustard,Snacks,32
+2024-05-03,Mustard,Snacks,3
+2024-05-04,Mustard,Snacks,61
+2024-05-05,Mustard,Snacks,17
+2024-05-06,Mustard,Snacks,9
+2024-05-07,Mustard,Snacks,57
+2024-05-08,Mustard,Snacks,48
+2024-05-09,Mustard,Snacks,7
+2024-05-10,Mustard,Snacks,32
+2024-05-11,Mustard,Snacks,58
+2024-05-12,Mustard,Snacks,5
+2024-05-13,Mustard,Snacks,39
+2024-05-14,Mustard,Snacks,15
+2024-05-15,Mustard,Snacks,70
+2024-05-16,Mustard,Snacks,32
+2024-05-17,Mustard,Snacks,53
+2024-05-18,Mustard,Snacks,59
+2024-05-19,Mustard,Snacks,3
+2024-05-20,Mustard,Snacks,25
+2024-05-21,Mustard,Snacks,57
+2024-05-22,Mustard,Snacks,51
+2024-05-23,Mustard,Snacks,17
+2024-05-24,Mustard,Snacks,47
+2024-05-25,Mustard,Snacks,11
+2024-05-26,Mustard,Snacks,35
+2024-05-27,Mustard,Snacks,6
+2024-05-28,Mustard,Snacks,25
+2024-05-29,Mustard,Snacks,17
+2024-05-30,Mustard,Snacks,55
+2024-05-31,Mustard,Snacks,30
+2024-06-01,Mustard,Snacks,10
+2024-06-02,Mustard,Snacks,28
+2024-06-03,Mustard,Snacks,67
+2024-06-04,Mustard,Snacks,55
+2024-06-05,Mustard,Snacks,26
+2024-06-06,Mustard,Snacks,41
+2024-06-07,Mustard,Snacks,61
+2024-06-08,Mustard,Snacks,57
+2024-06-09,Mustard,Snacks,45
+2024-06-10,Mustard,Snacks,28
+2024-06-11,Mustard,Snacks,20
+2024-06-12,Mustard,Snacks,38
+2024-06-13,Mustard,Snacks,13
+2024-06-14,Mustard,Snacks,13
+2024-06-15,Mustard,Snacks,32
+2024-06-16,Mustard,Snacks,23
+2024-06-17,Mustard,Snacks,55
+2024-06-18,Mustard,Snacks,37
+2024-06-19,Mustard,Snacks,16
+2024-06-20,Mustard,Snacks,11
+2024-06-21,Mustard,Snacks,11
+2024-06-22,Mustard,Snacks,25
+2024-06-23,Mustard,Snacks,36
+2024-06-24,Mustard,Snacks,45
+2024-06-25,Mustard,Snacks,52
+2024-06-26,Mustard,Snacks,35
+2024-06-27,Mustard,Snacks,25
+2024-06-28,Mustard,Snacks,2
+2024-06-29,Mustard,Snacks,50
+2024-06-30,Mustard,Snacks,27
+2024-07-01,Mustard,Snacks,50
+2024-07-02,Mustard,Snacks,36
+2024-07-03,Mustard,Snacks,19
+2024-07-04,Mustard,Snacks,26
+2024-07-05,Mustard,Snacks,33
+2024-07-06,Mustard,Snacks,4
+2024-07-07,Mustard,Snacks,66
+2024-07-08,Mustard,Snacks,30
+2024-07-09,Mustard,Snacks,73
+2024-07-10,Mustard,Snacks,66
+2024-07-11,Mustard,Snacks,56
+2024-07-12,Mustard,Snacks,10
+2024-07-13,Mustard,Snacks,40
+2024-07-14,Mustard,Snacks,72
+2024-07-15,Mustard,Snacks,57
+2024-07-16,Mustard,Snacks,49
+2024-07-17,Mustard,Snacks,66
+2024-07-18,Mustard,Snacks,19
+2024-07-19,Mustard,Snacks,21
+2024-07-20,Mustard,Snacks,72
+2024-07-21,Mustard,Snacks,56
+2024-07-22,Mustard,Snacks,61
+2024-07-23,Mustard,Snacks,24
+2024-07-24,Mustard,Snacks,15
+2024-07-25,Mustard,Snacks,6
+2024-07-26,Mustard,Snacks,43
+2024-07-27,Mustard,Snacks,69
+2024-07-28,Mustard,Snacks,44
+2024-07-29,Mustard,Snacks,20
+2024-07-30,Mustard,Snacks,3
+2024-07-31,Mustard,Snacks,5
+2024-08-01,Mustard,Snacks,41
+2024-08-02,Mustard,Snacks,31
+2024-08-03,Mustard,Snacks,47
+2024-08-04,Mustard,Snacks,69
+2024-08-05,Mustard,Snacks,4
+2024-08-06,Mustard,Snacks,27
+2024-08-07,Mustard,Snacks,71
+2024-08-08,Mustard,Snacks,71
+2024-08-09,Mustard,Snacks,38
+2024-08-10,Mustard,Snacks,23
+2024-08-11,Mustard,Snacks,48
+2024-08-12,Mustard,Snacks,36
+2024-08-13,Mustard,Snacks,46
+2024-08-14,Mustard,Snacks,4
+2024-08-15,Mustard,Snacks,63
+2024-08-16,Mustard,Snacks,34
+2024-08-17,Mustard,Snacks,29
+2024-08-18,Mustard,Snacks,54
+2024-08-19,Mustard,Snacks,62
+2024-08-20,Mustard,Snacks,19
+2024-08-21,Mustard,Snacks,29
+2024-08-22,Mustard,Snacks,61
+2024-08-23,Mustard,Snacks,27
+2024-08-24,Mustard,Snacks,18
+2024-08-25,Mustard,Snacks,9
+2024-08-26,Mustard,Snacks,17
+2024-08-27,Mustard,Snacks,69
+2024-08-28,Mustard,Snacks,69
+2024-08-29,Mustard,Snacks,29
+2024-08-30,Mustard,Snacks,34
+2024-08-31,Mustard,Snacks,40
+2024-09-01,Mustard,Snacks,30
+2024-09-02,Mustard,Snacks,28
+2024-09-03,Mustard,Snacks,44
+2024-09-04,Mustard,Snacks,32
+2024-09-05,Mustard,Snacks,37
+2024-09-06,Mustard,Snacks,49
+2024-09-07,Mustard,Snacks,62
+2024-09-08,Mustard,Snacks,32
+2024-09-09,Mustard,Snacks,60
+2024-09-10,Mustard,Snacks,37
+2024-09-11,Mustard,Snacks,8
+2024-09-12,Mustard,Snacks,44
+2024-09-13,Mustard,Snacks,19
+2024-09-14,Mustard,Snacks,24
+2024-09-15,Mustard,Snacks,22
+2024-09-16,Mustard,Snacks,67
+2024-09-17,Mustard,Snacks,65
+2024-09-18,Mustard,Snacks,70
+2024-09-19,Mustard,Snacks,42
+2024-09-20,Mustard,Snacks,47
+2024-09-21,Mustard,Snacks,61
+2024-09-22,Mustard,Snacks,71
+2024-09-23,Mustard,Snacks,73
+2024-09-24,Mustard,Snacks,33
+2024-09-25,Mustard,Snacks,56
+2024-09-26,Mustard,Snacks,50
+2024-09-27,Mustard,Snacks,39
+2024-09-28,Mustard,Snacks,41
+2024-09-29,Mustard,Snacks,43
+2024-09-30,Mustard,Snacks,50
+2024-10-01,Mustard,Snacks,31
+2024-10-02,Mustard,Snacks,26
+2024-10-03,Mustard,Snacks,61
+2024-10-04,Mustard,Snacks,49
+2024-10-05,Mustard,Snacks,2
+2024-10-06,Mustard,Snacks,6
+2024-10-07,Mustard,Snacks,19
+2024-10-08,Mustard,Snacks,20
+2024-10-09,Mustard,Snacks,73
+2024-10-10,Mustard,Snacks,66
+2024-10-11,Mustard,Snacks,30
+2023-10-13,Sugar,Snacks,33
+2023-10-14,Sugar,Snacks,26
+2023-10-15,Sugar,Snacks,62
+2023-10-16,Sugar,Snacks,48
+2023-10-17,Sugar,Snacks,15
+2023-10-18,Sugar,Snacks,15
+2023-10-19,Sugar,Snacks,58
+2023-10-20,Sugar,Snacks,55
+2023-10-21,Sugar,Snacks,64
+2023-10-22,Sugar,Snacks,39
+2023-10-23,Sugar,Snacks,42
+2023-10-24,Sugar,Snacks,3
+2023-10-25,Sugar,Snacks,31
+2023-10-26,Sugar,Snacks,7
+2023-10-27,Sugar,Snacks,22
+2023-10-28,Sugar,Snacks,42
+2023-10-29,Sugar,Snacks,60
+2023-10-30,Sugar,Snacks,14
+2023-10-31,Sugar,Snacks,53
+2023-11-01,Sugar,Snacks,71
+2023-11-02,Sugar,Snacks,29
+2023-11-03,Sugar,Snacks,19
+2023-11-04,Sugar,Snacks,71
+2023-11-05,Sugar,Snacks,22
+2023-11-06,Sugar,Snacks,27
+2023-11-07,Sugar,Snacks,44
+2023-11-08,Sugar,Snacks,33
+2023-11-09,Sugar,Snacks,14
+2023-11-10,Sugar,Snacks,18
+2023-11-11,Sugar,Snacks,50
+2023-11-12,Sugar,Snacks,71
+2023-11-13,Sugar,Snacks,42
+2023-11-14,Sugar,Snacks,33
+2023-11-15,Sugar,Snacks,11
+2023-11-16,Sugar,Snacks,65
+2023-11-17,Sugar,Snacks,71
+2023-11-18,Sugar,Snacks,34
+2023-11-19,Sugar,Snacks,8
+2023-11-20,Sugar,Snacks,64
+2023-11-21,Sugar,Snacks,35
+2023-11-22,Sugar,Snacks,46
+2023-11-23,Sugar,Snacks,19
+2023-11-24,Sugar,Snacks,63
+2023-11-25,Sugar,Snacks,40
+2023-11-26,Sugar,Snacks,42
+2023-11-27,Sugar,Snacks,44
+2023-11-28,Sugar,Snacks,46
+2023-11-29,Sugar,Snacks,41
+2023-11-30,Sugar,Snacks,15
+2023-12-01,Sugar,Snacks,17
+2023-12-02,Sugar,Snacks,52
+2023-12-03,Sugar,Snacks,68
+2023-12-04,Sugar,Snacks,2
+2023-12-05,Sugar,Snacks,7
+2023-12-06,Sugar,Snacks,19
+2023-12-07,Sugar,Snacks,54
+2023-12-08,Sugar,Snacks,5
+2023-12-09,Sugar,Snacks,26
+2023-12-10,Sugar,Snacks,20
+2023-12-11,Sugar,Snacks,12
+2023-12-12,Sugar,Snacks,71
+2023-12-13,Sugar,Snacks,24
+2023-12-14,Sugar,Snacks,1
+2023-12-15,Sugar,Snacks,23
+2023-12-16,Sugar,Snacks,9
+2023-12-17,Sugar,Snacks,12
+2023-12-18,Sugar,Snacks,68
+2023-12-19,Sugar,Snacks,4
+2023-12-20,Sugar,Snacks,55
+2023-12-21,Sugar,Snacks,59
+2023-12-22,Sugar,Snacks,57
+2023-12-23,Sugar,Snacks,61
+2023-12-24,Sugar,Snacks,6
+2023-12-25,Sugar,Snacks,44
+2023-12-26,Sugar,Snacks,61
+2023-12-27,Sugar,Snacks,65
+2023-12-28,Sugar,Snacks,23
+2023-12-29,Sugar,Snacks,54
+2023-12-30,Sugar,Snacks,25
+2023-12-31,Sugar,Snacks,58
+2024-01-01,Sugar,Snacks,50
+2024-01-02,Sugar,Snacks,50
+2024-01-03,Sugar,Snacks,54
+2024-01-04,Sugar,Snacks,15
+2024-01-05,Sugar,Snacks,50
+2024-01-06,Sugar,Snacks,53
+2024-01-07,Sugar,Snacks,33
+2024-01-08,Sugar,Snacks,19
+2024-01-09,Sugar,Snacks,49
+2024-01-10,Sugar,Snacks,52
+2024-01-11,Sugar,Snacks,61
+2024-01-12,Sugar,Snacks,38
+2024-01-13,Sugar,Snacks,21
+2024-01-14,Sugar,Snacks,52
+2024-01-15,Sugar,Snacks,24
+2024-01-16,Sugar,Snacks,39
+2024-01-17,Sugar,Snacks,29
+2024-01-18,Sugar,Snacks,10
+2024-01-19,Sugar,Snacks,17
+2024-01-20,Sugar,Snacks,33
+2024-01-21,Sugar,Snacks,43
+2024-01-22,Sugar,Snacks,5
+2024-01-23,Sugar,Snacks,46
+2024-01-24,Sugar,Snacks,1
+2024-01-25,Sugar,Snacks,36
+2024-01-26,Sugar,Snacks,62
+2024-01-27,Sugar,Snacks,21
+2024-01-28,Sugar,Snacks,21
+2024-01-29,Sugar,Snacks,15
+2024-01-30,Sugar,Snacks,50
+2024-01-31,Sugar,Snacks,53
+2024-02-01,Sugar,Snacks,70
+2024-02-02,Sugar,Snacks,28
+2024-02-03,Sugar,Snacks,17
+2024-02-04,Sugar,Snacks,68
+2024-02-05,Sugar,Snacks,42
+2024-02-06,Sugar,Snacks,58
+2024-02-07,Sugar,Snacks,38
+2024-02-08,Sugar,Snacks,64
+2024-02-09,Sugar,Snacks,46
+2024-02-10,Sugar,Snacks,63
+2024-02-11,Sugar,Snacks,44
+2024-02-12,Sugar,Snacks,40
+2024-02-13,Sugar,Snacks,11
+2024-02-14,Sugar,Snacks,24
+2024-02-15,Sugar,Snacks,14
+2024-02-16,Sugar,Snacks,65
+2024-02-17,Sugar,Snacks,14
+2024-02-18,Sugar,Snacks,5
+2024-02-19,Sugar,Snacks,71
+2024-02-20,Sugar,Snacks,56
+2024-02-21,Sugar,Snacks,68
+2024-02-22,Sugar,Snacks,69
+2024-02-23,Sugar,Snacks,67
+2024-02-24,Sugar,Snacks,49
+2024-02-25,Sugar,Snacks,58
+2024-02-26,Sugar,Snacks,38
+2024-02-27,Sugar,Snacks,48
+2024-02-28,Sugar,Snacks,30
+2024-02-29,Sugar,Snacks,22
+2024-03-01,Sugar,Snacks,42
+2024-03-02,Sugar,Snacks,62
+2024-03-03,Sugar,Snacks,24
+2024-03-04,Sugar,Snacks,11
+2024-03-05,Sugar,Snacks,7
+2024-03-06,Sugar,Snacks,22
+2024-03-07,Sugar,Snacks,31
+2024-03-08,Sugar,Snacks,59
+2024-03-09,Sugar,Snacks,40
+2024-03-10,Sugar,Snacks,3
+2024-03-11,Sugar,Snacks,42
+2024-03-12,Sugar,Snacks,17
+2024-03-13,Sugar,Snacks,4
+2024-03-14,Sugar,Snacks,8
+2024-03-15,Sugar,Snacks,24
+2024-03-16,Sugar,Snacks,41
+2024-03-17,Sugar,Snacks,56
+2024-03-18,Sugar,Snacks,28
+2024-03-19,Sugar,Snacks,34
+2024-03-20,Sugar,Snacks,4
+2024-03-21,Sugar,Snacks,18
+2024-03-22,Sugar,Snacks,34
+2024-03-23,Sugar,Snacks,28
+2024-03-24,Sugar,Snacks,38
+2024-03-25,Sugar,Snacks,69
+2024-03-26,Sugar,Snacks,29
+2024-03-27,Sugar,Snacks,36
+2024-03-28,Sugar,Snacks,43
+2024-03-29,Sugar,Snacks,6
+2024-03-30,Sugar,Snacks,52
+2024-03-31,Sugar,Snacks,39
+2024-04-01,Sugar,Snacks,14
+2024-04-02,Sugar,Snacks,45
+2024-04-03,Sugar,Snacks,45
+2024-04-04,Sugar,Snacks,10
+2024-04-05,Sugar,Snacks,7
+2024-04-06,Sugar,Snacks,16
+2024-04-07,Sugar,Snacks,14
+2024-04-08,Sugar,Snacks,26
+2024-04-09,Sugar,Snacks,42
+2024-04-10,Sugar,Snacks,65
+2024-04-11,Sugar,Snacks,51
+2024-04-12,Sugar,Snacks,63
+2024-04-13,Sugar,Snacks,2
+2024-04-14,Sugar,Snacks,4
+2024-04-15,Sugar,Snacks,62
+2024-04-16,Sugar,Snacks,43
+2024-04-17,Sugar,Snacks,46
+2024-04-18,Sugar,Snacks,14
+2024-04-19,Sugar,Snacks,43
+2024-04-20,Sugar,Snacks,1
+2024-04-21,Sugar,Snacks,28
+2024-04-22,Sugar,Snacks,19
+2024-04-23,Sugar,Snacks,67
+2024-04-24,Sugar,Snacks,62
+2024-04-25,Sugar,Snacks,8
+2024-04-26,Sugar,Snacks,60
+2024-04-27,Sugar,Snacks,56
+2024-04-28,Sugar,Snacks,58
+2024-04-29,Sugar,Snacks,44
+2024-04-30,Sugar,Snacks,49
+2024-05-01,Sugar,Snacks,48
+2024-05-02,Sugar,Snacks,23
+2024-05-03,Sugar,Snacks,50
+2024-05-04,Sugar,Snacks,51
+2024-05-05,Sugar,Snacks,69
+2024-05-06,Sugar,Snacks,1
+2024-05-07,Sugar,Snacks,15
+2024-05-08,Sugar,Snacks,51
+2024-05-09,Sugar,Snacks,17
+2024-05-10,Sugar,Snacks,1
+2024-05-11,Sugar,Snacks,53
+2024-05-12,Sugar,Snacks,4
+2024-05-13,Sugar,Snacks,25
+2024-05-14,Sugar,Snacks,7
+2024-05-15,Sugar,Snacks,63
+2024-05-16,Sugar,Snacks,2
+2024-05-17,Sugar,Snacks,45
+2024-05-18,Sugar,Snacks,5
+2024-05-19,Sugar,Snacks,68
+2024-05-20,Sugar,Snacks,67
+2024-05-21,Sugar,Snacks,25
+2024-05-22,Sugar,Snacks,49
+2024-05-23,Sugar,Snacks,26
+2024-05-24,Sugar,Snacks,44
+2024-05-25,Sugar,Snacks,33
+2024-05-26,Sugar,Snacks,61
+2024-05-27,Sugar,Snacks,9
+2024-05-28,Sugar,Snacks,35
+2024-05-29,Sugar,Snacks,8
+2024-05-30,Sugar,Snacks,13
+2024-05-31,Sugar,Snacks,68
+2024-06-01,Sugar,Snacks,41
+2024-06-02,Sugar,Snacks,5
+2024-06-03,Sugar,Snacks,14
+2024-06-04,Sugar,Snacks,20
+2024-06-05,Sugar,Snacks,5
+2024-06-06,Sugar,Snacks,13
+2024-06-07,Sugar,Snacks,23
+2024-06-08,Sugar,Snacks,42
+2024-06-09,Sugar,Snacks,45
+2024-06-10,Sugar,Snacks,37
+2024-06-11,Sugar,Snacks,63
+2024-06-12,Sugar,Snacks,56
+2024-06-13,Sugar,Snacks,31
+2024-06-14,Sugar,Snacks,38
+2024-06-15,Sugar,Snacks,46
+2024-06-16,Sugar,Snacks,60
+2024-06-17,Sugar,Snacks,66
+2024-06-18,Sugar,Snacks,28
+2024-06-19,Sugar,Snacks,35
+2024-06-20,Sugar,Snacks,56
+2024-06-21,Sugar,Snacks,1
+2024-06-22,Sugar,Snacks,29
+2024-06-23,Sugar,Snacks,43
+2024-06-24,Sugar,Snacks,55
+2024-06-25,Sugar,Snacks,34
+2024-06-26,Sugar,Snacks,20
+2024-06-27,Sugar,Snacks,65
+2024-06-28,Sugar,Snacks,41
+2024-06-29,Sugar,Snacks,25
+2024-06-30,Sugar,Snacks,31
+2024-07-01,Sugar,Snacks,39
+2024-07-02,Sugar,Snacks,45
+2024-07-03,Sugar,Snacks,49
+2024-07-04,Sugar,Snacks,63
+2024-07-05,Sugar,Snacks,57
+2024-07-06,Sugar,Snacks,22
+2024-07-07,Sugar,Snacks,8
+2024-07-08,Sugar,Snacks,1
+2024-07-09,Sugar,Snacks,56
+2024-07-10,Sugar,Snacks,11
+2024-07-11,Sugar,Snacks,59
+2024-07-12,Sugar,Snacks,29
+2024-07-13,Sugar,Snacks,17
+2024-07-14,Sugar,Snacks,27
+2024-07-15,Sugar,Snacks,67
+2024-07-16,Sugar,Snacks,42
+2024-07-17,Sugar,Snacks,54
+2024-07-18,Sugar,Snacks,40
+2024-07-19,Sugar,Snacks,63
+2024-07-20,Sugar,Snacks,71
+2024-07-21,Sugar,Snacks,8
+2024-07-22,Sugar,Snacks,69
+2024-07-23,Sugar,Snacks,57
+2024-07-24,Sugar,Snacks,63
+2024-07-25,Sugar,Snacks,29
+2024-07-26,Sugar,Snacks,35
+2024-07-27,Sugar,Snacks,53
+2024-07-28,Sugar,Snacks,23
+2024-07-29,Sugar,Snacks,12
+2024-07-30,Sugar,Snacks,17
+2024-07-31,Sugar,Snacks,59
+2024-08-01,Sugar,Snacks,19
+2024-08-02,Sugar,Snacks,54
+2024-08-03,Sugar,Snacks,29
+2024-08-04,Sugar,Snacks,43
+2024-08-05,Sugar,Snacks,5
+2024-08-06,Sugar,Snacks,38
+2024-08-07,Sugar,Snacks,11
+2024-08-08,Sugar,Snacks,22
+2024-08-09,Sugar,Snacks,66
+2024-08-10,Sugar,Snacks,13
+2024-08-11,Sugar,Snacks,26
+2024-08-12,Sugar,Snacks,37
+2024-08-13,Sugar,Snacks,51
+2024-08-14,Sugar,Snacks,33
+2024-08-15,Sugar,Snacks,56
+2024-08-16,Sugar,Snacks,61
+2024-08-17,Sugar,Snacks,7
+2024-08-18,Sugar,Snacks,28
+2024-08-19,Sugar,Snacks,5
+2024-08-20,Sugar,Snacks,58
+2024-08-21,Sugar,Snacks,33
+2024-08-22,Sugar,Snacks,66
+2024-08-23,Sugar,Snacks,69
+2024-08-24,Sugar,Snacks,37
+2024-08-25,Sugar,Snacks,68
+2024-08-26,Sugar,Snacks,6
+2024-08-27,Sugar,Snacks,44
+2024-08-28,Sugar,Snacks,70
+2024-08-29,Sugar,Snacks,71
+2024-08-30,Sugar,Snacks,38
+2024-08-31,Sugar,Snacks,63
+2024-09-01,Sugar,Snacks,40
+2024-09-02,Sugar,Snacks,54
+2024-09-03,Sugar,Snacks,19
+2024-09-04,Sugar,Snacks,24
+2024-09-05,Sugar,Snacks,1
+2024-09-06,Sugar,Snacks,53
+2024-09-07,Sugar,Snacks,7
+2024-09-08,Sugar,Snacks,47
+2024-09-09,Sugar,Snacks,43
+2024-09-10,Sugar,Snacks,2
+2024-09-11,Sugar,Snacks,38
+2024-09-12,Sugar,Snacks,32
+2024-09-13,Sugar,Snacks,69
+2024-09-14,Sugar,Snacks,40
+2024-09-15,Sugar,Snacks,41
+2024-09-16,Sugar,Snacks,2
+2024-09-17,Sugar,Snacks,43
+2024-09-18,Sugar,Snacks,3
+2024-09-19,Sugar,Snacks,71
+2024-09-20,Sugar,Snacks,36
+2024-09-21,Sugar,Snacks,15
+2024-09-22,Sugar,Snacks,15
+2024-09-23,Sugar,Snacks,28
+2024-09-24,Sugar,Snacks,52
+2024-09-25,Sugar,Snacks,70
+2024-09-26,Sugar,Snacks,44
+2024-09-27,Sugar,Snacks,36
+2024-09-28,Sugar,Snacks,48
+2024-09-29,Sugar,Snacks,9
+2024-09-30,Sugar,Snacks,55
+2024-10-01,Sugar,Snacks,39
+2024-10-02,Sugar,Snacks,55
+2024-10-03,Sugar,Snacks,68
+2024-10-04,Sugar,Snacks,58
+2024-10-05,Sugar,Snacks,39
+2024-10-06,Sugar,Snacks,57
+2024-10-07,Sugar,Snacks,19
+2024-10-08,Sugar,Snacks,16
+2024-10-09,Sugar,Snacks,27
+2024-10-10,Sugar,Snacks,21
+2024-10-11,Sugar,Snacks,17
+2023-10-13,Apples,Snacks,20
+2023-10-14,Apples,Snacks,5
+2023-10-15,Apples,Snacks,20
+2023-10-16,Apples,Snacks,17
+2023-10-17,Apples,Snacks,21
+2023-10-18,Apples,Snacks,13
+2023-10-19,Apples,Snacks,11
+2023-10-20,Apples,Snacks,11
+2023-10-21,Apples,Snacks,18
+2023-10-22,Apples,Snacks,4
+2023-10-23,Apples,Snacks,4
+2023-10-24,Apples,Snacks,8
+2023-10-25,Apples,Snacks,18
+2023-10-26,Apples,Snacks,2
+2023-10-27,Apples,Snacks,5
+2023-10-28,Apples,Snacks,19
+2023-10-29,Apples,Snacks,5
+2023-10-30,Apples,Snacks,2
+2023-10-31,Apples,Snacks,4
+2023-11-01,Apples,Snacks,14
+2023-11-02,Apples,Snacks,7
+2023-11-03,Apples,Snacks,9
+2023-11-04,Apples,Snacks,13
+2023-11-05,Apples,Snacks,1
+2023-11-06,Apples,Snacks,11
+2023-11-07,Apples,Snacks,12
+2023-11-08,Apples,Snacks,15
+2023-11-09,Apples,Snacks,13
+2023-11-10,Apples,Snacks,20
+2023-11-11,Apples,Snacks,4
+2023-11-12,Apples,Snacks,11
+2023-11-13,Apples,Snacks,17
+2023-11-14,Apples,Snacks,8
+2023-11-15,Apples,Snacks,18
+2023-11-16,Apples,Snacks,14
+2023-11-17,Apples,Snacks,14
+2023-11-18,Apples,Snacks,4
+2023-11-19,Apples,Snacks,10
+2023-11-20,Apples,Snacks,3
+2023-11-21,Apples,Snacks,5
+2023-11-22,Apples,Snacks,21
+2023-11-23,Apples,Snacks,13
+2023-11-24,Apples,Snacks,20
+2023-11-25,Apples,Snacks,5
+2023-11-26,Apples,Snacks,2
+2023-11-27,Apples,Snacks,16
+2023-11-28,Apples,Snacks,7
+2023-11-29,Apples,Snacks,9
+2023-11-30,Apples,Snacks,2
+2023-12-01,Apples,Snacks,2
+2023-12-02,Apples,Snacks,18
+2023-12-03,Apples,Snacks,13
+2023-12-04,Apples,Snacks,6
+2023-12-05,Apples,Snacks,4
+2023-12-06,Apples,Snacks,2
+2023-12-07,Apples,Snacks,6
+2023-12-08,Apples,Snacks,13
+2023-12-09,Apples,Snacks,1
+2023-12-10,Apples,Snacks,21
+2023-12-11,Apples,Snacks,1
+2023-12-12,Apples,Snacks,2
+2023-12-13,Apples,Snacks,17
+2023-12-14,Apples,Snacks,14
+2023-12-15,Apples,Snacks,20
+2023-12-16,Apples,Snacks,9
+2023-12-17,Apples,Snacks,20
+2023-12-18,Apples,Snacks,12
+2023-12-19,Apples,Snacks,5
+2023-12-20,Apples,Snacks,21
+2023-12-21,Apples,Snacks,6
+2023-12-22,Apples,Snacks,6
+2023-12-23,Apples,Snacks,17
+2023-12-24,Apples,Snacks,15
+2023-12-25,Apples,Snacks,19
+2023-12-26,Apples,Snacks,18
+2023-12-27,Apples,Snacks,20
+2023-12-28,Apples,Snacks,12
+2023-12-29,Apples,Snacks,9
+2023-12-30,Apples,Snacks,19
+2023-12-31,Apples,Snacks,7
+2024-01-01,Apples,Snacks,15
+2024-01-02,Apples,Snacks,5
+2024-01-03,Apples,Snacks,2
+2024-01-04,Apples,Snacks,17
+2024-01-05,Apples,Snacks,11
+2024-01-06,Apples,Snacks,10
+2024-01-07,Apples,Snacks,21
+2024-01-08,Apples,Snacks,19
+2024-01-09,Apples,Snacks,15
+2024-01-10,Apples,Snacks,7
+2024-01-11,Apples,Snacks,9
+2024-01-12,Apples,Snacks,4
+2024-01-13,Apples,Snacks,9
+2024-01-14,Apples,Snacks,1
+2024-01-15,Apples,Snacks,7
+2024-01-16,Apples,Snacks,16
+2024-01-17,Apples,Snacks,3
+2024-01-18,Apples,Snacks,2
+2024-01-19,Apples,Snacks,1
+2024-01-20,Apples,Snacks,4
+2024-01-21,Apples,Snacks,20
+2024-01-22,Apples,Snacks,19
+2024-01-23,Apples,Snacks,1
+2024-01-24,Apples,Snacks,4
+2024-01-25,Apples,Snacks,15
+2024-01-26,Apples,Snacks,10
+2024-01-27,Apples,Snacks,1
+2024-01-28,Apples,Snacks,13
+2024-01-29,Apples,Snacks,12
+2024-01-30,Apples,Snacks,18
+2024-01-31,Apples,Snacks,2
+2024-02-01,Apples,Snacks,13
+2024-02-02,Apples,Snacks,15
+2024-02-03,Apples,Snacks,7
+2024-02-04,Apples,Snacks,19
+2024-02-05,Apples,Snacks,2
+2024-02-06,Apples,Snacks,1
+2024-02-07,Apples,Snacks,14
+2024-02-08,Apples,Snacks,2
+2024-02-09,Apples,Snacks,18
+2024-02-10,Apples,Snacks,15
+2024-02-11,Apples,Snacks,5
+2024-02-12,Apples,Snacks,20
+2024-02-13,Apples,Snacks,14
+2024-02-14,Apples,Snacks,21
+2024-02-15,Apples,Snacks,11
+2024-02-16,Apples,Snacks,13
+2024-02-17,Apples,Snacks,11
+2024-02-18,Apples,Snacks,21
+2024-02-19,Apples,Snacks,4
+2024-02-20,Apples,Snacks,4
+2024-02-21,Apples,Snacks,21
+2024-02-22,Apples,Snacks,12
+2024-02-23,Apples,Snacks,10
+2024-02-24,Apples,Snacks,17
+2024-02-25,Apples,Snacks,2
+2024-02-26,Apples,Snacks,20
+2024-02-27,Apples,Snacks,11
+2024-02-28,Apples,Snacks,2
+2024-02-29,Apples,Snacks,2
+2024-03-01,Apples,Snacks,20
+2024-03-02,Apples,Snacks,13
+2024-03-03,Apples,Snacks,20
+2024-03-04,Apples,Snacks,13
+2024-03-05,Apples,Snacks,21
+2024-03-06,Apples,Snacks,17
+2024-03-07,Apples,Snacks,15
+2024-03-08,Apples,Snacks,14
+2024-03-09,Apples,Snacks,21
+2024-03-10,Apples,Snacks,1
+2024-03-11,Apples,Snacks,16
+2024-03-12,Apples,Snacks,16
+2024-03-13,Apples,Snacks,11
+2024-03-14,Apples,Snacks,21
+2024-03-15,Apples,Snacks,19
+2024-03-16,Apples,Snacks,16
+2024-03-17,Apples,Snacks,7
+2024-03-18,Apples,Snacks,15
+2024-03-19,Apples,Snacks,20
+2024-03-20,Apples,Snacks,10
+2024-03-21,Apples,Snacks,18
+2024-03-22,Apples,Snacks,17
+2024-03-23,Apples,Snacks,18
+2024-03-24,Apples,Snacks,7
+2024-03-25,Apples,Snacks,9
+2024-03-26,Apples,Snacks,14
+2024-03-27,Apples,Snacks,1
+2024-03-28,Apples,Snacks,17
+2024-03-29,Apples,Snacks,1
+2024-03-30,Apples,Snacks,11
+2024-03-31,Apples,Snacks,18
+2024-04-01,Apples,Snacks,13
+2024-04-02,Apples,Snacks,13
+2024-04-03,Apples,Snacks,18
+2024-04-04,Apples,Snacks,20
+2024-04-05,Apples,Snacks,18
+2024-04-06,Apples,Snacks,6
+2024-04-07,Apples,Snacks,13
+2024-04-08,Apples,Snacks,6
+2024-04-09,Apples,Snacks,8
+2024-04-10,Apples,Snacks,18
+2024-04-11,Apples,Snacks,1
+2024-04-12,Apples,Snacks,12
+2024-04-13,Apples,Snacks,1
+2024-04-14,Apples,Snacks,12
+2024-04-15,Apples,Snacks,14
+2024-04-16,Apples,Snacks,5
+2024-04-17,Apples,Snacks,12
+2024-04-18,Apples,Snacks,21
+2024-04-19,Apples,Snacks,2
+2024-04-20,Apples,Snacks,6
+2024-04-21,Apples,Snacks,16
+2024-04-22,Apples,Snacks,2
+2024-04-23,Apples,Snacks,3
+2024-04-24,Apples,Snacks,15
+2024-04-25,Apples,Snacks,18
+2024-04-26,Apples,Snacks,11
+2024-04-27,Apples,Snacks,6
+2024-04-28,Apples,Snacks,17
+2024-04-29,Apples,Snacks,5
+2024-04-30,Apples,Snacks,10
+2024-05-01,Apples,Snacks,11
+2024-05-02,Apples,Snacks,8
+2024-05-03,Apples,Snacks,3
+2024-05-04,Apples,Snacks,17
+2024-05-05,Apples,Snacks,6
+2024-05-06,Apples,Snacks,1
+2024-05-07,Apples,Snacks,15
+2024-05-08,Apples,Snacks,17
+2024-05-09,Apples,Snacks,8
+2024-05-10,Apples,Snacks,2
+2024-05-11,Apples,Snacks,15
+2024-05-12,Apples,Snacks,16
+2024-05-13,Apples,Snacks,17
+2024-05-14,Apples,Snacks,21
+2024-05-15,Apples,Snacks,5
+2024-05-16,Apples,Snacks,6
+2024-05-17,Apples,Snacks,6
+2024-05-18,Apples,Snacks,11
+2024-05-19,Apples,Snacks,8
+2024-05-20,Apples,Snacks,15
+2024-05-21,Apples,Snacks,4
+2024-05-22,Apples,Snacks,8
+2024-05-23,Apples,Snacks,1
+2024-05-24,Apples,Snacks,4
+2024-05-25,Apples,Snacks,16
+2024-05-26,Apples,Snacks,8
+2024-05-27,Apples,Snacks,20
+2024-05-28,Apples,Snacks,19
+2024-05-29,Apples,Snacks,3
+2024-05-30,Apples,Snacks,15
+2024-05-31,Apples,Snacks,18
+2024-06-01,Apples,Snacks,17
+2024-06-02,Apples,Snacks,1
+2024-06-03,Apples,Snacks,19
+2024-06-04,Apples,Snacks,9
+2024-06-05,Apples,Snacks,16
+2024-06-06,Apples,Snacks,10
+2024-06-07,Apples,Snacks,7
+2024-06-08,Apples,Snacks,16
+2024-06-09,Apples,Snacks,10
+2024-06-10,Apples,Snacks,10
+2024-06-11,Apples,Snacks,17
+2024-06-12,Apples,Snacks,12
+2024-06-13,Apples,Snacks,17
+2024-06-14,Apples,Snacks,18
+2024-06-15,Apples,Snacks,7
+2024-06-16,Apples,Snacks,12
+2024-06-17,Apples,Snacks,8
+2024-06-18,Apples,Snacks,18
+2024-06-19,Apples,Snacks,17
+2024-06-20,Apples,Snacks,15
+2024-06-21,Apples,Snacks,11
+2024-06-22,Apples,Snacks,12
+2024-06-23,Apples,Snacks,7
+2024-06-24,Apples,Snacks,17
+2024-06-25,Apples,Snacks,15
+2024-06-26,Apples,Snacks,2
+2024-06-27,Apples,Snacks,5
+2024-06-28,Apples,Snacks,14
+2024-06-29,Apples,Snacks,3
+2024-06-30,Apples,Snacks,21
+2024-07-01,Apples,Snacks,8
+2024-07-02,Apples,Snacks,15
+2024-07-03,Apples,Snacks,5
+2024-07-04,Apples,Snacks,3
+2024-07-05,Apples,Snacks,18
+2024-07-06,Apples,Snacks,5
+2024-07-07,Apples,Snacks,1
+2024-07-08,Apples,Snacks,16
+2024-07-09,Apples,Snacks,4
+2024-07-10,Apples,Snacks,5
+2024-07-11,Apples,Snacks,11
+2024-07-12,Apples,Snacks,14
+2024-07-13,Apples,Snacks,12
+2024-07-14,Apples,Snacks,12
+2024-07-15,Apples,Snacks,5
+2024-07-16,Apples,Snacks,10
+2024-07-17,Apples,Snacks,3
+2024-07-18,Apples,Snacks,8
+2024-07-19,Apples,Snacks,17
+2024-07-20,Apples,Snacks,11
+2024-07-21,Apples,Snacks,16
+2024-07-22,Apples,Snacks,21
+2024-07-23,Apples,Snacks,11
+2024-07-24,Apples,Snacks,21
+2024-07-25,Apples,Snacks,17
+2024-07-26,Apples,Snacks,18
+2024-07-27,Apples,Snacks,10
+2024-07-28,Apples,Snacks,19
+2024-07-29,Apples,Snacks,6
+2024-07-30,Apples,Snacks,9
+2024-07-31,Apples,Snacks,7
+2024-08-01,Apples,Snacks,13
+2024-08-02,Apples,Snacks,15
+2024-08-03,Apples,Snacks,1
+2024-08-04,Apples,Snacks,9
+2024-08-05,Apples,Snacks,20
+2024-08-06,Apples,Snacks,18
+2024-08-07,Apples,Snacks,15
+2024-08-08,Apples,Snacks,10
+2024-08-09,Apples,Snacks,5
+2024-08-10,Apples,Snacks,2
+2024-08-11,Apples,Snacks,9
+2024-08-12,Apples,Snacks,15
+2024-08-13,Apples,Snacks,13
+2024-08-14,Apples,Snacks,7
+2024-08-15,Apples,Snacks,1
+2024-08-16,Apples,Snacks,5
+2024-08-17,Apples,Snacks,20
+2024-08-18,Apples,Snacks,5
+2024-08-19,Apples,Snacks,20
+2024-08-20,Apples,Snacks,17
+2024-08-21,Apples,Snacks,7
+2024-08-22,Apples,Snacks,17
+2024-08-23,Apples,Snacks,1
+2024-08-24,Apples,Snacks,2
+2024-08-25,Apples,Snacks,13
+2024-08-26,Apples,Snacks,19
+2024-08-27,Apples,Snacks,3
+2024-08-28,Apples,Snacks,12
+2024-08-29,Apples,Snacks,10
+2024-08-30,Apples,Snacks,13
+2024-08-31,Apples,Snacks,7
+2024-09-01,Apples,Snacks,18
+2024-09-02,Apples,Snacks,5
+2024-09-03,Apples,Snacks,6
+2024-09-04,Apples,Snacks,14
+2024-09-05,Apples,Snacks,4
+2024-09-06,Apples,Snacks,7
+2024-09-07,Apples,Snacks,13
+2024-09-08,Apples,Snacks,13
+2024-09-09,Apples,Snacks,6
+2024-09-10,Apples,Snacks,17
+2024-09-11,Apples,Snacks,7
+2024-09-12,Apples,Snacks,13
+2024-09-13,Apples,Snacks,17
+2024-09-14,Apples,Snacks,15
+2024-09-15,Apples,Snacks,11
+2024-09-16,Apples,Snacks,18
+2024-09-17,Apples,Snacks,11
+2024-09-18,Apples,Snacks,21
+2024-09-19,Apples,Snacks,1
+2024-09-20,Apples,Snacks,11
+2024-09-21,Apples,Snacks,1
+2024-09-22,Apples,Snacks,7
+2024-09-23,Apples,Snacks,8
+2024-09-24,Apples,Snacks,20
+2024-09-25,Apples,Snacks,3
+2024-09-26,Apples,Snacks,12
+2024-09-27,Apples,Snacks,17
+2024-09-28,Apples,Snacks,18
+2024-09-29,Apples,Snacks,20
+2024-09-30,Apples,Snacks,20
+2024-10-01,Apples,Snacks,8
+2024-10-02,Apples,Snacks,2
+2024-10-03,Apples,Snacks,19
+2024-10-04,Apples,Snacks,16
+2024-10-05,Apples,Snacks,17
+2024-10-06,Apples,Snacks,7
+2024-10-07,Apples,Snacks,18
+2024-10-08,Apples,Snacks,18
+2024-10-09,Apples,Snacks,1
+2024-10-10,Apples,Snacks,17
+2024-10-11,Apples,Snacks,20
+2023-10-13,Oil,Snacks,40
+2023-10-14,Oil,Snacks,29
+2023-10-15,Oil,Snacks,5
+2023-10-16,Oil,Snacks,36
+2023-10-17,Oil,Snacks,25
+2023-10-18,Oil,Snacks,30
+2023-10-19,Oil,Snacks,39
+2023-10-20,Oil,Snacks,24
+2023-10-21,Oil,Snacks,4
+2023-10-22,Oil,Snacks,3
+2023-10-23,Oil,Snacks,31
+2023-10-24,Oil,Snacks,17
+2023-10-25,Oil,Snacks,59
+2023-10-26,Oil,Snacks,63
+2023-10-27,Oil,Snacks,8
+2023-10-28,Oil,Snacks,25
+2023-10-29,Oil,Snacks,11
+2023-10-30,Oil,Snacks,26
+2023-10-31,Oil,Snacks,30
+2023-11-01,Oil,Snacks,62
+2023-11-02,Oil,Snacks,10
+2023-11-03,Oil,Snacks,9
+2023-11-04,Oil,Snacks,5
+2023-11-05,Oil,Snacks,16
+2023-11-06,Oil,Snacks,2
+2023-11-07,Oil,Snacks,18
+2023-11-08,Oil,Snacks,37
+2023-11-09,Oil,Snacks,49
+2023-11-10,Oil,Snacks,9
+2023-11-11,Oil,Snacks,66
+2023-11-12,Oil,Snacks,30
+2023-11-13,Oil,Snacks,55
+2023-11-14,Oil,Snacks,18
+2023-11-15,Oil,Snacks,40
+2023-11-16,Oil,Snacks,38
+2023-11-17,Oil,Snacks,13
+2023-11-18,Oil,Snacks,26
+2023-11-19,Oil,Snacks,31
+2023-11-20,Oil,Snacks,55
+2023-11-21,Oil,Snacks,64
+2023-11-22,Oil,Snacks,8
+2023-11-23,Oil,Snacks,31
+2023-11-24,Oil,Snacks,14
+2023-11-25,Oil,Snacks,57
+2023-11-26,Oil,Snacks,16
+2023-11-27,Oil,Snacks,30
+2023-11-28,Oil,Snacks,22
+2023-11-29,Oil,Snacks,50
+2023-11-30,Oil,Snacks,17
+2023-12-01,Oil,Snacks,39
+2023-12-02,Oil,Snacks,42
+2023-12-03,Oil,Snacks,23
+2023-12-04,Oil,Snacks,64
+2023-12-05,Oil,Snacks,9
+2023-12-06,Oil,Snacks,8
+2023-12-07,Oil,Snacks,64
+2023-12-08,Oil,Snacks,40
+2023-12-09,Oil,Snacks,15
+2023-12-10,Oil,Snacks,12
+2023-12-11,Oil,Snacks,16
+2023-12-12,Oil,Snacks,28
+2023-12-13,Oil,Snacks,60
+2023-12-14,Oil,Snacks,28
+2023-12-15,Oil,Snacks,24
+2023-12-16,Oil,Snacks,3
+2023-12-17,Oil,Snacks,23
+2023-12-18,Oil,Snacks,50
+2023-12-19,Oil,Snacks,61
+2023-12-20,Oil,Snacks,3
+2023-12-21,Oil,Snacks,34
+2023-12-22,Oil,Snacks,29
+2023-12-23,Oil,Snacks,45
+2023-12-24,Oil,Snacks,24
+2023-12-25,Oil,Snacks,37
+2023-12-26,Oil,Snacks,34
+2023-12-27,Oil,Snacks,49
+2023-12-28,Oil,Snacks,21
+2023-12-29,Oil,Snacks,15
+2023-12-30,Oil,Snacks,13
+2023-12-31,Oil,Snacks,16
+2024-01-01,Oil,Snacks,61
+2024-01-02,Oil,Snacks,29
+2024-01-03,Oil,Snacks,57
+2024-01-04,Oil,Snacks,36
+2024-01-05,Oil,Snacks,44
+2024-01-06,Oil,Snacks,15
+2024-01-07,Oil,Snacks,11
+2024-01-08,Oil,Snacks,11
+2024-01-09,Oil,Snacks,28
+2024-01-10,Oil,Snacks,65
+2024-01-11,Oil,Snacks,59
+2024-01-12,Oil,Snacks,52
+2024-01-13,Oil,Snacks,59
+2024-01-14,Oil,Snacks,14
+2024-01-15,Oil,Snacks,35
+2024-01-16,Oil,Snacks,3
+2024-01-17,Oil,Snacks,64
+2024-01-18,Oil,Snacks,39
+2024-01-19,Oil,Snacks,67
+2024-01-20,Oil,Snacks,17
+2024-01-21,Oil,Snacks,21
+2024-01-22,Oil,Snacks,16
+2024-01-23,Oil,Snacks,50
+2024-01-24,Oil,Snacks,25
+2024-01-25,Oil,Snacks,42
+2024-01-26,Oil,Snacks,7
+2024-01-27,Oil,Snacks,4
+2024-01-28,Oil,Snacks,60
+2024-01-29,Oil,Snacks,67
+2024-01-30,Oil,Snacks,46
+2024-01-31,Oil,Snacks,61
+2024-02-01,Oil,Snacks,1
+2024-02-02,Oil,Snacks,31
+2024-02-03,Oil,Snacks,31
+2024-02-04,Oil,Snacks,37
+2024-02-05,Oil,Snacks,14
+2024-02-06,Oil,Snacks,67
+2024-02-07,Oil,Snacks,40
+2024-02-08,Oil,Snacks,9
+2024-02-09,Oil,Snacks,45
+2024-02-10,Oil,Snacks,23
+2024-02-11,Oil,Snacks,22
+2024-02-12,Oil,Snacks,31
+2024-02-13,Oil,Snacks,50
+2024-02-14,Oil,Snacks,63
+2024-02-15,Oil,Snacks,59
+2024-02-16,Oil,Snacks,32
+2024-02-17,Oil,Snacks,62
+2024-02-18,Oil,Snacks,12
+2024-02-19,Oil,Snacks,6
+2024-02-20,Oil,Snacks,32
+2024-02-21,Oil,Snacks,8
+2024-02-22,Oil,Snacks,35
+2024-02-23,Oil,Snacks,58
+2024-02-24,Oil,Snacks,22
+2024-02-25,Oil,Snacks,59
+2024-02-26,Oil,Snacks,46
+2024-02-27,Oil,Snacks,9
+2024-02-28,Oil,Snacks,43
+2024-02-29,Oil,Snacks,3
+2024-03-01,Oil,Snacks,64
+2024-03-02,Oil,Snacks,67
+2024-03-03,Oil,Snacks,6
+2024-03-04,Oil,Snacks,28
+2024-03-05,Oil,Snacks,42
+2024-03-06,Oil,Snacks,22
+2024-03-07,Oil,Snacks,62
+2024-03-08,Oil,Snacks,27
+2024-03-09,Oil,Snacks,28
+2024-03-10,Oil,Snacks,18
+2024-03-11,Oil,Snacks,6
+2024-03-12,Oil,Snacks,28
+2024-03-13,Oil,Snacks,65
+2024-03-14,Oil,Snacks,18
+2024-03-15,Oil,Snacks,49
+2024-03-16,Oil,Snacks,4
+2024-03-17,Oil,Snacks,24
+2024-03-18,Oil,Snacks,12
+2024-03-19,Oil,Snacks,11
+2024-03-20,Oil,Snacks,10
+2024-03-21,Oil,Snacks,15
+2024-03-22,Oil,Snacks,61
+2024-03-23,Oil,Snacks,19
+2024-03-24,Oil,Snacks,7
+2024-03-25,Oil,Snacks,61
+2024-03-26,Oil,Snacks,62
+2024-03-27,Oil,Snacks,65
+2024-03-28,Oil,Snacks,19
+2024-03-29,Oil,Snacks,59
+2024-03-30,Oil,Snacks,19
+2024-03-31,Oil,Snacks,23
+2024-04-01,Oil,Snacks,43
+2024-04-02,Oil,Snacks,7
+2024-04-03,Oil,Snacks,46
+2024-04-04,Oil,Snacks,46
+2024-04-05,Oil,Snacks,31
+2024-04-06,Oil,Snacks,12
+2024-04-07,Oil,Snacks,22
+2024-04-08,Oil,Snacks,65
+2024-04-09,Oil,Snacks,29
+2024-04-10,Oil,Snacks,54
+2024-04-11,Oil,Snacks,14
+2024-04-12,Oil,Snacks,6
+2024-04-13,Oil,Snacks,65
+2024-04-14,Oil,Snacks,2
+2024-04-15,Oil,Snacks,60
+2024-04-16,Oil,Snacks,29
+2024-04-17,Oil,Snacks,32
+2024-04-18,Oil,Snacks,59
+2024-04-19,Oil,Snacks,10
+2024-04-20,Oil,Snacks,31
+2024-04-21,Oil,Snacks,18
+2024-04-22,Oil,Snacks,44
+2024-04-23,Oil,Snacks,59
+2024-04-24,Oil,Snacks,62
+2024-04-25,Oil,Snacks,5
+2024-04-26,Oil,Snacks,20
+2024-04-27,Oil,Snacks,26
+2024-04-28,Oil,Snacks,17
+2024-04-29,Oil,Snacks,42
+2024-04-30,Oil,Snacks,41
+2024-05-01,Oil,Snacks,14
+2024-05-02,Oil,Snacks,27
+2024-05-03,Oil,Snacks,55
+2024-05-04,Oil,Snacks,15
+2024-05-05,Oil,Snacks,33
+2024-05-06,Oil,Snacks,2
+2024-05-07,Oil,Snacks,67
+2024-05-08,Oil,Snacks,2
+2024-05-09,Oil,Snacks,24
+2024-05-10,Oil,Snacks,27
+2024-05-11,Oil,Snacks,22
+2024-05-12,Oil,Snacks,65
+2024-05-13,Oil,Snacks,31
+2024-05-14,Oil,Snacks,13
+2024-05-15,Oil,Snacks,21
+2024-05-16,Oil,Snacks,53
+2024-05-17,Oil,Snacks,40
+2024-05-18,Oil,Snacks,27
+2024-05-19,Oil,Snacks,40
+2024-05-20,Oil,Snacks,45
+2024-05-21,Oil,Snacks,54
+2024-05-22,Oil,Snacks,60
+2024-05-23,Oil,Snacks,64
+2024-05-24,Oil,Snacks,36
+2024-05-25,Oil,Snacks,39
+2024-05-26,Oil,Snacks,1
+2024-05-27,Oil,Snacks,48
+2024-05-28,Oil,Snacks,66
+2024-05-29,Oil,Snacks,23
+2024-05-30,Oil,Snacks,61
+2024-05-31,Oil,Snacks,53
+2024-06-01,Oil,Snacks,35
+2024-06-02,Oil,Snacks,65
+2024-06-03,Oil,Snacks,20
+2024-06-04,Oil,Snacks,59
+2024-06-05,Oil,Snacks,52
+2024-06-06,Oil,Snacks,47
+2024-06-07,Oil,Snacks,49
+2024-06-08,Oil,Snacks,2
+2024-06-09,Oil,Snacks,16
+2024-06-10,Oil,Snacks,24
+2024-06-11,Oil,Snacks,5
+2024-06-12,Oil,Snacks,12
+2024-06-13,Oil,Snacks,67
+2024-06-14,Oil,Snacks,66
+2024-06-15,Oil,Snacks,38
+2024-06-16,Oil,Snacks,60
+2024-06-17,Oil,Snacks,52
+2024-06-18,Oil,Snacks,62
+2024-06-19,Oil,Snacks,35
+2024-06-20,Oil,Snacks,27
+2024-06-21,Oil,Snacks,1
+2024-06-22,Oil,Snacks,41
+2024-06-23,Oil,Snacks,25
+2024-06-24,Oil,Snacks,23
+2024-06-25,Oil,Snacks,50
+2024-06-26,Oil,Snacks,20
+2024-06-27,Oil,Snacks,11
+2024-06-28,Oil,Snacks,4
+2024-06-29,Oil,Snacks,57
+2024-06-30,Oil,Snacks,6
+2024-07-01,Oil,Snacks,13
+2024-07-02,Oil,Snacks,20
+2024-07-03,Oil,Snacks,62
+2024-07-04,Oil,Snacks,34
+2024-07-05,Oil,Snacks,6
+2024-07-06,Oil,Snacks,62
+2024-07-07,Oil,Snacks,27
+2024-07-08,Oil,Snacks,9
+2024-07-09,Oil,Snacks,38
+2024-07-10,Oil,Snacks,1
+2024-07-11,Oil,Snacks,3
+2024-07-12,Oil,Snacks,34
+2024-07-13,Oil,Snacks,55
+2024-07-14,Oil,Snacks,36
+2024-07-15,Oil,Snacks,33
+2024-07-16,Oil,Snacks,44
+2024-07-17,Oil,Snacks,48
+2024-07-18,Oil,Snacks,45
+2024-07-19,Oil,Snacks,67
+2024-07-20,Oil,Snacks,52
+2024-07-21,Oil,Snacks,31
+2024-07-22,Oil,Snacks,6
+2024-07-23,Oil,Snacks,16
+2024-07-24,Oil,Snacks,43
+2024-07-25,Oil,Snacks,65
+2024-07-26,Oil,Snacks,46
+2024-07-27,Oil,Snacks,60
+2024-07-28,Oil,Snacks,54
+2024-07-29,Oil,Snacks,9
+2024-07-30,Oil,Snacks,50
+2024-07-31,Oil,Snacks,34
+2024-08-01,Oil,Snacks,53
+2024-08-02,Oil,Snacks,65
+2024-08-03,Oil,Snacks,37
+2024-08-04,Oil,Snacks,23
+2024-08-05,Oil,Snacks,18
+2024-08-06,Oil,Snacks,12
+2024-08-07,Oil,Snacks,5
+2024-08-08,Oil,Snacks,20
+2024-08-09,Oil,Snacks,55
+2024-08-10,Oil,Snacks,66
+2024-08-11,Oil,Snacks,4
+2024-08-12,Oil,Snacks,27
+2024-08-13,Oil,Snacks,34
+2024-08-14,Oil,Snacks,29
+2024-08-15,Oil,Snacks,40
+2024-08-16,Oil,Snacks,55
+2024-08-17,Oil,Snacks,58
+2024-08-18,Oil,Snacks,41
+2024-08-19,Oil,Snacks,11
+2024-08-20,Oil,Snacks,66
+2024-08-21,Oil,Snacks,41
+2024-08-22,Oil,Snacks,6
+2024-08-23,Oil,Snacks,64
+2024-08-24,Oil,Snacks,29
+2024-08-25,Oil,Snacks,14
+2024-08-26,Oil,Snacks,51
+2024-08-27,Oil,Snacks,47
+2024-08-28,Oil,Snacks,48
+2024-08-29,Oil,Snacks,47
+2024-08-30,Oil,Snacks,5
+2024-08-31,Oil,Snacks,18
+2024-09-01,Oil,Snacks,47
+2024-09-02,Oil,Snacks,6
+2024-09-03,Oil,Snacks,12
+2024-09-04,Oil,Snacks,2
+2024-09-05,Oil,Snacks,3
+2024-09-06,Oil,Snacks,25
+2024-09-07,Oil,Snacks,24
+2024-09-08,Oil,Snacks,63
+2024-09-09,Oil,Snacks,46
+2024-09-10,Oil,Snacks,33
+2024-09-11,Oil,Snacks,11
+2024-09-12,Oil,Snacks,6
+2024-09-13,Oil,Snacks,50
+2024-09-14,Oil,Snacks,64
+2024-09-15,Oil,Snacks,62
+2024-09-16,Oil,Snacks,57
+2024-09-17,Oil,Snacks,17
+2024-09-18,Oil,Snacks,22
+2024-09-19,Oil,Snacks,23
+2024-09-20,Oil,Snacks,46
+2024-09-21,Oil,Snacks,49
+2024-09-22,Oil,Snacks,20
+2024-09-23,Oil,Snacks,26
+2024-09-24,Oil,Snacks,63
+2024-09-25,Oil,Snacks,19
+2024-09-26,Oil,Snacks,4
+2024-09-27,Oil,Snacks,56
+2024-09-28,Oil,Snacks,35
+2024-09-29,Oil,Snacks,43
+2024-09-30,Oil,Snacks,51
+2024-10-01,Oil,Snacks,26
+2024-10-02,Oil,Snacks,48
+2024-10-03,Oil,Snacks,32
+2024-10-04,Oil,Snacks,22
+2024-10-05,Oil,Snacks,51
+2024-10-06,Oil,Snacks,32
+2024-10-07,Oil,Snacks,14
+2024-10-08,Oil,Snacks,1
+2024-10-09,Oil,Snacks,43
+2024-10-10,Oil,Snacks,23
+2024-10-11,Oil,Snacks,28
+2023-10-13,Wine,Snacks,22
+2023-10-14,Wine,Snacks,49
+2023-10-15,Wine,Snacks,10
+2023-10-16,Wine,Snacks,61
+2023-10-17,Wine,Snacks,36
+2023-10-18,Wine,Snacks,32
+2023-10-19,Wine,Snacks,23
+2023-10-20,Wine,Snacks,83
+2023-10-21,Wine,Snacks,46
+2023-10-22,Wine,Snacks,17
+2023-10-23,Wine,Snacks,53
+2023-10-24,Wine,Snacks,52
+2023-10-25,Wine,Snacks,50
+2023-10-26,Wine,Snacks,42
+2023-10-27,Wine,Snacks,54
+2023-10-28,Wine,Snacks,62
+2023-10-29,Wine,Snacks,24
+2023-10-30,Wine,Snacks,57
+2023-10-31,Wine,Snacks,6
+2023-11-01,Wine,Snacks,83
+2023-11-02,Wine,Snacks,83
+2023-11-03,Wine,Snacks,76
+2023-11-04,Wine,Snacks,32
+2023-11-05,Wine,Snacks,25
+2023-11-06,Wine,Snacks,64
+2023-11-07,Wine,Snacks,4
+2023-11-08,Wine,Snacks,39
+2023-11-09,Wine,Snacks,2
+2023-11-10,Wine,Snacks,23
+2023-11-11,Wine,Snacks,71
+2023-11-12,Wine,Snacks,84
+2023-11-13,Wine,Snacks,36
+2023-11-14,Wine,Snacks,60
+2023-11-15,Wine,Snacks,53
+2023-11-16,Wine,Snacks,17
+2023-11-17,Wine,Snacks,71
+2023-11-18,Wine,Snacks,78
+2023-11-19,Wine,Snacks,74
+2023-11-20,Wine,Snacks,65
+2023-11-21,Wine,Snacks,60
+2023-11-22,Wine,Snacks,81
+2023-11-23,Wine,Snacks,40
+2023-11-24,Wine,Snacks,78
+2023-11-25,Wine,Snacks,49
+2023-11-26,Wine,Snacks,56
+2023-11-27,Wine,Snacks,81
+2023-11-28,Wine,Snacks,10
+2023-11-29,Wine,Snacks,82
+2023-11-30,Wine,Snacks,35
+2023-12-01,Wine,Snacks,10
+2023-12-02,Wine,Snacks,43
+2023-12-03,Wine,Snacks,20
+2023-12-04,Wine,Snacks,80
+2023-12-05,Wine,Snacks,17
+2023-12-06,Wine,Snacks,39
+2023-12-07,Wine,Snacks,50
+2023-12-08,Wine,Snacks,73
+2023-12-09,Wine,Snacks,84
+2023-12-10,Wine,Snacks,70
+2023-12-11,Wine,Snacks,77
+2023-12-12,Wine,Snacks,73
+2023-12-13,Wine,Snacks,48
+2023-12-14,Wine,Snacks,33
+2023-12-15,Wine,Snacks,35
+2023-12-16,Wine,Snacks,22
+2023-12-17,Wine,Snacks,23
+2023-12-18,Wine,Snacks,46
+2023-12-19,Wine,Snacks,7
+2023-12-20,Wine,Snacks,15
+2023-12-21,Wine,Snacks,72
+2023-12-22,Wine,Snacks,37
+2023-12-23,Wine,Snacks,74
+2023-12-24,Wine,Snacks,74
+2023-12-25,Wine,Snacks,60
+2023-12-26,Wine,Snacks,50
+2023-12-27,Wine,Snacks,13
+2023-12-28,Wine,Snacks,19
+2023-12-29,Wine,Snacks,49
+2023-12-30,Wine,Snacks,23
+2023-12-31,Wine,Snacks,55
+2024-01-01,Wine,Snacks,15
+2024-01-02,Wine,Snacks,81
+2024-01-03,Wine,Snacks,10
+2024-01-04,Wine,Snacks,56
+2024-01-05,Wine,Snacks,63
+2024-01-06,Wine,Snacks,57
+2024-01-07,Wine,Snacks,46
+2024-01-08,Wine,Snacks,33
+2024-01-09,Wine,Snacks,56
+2024-01-10,Wine,Snacks,18
+2024-01-11,Wine,Snacks,68
+2024-01-12,Wine,Snacks,59
+2024-01-13,Wine,Snacks,4
+2024-01-14,Wine,Snacks,15
+2024-01-15,Wine,Snacks,31
+2024-01-16,Wine,Snacks,2
+2024-01-17,Wine,Snacks,76
+2024-01-18,Wine,Snacks,62
+2024-01-19,Wine,Snacks,33
+2024-01-20,Wine,Snacks,46
+2024-01-21,Wine,Snacks,50
+2024-01-22,Wine,Snacks,20
+2024-01-23,Wine,Snacks,66
+2024-01-24,Wine,Snacks,65
+2024-01-25,Wine,Snacks,84
+2024-01-26,Wine,Snacks,24
+2024-01-27,Wine,Snacks,14
+2024-01-28,Wine,Snacks,49
+2024-01-29,Wine,Snacks,41
+2024-01-30,Wine,Snacks,29
+2024-01-31,Wine,Snacks,21
+2024-02-01,Wine,Snacks,32
+2024-02-02,Wine,Snacks,59
+2024-02-03,Wine,Snacks,53
+2024-02-04,Wine,Snacks,78
+2024-02-05,Wine,Snacks,63
+2024-02-06,Wine,Snacks,71
+2024-02-07,Wine,Snacks,23
+2024-02-08,Wine,Snacks,81
+2024-02-09,Wine,Snacks,34
+2024-02-10,Wine,Snacks,37
+2024-02-11,Wine,Snacks,5
+2024-02-12,Wine,Snacks,42
+2024-02-13,Wine,Snacks,84
+2024-02-14,Wine,Snacks,72
+2024-02-15,Wine,Snacks,72
+2024-02-16,Wine,Snacks,25
+2024-02-17,Wine,Snacks,46
+2024-02-18,Wine,Snacks,27
+2024-02-19,Wine,Snacks,7
+2024-02-20,Wine,Snacks,60
+2024-02-21,Wine,Snacks,12
+2024-02-22,Wine,Snacks,7
+2024-02-23,Wine,Snacks,45
+2024-02-24,Wine,Snacks,8
+2024-02-25,Wine,Snacks,4
+2024-02-26,Wine,Snacks,28
+2024-02-27,Wine,Snacks,46
+2024-02-28,Wine,Snacks,61
+2024-02-29,Wine,Snacks,80
+2024-03-01,Wine,Snacks,40
+2024-03-02,Wine,Snacks,34
+2024-03-03,Wine,Snacks,27
+2024-03-04,Wine,Snacks,26
+2024-03-05,Wine,Snacks,11
+2024-03-06,Wine,Snacks,1
+2024-03-07,Wine,Snacks,21
+2024-03-08,Wine,Snacks,32
+2024-03-09,Wine,Snacks,75
+2024-03-10,Wine,Snacks,60
+2024-03-11,Wine,Snacks,68
+2024-03-12,Wine,Snacks,2
+2024-03-13,Wine,Snacks,84
+2024-03-14,Wine,Snacks,54
+2024-03-15,Wine,Snacks,9
+2024-03-16,Wine,Snacks,69
+2024-03-17,Wine,Snacks,10
+2024-03-18,Wine,Snacks,73
+2024-03-19,Wine,Snacks,3
+2024-03-20,Wine,Snacks,31
+2024-03-21,Wine,Snacks,4
+2024-03-22,Wine,Snacks,7
+2024-03-23,Wine,Snacks,16
+2024-03-24,Wine,Snacks,16
+2024-03-25,Wine,Snacks,13
+2024-03-26,Wine,Snacks,61
+2024-03-27,Wine,Snacks,84
+2024-03-28,Wine,Snacks,45
+2024-03-29,Wine,Snacks,68
+2024-03-30,Wine,Snacks,24
+2024-03-31,Wine,Snacks,60
+2024-04-01,Wine,Snacks,60
+2024-04-02,Wine,Snacks,5
+2024-04-03,Wine,Snacks,32
+2024-04-04,Wine,Snacks,8
+2024-04-05,Wine,Snacks,47
+2024-04-06,Wine,Snacks,82
+2024-04-07,Wine,Snacks,73
+2024-04-08,Wine,Snacks,2
+2024-04-09,Wine,Snacks,65
+2024-04-10,Wine,Snacks,71
+2024-04-11,Wine,Snacks,42
+2024-04-12,Wine,Snacks,20
+2024-04-13,Wine,Snacks,11
+2024-04-14,Wine,Snacks,84
+2024-04-15,Wine,Snacks,2
+2024-04-16,Wine,Snacks,31
+2024-04-17,Wine,Snacks,10
+2024-04-18,Wine,Snacks,81
+2024-04-19,Wine,Snacks,59
+2024-04-20,Wine,Snacks,7
+2024-04-21,Wine,Snacks,37
+2024-04-22,Wine,Snacks,13
+2024-04-23,Wine,Snacks,26
+2024-04-24,Wine,Snacks,3
+2024-04-25,Wine,Snacks,39
+2024-04-26,Wine,Snacks,10
+2024-04-27,Wine,Snacks,37
+2024-04-28,Wine,Snacks,23
+2024-04-29,Wine,Snacks,20
+2024-04-30,Wine,Snacks,34
+2024-05-01,Wine,Snacks,4
+2024-05-02,Wine,Snacks,32
+2024-05-03,Wine,Snacks,42
+2024-05-04,Wine,Snacks,18
+2024-05-05,Wine,Snacks,52
+2024-05-06,Wine,Snacks,1
+2024-05-07,Wine,Snacks,77
+2024-05-08,Wine,Snacks,4
+2024-05-09,Wine,Snacks,73
+2024-05-10,Wine,Snacks,46
+2024-05-11,Wine,Snacks,31
+2024-05-12,Wine,Snacks,66
+2024-05-13,Wine,Snacks,50
+2024-05-14,Wine,Snacks,80
+2024-05-15,Wine,Snacks,21
+2024-05-16,Wine,Snacks,21
+2024-05-17,Wine,Snacks,66
+2024-05-18,Wine,Snacks,52
+2024-05-19,Wine,Snacks,36
+2024-05-20,Wine,Snacks,71
+2024-05-21,Wine,Snacks,15
+2024-05-22,Wine,Snacks,73
+2024-05-23,Wine,Snacks,1
+2024-05-24,Wine,Snacks,16
+2024-05-25,Wine,Snacks,10
+2024-05-26,Wine,Snacks,39
+2024-05-27,Wine,Snacks,11
+2024-05-28,Wine,Snacks,30
+2024-05-29,Wine,Snacks,40
+2024-05-30,Wine,Snacks,33
+2024-05-31,Wine,Snacks,7
+2024-06-01,Wine,Snacks,6
+2024-06-02,Wine,Snacks,50
+2024-06-03,Wine,Snacks,52
+2024-06-04,Wine,Snacks,72
+2024-06-05,Wine,Snacks,80
+2024-06-06,Wine,Snacks,49
+2024-06-07,Wine,Snacks,21
+2024-06-08,Wine,Snacks,68
+2024-06-09,Wine,Snacks,35
+2024-06-10,Wine,Snacks,1
+2024-06-11,Wine,Snacks,16
+2024-06-12,Wine,Snacks,31
+2024-06-13,Wine,Snacks,59
+2024-06-14,Wine,Snacks,18
+2024-06-15,Wine,Snacks,37
+2024-06-16,Wine,Snacks,10
+2024-06-17,Wine,Snacks,49
+2024-06-18,Wine,Snacks,23
+2024-06-19,Wine,Snacks,19
+2024-06-20,Wine,Snacks,42
+2024-06-21,Wine,Snacks,7
+2024-06-22,Wine,Snacks,38
+2024-06-23,Wine,Snacks,41
+2024-06-24,Wine,Snacks,62
+2024-06-25,Wine,Snacks,43
+2024-06-26,Wine,Snacks,82
+2024-06-27,Wine,Snacks,70
+2024-06-28,Wine,Snacks,76
+2024-06-29,Wine,Snacks,11
+2024-06-30,Wine,Snacks,48
+2024-07-01,Wine,Snacks,2
+2024-07-02,Wine,Snacks,82
+2024-07-03,Wine,Snacks,77
+2024-07-04,Wine,Snacks,84
+2024-07-05,Wine,Snacks,24
+2024-07-06,Wine,Snacks,77
+2024-07-07,Wine,Snacks,27
+2024-07-08,Wine,Snacks,15
+2024-07-09,Wine,Snacks,85
+2024-07-10,Wine,Snacks,2
+2024-07-11,Wine,Snacks,10
+2024-07-12,Wine,Snacks,82
+2024-07-13,Wine,Snacks,51
+2024-07-14,Wine,Snacks,73
+2024-07-15,Wine,Snacks,76
+2024-07-16,Wine,Snacks,61
+2024-07-17,Wine,Snacks,18
+2024-07-18,Wine,Snacks,67
+2024-07-19,Wine,Snacks,20
+2024-07-20,Wine,Snacks,35
+2024-07-21,Wine,Snacks,67
+2024-07-22,Wine,Snacks,15
+2024-07-23,Wine,Snacks,18
+2024-07-24,Wine,Snacks,60
+2024-07-25,Wine,Snacks,10
+2024-07-26,Wine,Snacks,43
+2024-07-27,Wine,Snacks,72
+2024-07-28,Wine,Snacks,42
+2024-07-29,Wine,Snacks,28
+2024-07-30,Wine,Snacks,57
+2024-07-31,Wine,Snacks,81
+2024-08-01,Wine,Snacks,13
+2024-08-02,Wine,Snacks,19
+2024-08-03,Wine,Snacks,39
+2024-08-04,Wine,Snacks,53
+2024-08-05,Wine,Snacks,79
+2024-08-06,Wine,Snacks,59
+2024-08-07,Wine,Snacks,37
+2024-08-08,Wine,Snacks,11
+2024-08-09,Wine,Snacks,76
+2024-08-10,Wine,Snacks,16
+2024-08-11,Wine,Snacks,1
+2024-08-12,Wine,Snacks,22
+2024-08-13,Wine,Snacks,81
+2024-08-14,Wine,Snacks,58
+2024-08-15,Wine,Snacks,48
+2024-08-16,Wine,Snacks,47
+2024-08-17,Wine,Snacks,54
+2024-08-18,Wine,Snacks,19
+2024-08-19,Wine,Snacks,64
+2024-08-20,Wine,Snacks,66
+2024-08-21,Wine,Snacks,16
+2024-08-22,Wine,Snacks,39
+2024-08-23,Wine,Snacks,21
+2024-08-24,Wine,Snacks,45
+2024-08-25,Wine,Snacks,65
+2024-08-26,Wine,Snacks,23
+2024-08-27,Wine,Snacks,42
+2024-08-28,Wine,Snacks,10
+2024-08-29,Wine,Snacks,84
+2024-08-30,Wine,Snacks,12
+2024-08-31,Wine,Snacks,41
+2024-09-01,Wine,Snacks,56
+2024-09-02,Wine,Snacks,78
+2024-09-03,Wine,Snacks,6
+2024-09-04,Wine,Snacks,37
+2024-09-05,Wine,Snacks,26
+2024-09-06,Wine,Snacks,79
+2024-09-07,Wine,Snacks,64
+2024-09-08,Wine,Snacks,2
+2024-09-09,Wine,Snacks,1
+2024-09-10,Wine,Snacks,3
+2024-09-11,Wine,Snacks,3
+2024-09-12,Wine,Snacks,29
+2024-09-13,Wine,Snacks,22
+2024-09-14,Wine,Snacks,14
+2024-09-15,Wine,Snacks,57
+2024-09-16,Wine,Snacks,63
+2024-09-17,Wine,Snacks,76
+2024-09-18,Wine,Snacks,80
+2024-09-19,Wine,Snacks,45
+2024-09-20,Wine,Snacks,32
+2024-09-21,Wine,Snacks,4
+2024-09-22,Wine,Snacks,6
+2024-09-23,Wine,Snacks,38
+2024-09-24,Wine,Snacks,22
+2024-09-25,Wine,Snacks,39
+2024-09-26,Wine,Snacks,20
+2024-09-27,Wine,Snacks,8
+2024-09-28,Wine,Snacks,27
+2024-09-29,Wine,Snacks,24
+2024-09-30,Wine,Snacks,84
+2024-10-01,Wine,Snacks,74
+2024-10-02,Wine,Snacks,84
+2024-10-03,Wine,Snacks,75
+2024-10-04,Wine,Snacks,65
+2024-10-05,Wine,Snacks,76
+2024-10-06,Wine,Snacks,10
+2024-10-07,Wine,Snacks,61
+2024-10-08,Wine,Snacks,81
+2024-10-09,Wine,Snacks,70
+2024-10-10,Wine,Snacks,14
+2024-10-11,Wine,Snacks,62
+2023-10-13,Salt,Snacks,18
+2023-10-14,Salt,Snacks,3
+2023-10-15,Salt,Snacks,7
+2023-10-16,Salt,Snacks,10
+2023-10-17,Salt,Snacks,12
+2023-10-18,Salt,Snacks,8
+2023-10-19,Salt,Snacks,13
+2023-10-20,Salt,Snacks,4
+2023-10-21,Salt,Snacks,14
+2023-10-22,Salt,Snacks,8
+2023-10-23,Salt,Snacks,3
+2023-10-24,Salt,Snacks,5
+2023-10-25,Salt,Snacks,1
+2023-10-26,Salt,Snacks,12
+2023-10-27,Salt,Snacks,5
+2023-10-28,Salt,Snacks,13
+2023-10-29,Salt,Snacks,7
+2023-10-30,Salt,Snacks,10
+2023-10-31,Salt,Snacks,18
+2023-11-01,Salt,Snacks,5
+2023-11-02,Salt,Snacks,12
+2023-11-03,Salt,Snacks,11
+2023-11-04,Salt,Snacks,9
+2023-11-05,Salt,Snacks,11
+2023-11-06,Salt,Snacks,12
+2023-11-07,Salt,Snacks,7
+2023-11-08,Salt,Snacks,7
+2023-11-09,Salt,Snacks,10
+2023-11-10,Salt,Snacks,8
+2023-11-11,Salt,Snacks,13
+2023-11-12,Salt,Snacks,6
+2023-11-13,Salt,Snacks,7
+2023-11-14,Salt,Snacks,10
+2023-11-15,Salt,Snacks,9
+2023-11-16,Salt,Snacks,3
+2023-11-17,Salt,Snacks,11
+2023-11-18,Salt,Snacks,10
+2023-11-19,Salt,Snacks,14
+2023-11-20,Salt,Snacks,4
+2023-11-21,Salt,Snacks,2
+2023-11-22,Salt,Snacks,15
+2023-11-23,Salt,Snacks,4
+2023-11-24,Salt,Snacks,3
+2023-11-25,Salt,Snacks,14
+2023-11-26,Salt,Snacks,10
+2023-11-27,Salt,Snacks,10
+2023-11-28,Salt,Snacks,5
+2023-11-29,Salt,Snacks,11
+2023-11-30,Salt,Snacks,13
+2023-12-01,Salt,Snacks,14
+2023-12-02,Salt,Snacks,3
+2023-12-03,Salt,Snacks,3
+2023-12-04,Salt,Snacks,13
+2023-12-05,Salt,Snacks,12
+2023-12-06,Salt,Snacks,8
+2023-12-07,Salt,Snacks,15
+2023-12-08,Salt,Snacks,14
+2023-12-09,Salt,Snacks,8
+2023-12-10,Salt,Snacks,3
+2023-12-11,Salt,Snacks,18
+2023-12-12,Salt,Snacks,12
+2023-12-13,Salt,Snacks,7
+2023-12-14,Salt,Snacks,8
+2023-12-15,Salt,Snacks,3
+2023-12-16,Salt,Snacks,13
+2023-12-17,Salt,Snacks,5
+2023-12-18,Salt,Snacks,16
+2023-12-19,Salt,Snacks,18
+2023-12-20,Salt,Snacks,18
+2023-12-21,Salt,Snacks,5
+2023-12-22,Salt,Snacks,10
+2023-12-23,Salt,Snacks,5
+2023-12-24,Salt,Snacks,2
+2023-12-25,Salt,Snacks,8
+2023-12-26,Salt,Snacks,1
+2023-12-27,Salt,Snacks,18
+2023-12-28,Salt,Snacks,15
+2023-12-29,Salt,Snacks,14
+2023-12-30,Salt,Snacks,6
+2023-12-31,Salt,Snacks,7
+2024-01-01,Salt,Snacks,4
+2024-01-02,Salt,Snacks,2
+2024-01-03,Salt,Snacks,16
+2024-01-04,Salt,Snacks,4
+2024-01-05,Salt,Snacks,2
+2024-01-06,Salt,Snacks,13
+2024-01-07,Salt,Snacks,3
+2024-01-08,Salt,Snacks,9
+2024-01-09,Salt,Snacks,9
+2024-01-10,Salt,Snacks,11
+2024-01-11,Salt,Snacks,3
+2024-01-12,Salt,Snacks,10
+2024-01-13,Salt,Snacks,9
+2024-01-14,Salt,Snacks,6
+2024-01-15,Salt,Snacks,7
+2024-01-16,Salt,Snacks,14
+2024-01-17,Salt,Snacks,11
+2024-01-18,Salt,Snacks,18
+2024-01-19,Salt,Snacks,7
+2024-01-20,Salt,Snacks,7
+2024-01-21,Salt,Snacks,13
+2024-01-22,Salt,Snacks,16
+2024-01-23,Salt,Snacks,12
+2024-01-24,Salt,Snacks,2
+2024-01-25,Salt,Snacks,7
+2024-01-26,Salt,Snacks,10
+2024-01-27,Salt,Snacks,10
+2024-01-28,Salt,Snacks,6
+2024-01-29,Salt,Snacks,12
+2024-01-30,Salt,Snacks,1
+2024-01-31,Salt,Snacks,4
+2024-02-01,Salt,Snacks,13
+2024-02-02,Salt,Snacks,5
+2024-02-03,Salt,Snacks,12
+2024-02-04,Salt,Snacks,7
+2024-02-05,Salt,Snacks,7
+2024-02-06,Salt,Snacks,13
+2024-02-07,Salt,Snacks,16
+2024-02-08,Salt,Snacks,2
+2024-02-09,Salt,Snacks,18
+2024-02-10,Salt,Snacks,10
+2024-02-11,Salt,Snacks,2
+2024-02-12,Salt,Snacks,2
+2024-02-13,Salt,Snacks,7
+2024-02-14,Salt,Snacks,1
+2024-02-15,Salt,Snacks,4
+2024-02-16,Salt,Snacks,7
+2024-02-17,Salt,Snacks,18
+2024-02-18,Salt,Snacks,17
+2024-02-19,Salt,Snacks,12
+2024-02-20,Salt,Snacks,2
+2024-02-21,Salt,Snacks,12
+2024-02-22,Salt,Snacks,17
+2024-02-23,Salt,Snacks,8
+2024-02-24,Salt,Snacks,16
+2024-02-25,Salt,Snacks,7
+2024-02-26,Salt,Snacks,3
+2024-02-27,Salt,Snacks,6
+2024-02-28,Salt,Snacks,2
+2024-02-29,Salt,Snacks,12
+2024-03-01,Salt,Snacks,18
+2024-03-02,Salt,Snacks,14
+2024-03-03,Salt,Snacks,6
+2024-03-04,Salt,Snacks,2
+2024-03-05,Salt,Snacks,16
+2024-03-06,Salt,Snacks,18
+2024-03-07,Salt,Snacks,2
+2024-03-08,Salt,Snacks,2
+2024-03-09,Salt,Snacks,13
+2024-03-10,Salt,Snacks,13
+2024-03-11,Salt,Snacks,13
+2024-03-12,Salt,Snacks,6
+2024-03-13,Salt,Snacks,16
+2024-03-14,Salt,Snacks,2
+2024-03-15,Salt,Snacks,10
+2024-03-16,Salt,Snacks,16
+2024-03-17,Salt,Snacks,11
+2024-03-18,Salt,Snacks,18
+2024-03-19,Salt,Snacks,12
+2024-03-20,Salt,Snacks,11
+2024-03-21,Salt,Snacks,16
+2024-03-22,Salt,Snacks,15
+2024-03-23,Salt,Snacks,1
+2024-03-24,Salt,Snacks,8
+2024-03-25,Salt,Snacks,9
+2024-03-26,Salt,Snacks,11
+2024-03-27,Salt,Snacks,7
+2024-03-28,Salt,Snacks,12
+2024-03-29,Salt,Snacks,7
+2024-03-30,Salt,Snacks,6
+2024-03-31,Salt,Snacks,14
+2024-04-01,Salt,Snacks,4
+2024-04-02,Salt,Snacks,13
+2024-04-03,Salt,Snacks,16
+2024-04-04,Salt,Snacks,2
+2024-04-05,Salt,Snacks,11
+2024-04-06,Salt,Snacks,1
+2024-04-07,Salt,Snacks,14
+2024-04-08,Salt,Snacks,15
+2024-04-09,Salt,Snacks,9
+2024-04-10,Salt,Snacks,4
+2024-04-11,Salt,Snacks,1
+2024-04-12,Salt,Snacks,13
+2024-04-13,Salt,Snacks,18
+2024-04-14,Salt,Snacks,7
+2024-04-15,Salt,Snacks,8
+2024-04-16,Salt,Snacks,4
+2024-04-17,Salt,Snacks,14
+2024-04-18,Salt,Snacks,10
+2024-04-19,Salt,Snacks,7
+2024-04-20,Salt,Snacks,7
+2024-04-21,Salt,Snacks,14
+2024-04-22,Salt,Snacks,11
+2024-04-23,Salt,Snacks,12
+2024-04-24,Salt,Snacks,8
+2024-04-25,Salt,Snacks,5
+2024-04-26,Salt,Snacks,7
+2024-04-27,Salt,Snacks,17
+2024-04-28,Salt,Snacks,13
+2024-04-29,Salt,Snacks,8
+2024-04-30,Salt,Snacks,1
+2024-05-01,Salt,Snacks,11
+2024-05-02,Salt,Snacks,1
+2024-05-03,Salt,Snacks,13
+2024-05-04,Salt,Snacks,14
+2024-05-05,Salt,Snacks,1
+2024-05-06,Salt,Snacks,14
+2024-05-07,Salt,Snacks,10
+2024-05-08,Salt,Snacks,3
+2024-05-09,Salt,Snacks,3
+2024-05-10,Salt,Snacks,18
+2024-05-11,Salt,Snacks,6
+2024-05-12,Salt,Snacks,2
+2024-05-13,Salt,Snacks,4
+2024-05-14,Salt,Snacks,2
+2024-05-15,Salt,Snacks,3
+2024-05-16,Salt,Snacks,18
+2024-05-17,Salt,Snacks,18
+2024-05-18,Salt,Snacks,18
+2024-05-19,Salt,Snacks,5
+2024-05-20,Salt,Snacks,5
+2024-05-21,Salt,Snacks,15
+2024-05-22,Salt,Snacks,8
+2024-05-23,Salt,Snacks,2
+2024-05-24,Salt,Snacks,8
+2024-05-25,Salt,Snacks,6
+2024-05-26,Salt,Snacks,11
+2024-05-27,Salt,Snacks,4
+2024-05-28,Salt,Snacks,10
+2024-05-29,Salt,Snacks,8
+2024-05-30,Salt,Snacks,18
+2024-05-31,Salt,Snacks,18
+2024-06-01,Salt,Snacks,13
+2024-06-02,Salt,Snacks,2
+2024-06-03,Salt,Snacks,10
+2024-06-04,Salt,Snacks,17
+2024-06-05,Salt,Snacks,17
+2024-06-06,Salt,Snacks,13
+2024-06-07,Salt,Snacks,8
+2024-06-08,Salt,Snacks,14
+2024-06-09,Salt,Snacks,3
+2024-06-10,Salt,Snacks,12
+2024-06-11,Salt,Snacks,1
+2024-06-12,Salt,Snacks,15
+2024-06-13,Salt,Snacks,13
+2024-06-14,Salt,Snacks,2
+2024-06-15,Salt,Snacks,4
+2024-06-16,Salt,Snacks,7
+2024-06-17,Salt,Snacks,10
+2024-06-18,Salt,Snacks,13
+2024-06-19,Salt,Snacks,14
+2024-06-20,Salt,Snacks,8
+2024-06-21,Salt,Snacks,8
+2024-06-22,Salt,Snacks,18
+2024-06-23,Salt,Snacks,16
+2024-06-24,Salt,Snacks,17
+2024-06-25,Salt,Snacks,7
+2024-06-26,Salt,Snacks,10
+2024-06-27,Salt,Snacks,12
+2024-06-28,Salt,Snacks,5
+2024-06-29,Salt,Snacks,10
+2024-06-30,Salt,Snacks,5
+2024-07-01,Salt,Snacks,2
+2024-07-02,Salt,Snacks,5
+2024-07-03,Salt,Snacks,7
+2024-07-04,Salt,Snacks,16
+2024-07-05,Salt,Snacks,15
+2024-07-06,Salt,Snacks,1
+2024-07-07,Salt,Snacks,18
+2024-07-08,Salt,Snacks,1
+2024-07-09,Salt,Snacks,9
+2024-07-10,Salt,Snacks,10
+2024-07-11,Salt,Snacks,10
+2024-07-12,Salt,Snacks,15
+2024-07-13,Salt,Snacks,7
+2024-07-14,Salt,Snacks,1
+2024-07-15,Salt,Snacks,7
+2024-07-16,Salt,Snacks,1
+2024-07-17,Salt,Snacks,5
+2024-07-18,Salt,Snacks,18
+2024-07-19,Salt,Snacks,14
+2024-07-20,Salt,Snacks,1
+2024-07-21,Salt,Snacks,11
+2024-07-22,Salt,Snacks,11
+2024-07-23,Salt,Snacks,3
+2024-07-24,Salt,Snacks,3
+2024-07-25,Salt,Snacks,4
+2024-07-26,Salt,Snacks,3
+2024-07-27,Salt,Snacks,3
+2024-07-28,Salt,Snacks,13
+2024-07-29,Salt,Snacks,11
+2024-07-30,Salt,Snacks,14
+2024-07-31,Salt,Snacks,18
+2024-08-01,Salt,Snacks,11
+2024-08-02,Salt,Snacks,16
+2024-08-03,Salt,Snacks,10
+2024-08-04,Salt,Snacks,7
+2024-08-05,Salt,Snacks,5
+2024-08-06,Salt,Snacks,1
+2024-08-07,Salt,Snacks,8
+2024-08-08,Salt,Snacks,13
+2024-08-09,Salt,Snacks,6
+2024-08-10,Salt,Snacks,17
+2024-08-11,Salt,Snacks,15
+2024-08-12,Salt,Snacks,15
+2024-08-13,Salt,Snacks,6
+2024-08-14,Salt,Snacks,7
+2024-08-15,Salt,Snacks,1
+2024-08-16,Salt,Snacks,11
+2024-08-17,Salt,Snacks,13
+2024-08-18,Salt,Snacks,13
+2024-08-19,Salt,Snacks,16
+2024-08-20,Salt,Snacks,4
+2024-08-21,Salt,Snacks,16
+2024-08-22,Salt,Snacks,17
+2024-08-23,Salt,Snacks,16
+2024-08-24,Salt,Snacks,3
+2024-08-25,Salt,Snacks,3
+2024-08-26,Salt,Snacks,6
+2024-08-27,Salt,Snacks,7
+2024-08-28,Salt,Snacks,7
+2024-08-29,Salt,Snacks,13
+2024-08-30,Salt,Snacks,3
+2024-08-31,Salt,Snacks,16
+2024-09-01,Salt,Snacks,11
+2024-09-02,Salt,Snacks,8
+2024-09-03,Salt,Snacks,14
+2024-09-04,Salt,Snacks,10
+2024-09-05,Salt,Snacks,1
+2024-09-06,Salt,Snacks,2
+2024-09-07,Salt,Snacks,7
+2024-09-08,Salt,Snacks,10
+2024-09-09,Salt,Snacks,6
+2024-09-10,Salt,Snacks,15
+2024-09-11,Salt,Snacks,17
+2024-09-12,Salt,Snacks,1
+2024-09-13,Salt,Snacks,7
+2024-09-14,Salt,Snacks,9
+2024-09-15,Salt,Snacks,9
+2024-09-16,Salt,Snacks,17
+2024-09-17,Salt,Snacks,7
+2024-09-18,Salt,Snacks,14
+2024-09-19,Salt,Snacks,7
+2024-09-20,Salt,Snacks,17
+2024-09-21,Salt,Snacks,11
+2024-09-22,Salt,Snacks,4
+2024-09-23,Salt,Snacks,6
+2024-09-24,Salt,Snacks,6
+2024-09-25,Salt,Snacks,9
+2024-09-26,Salt,Snacks,12
+2024-09-27,Salt,Snacks,3
+2024-09-28,Salt,Snacks,9
+2024-09-29,Salt,Snacks,13
+2024-09-30,Salt,Snacks,3
+2024-10-01,Salt,Snacks,10
+2024-10-02,Salt,Snacks,10
+2024-10-03,Salt,Snacks,6
+2024-10-04,Salt,Snacks,6
+2024-10-05,Salt,Snacks,16
+2024-10-06,Salt,Snacks,15
+2024-10-07,Salt,Snacks,15
+2024-10-08,Salt,Snacks,3
+2024-10-09,Salt,Snacks,2
+2024-10-10,Salt,Snacks,15
+2024-10-11,Salt,Snacks,2
+2023-10-13,Granola,Snacks,52
+2023-10-14,Granola,Snacks,21
+2023-10-15,Granola,Snacks,3
+2023-10-16,Granola,Snacks,33
+2023-10-17,Granola,Snacks,17
+2023-10-18,Granola,Snacks,34
+2023-10-19,Granola,Snacks,40
+2023-10-20,Granola,Snacks,55
+2023-10-21,Granola,Snacks,48
+2023-10-22,Granola,Snacks,55
+2023-10-23,Granola,Snacks,34
+2023-10-24,Granola,Snacks,19
+2023-10-25,Granola,Snacks,1
+2023-10-26,Granola,Snacks,7
+2023-10-27,Granola,Snacks,22
+2023-10-28,Granola,Snacks,33
+2023-10-29,Granola,Snacks,37
+2023-10-30,Granola,Snacks,50
+2023-10-31,Granola,Snacks,6
+2023-11-01,Granola,Snacks,3
+2023-11-02,Granola,Snacks,50
+2023-11-03,Granola,Snacks,35
+2023-11-04,Granola,Snacks,16
+2023-11-05,Granola,Snacks,47
+2023-11-06,Granola,Snacks,26
+2023-11-07,Granola,Snacks,34
+2023-11-08,Granola,Snacks,35
+2023-11-09,Granola,Snacks,37
+2023-11-10,Granola,Snacks,40
+2023-11-11,Granola,Snacks,41
+2023-11-12,Granola,Snacks,43
+2023-11-13,Granola,Snacks,46
+2023-11-14,Granola,Snacks,5
+2023-11-15,Granola,Snacks,54
+2023-11-16,Granola,Snacks,50
+2023-11-17,Granola,Snacks,18
+2023-11-18,Granola,Snacks,49
+2023-11-19,Granola,Snacks,41
+2023-11-20,Granola,Snacks,24
+2023-11-21,Granola,Snacks,30
+2023-11-22,Granola,Snacks,15
+2023-11-23,Granola,Snacks,18
+2023-11-24,Granola,Snacks,16
+2023-11-25,Granola,Snacks,18
+2023-11-26,Granola,Snacks,27
+2023-11-27,Granola,Snacks,1
+2023-11-28,Granola,Snacks,11
+2023-11-29,Granola,Snacks,39
+2023-11-30,Granola,Snacks,10
+2023-12-01,Granola,Snacks,9
+2023-12-02,Granola,Snacks,53
+2023-12-03,Granola,Snacks,39
+2023-12-04,Granola,Snacks,17
+2023-12-05,Granola,Snacks,35
+2023-12-06,Granola,Snacks,35
+2023-12-07,Granola,Snacks,10
+2023-12-08,Granola,Snacks,52
+2023-12-09,Granola,Snacks,33
+2023-12-10,Granola,Snacks,15
+2023-12-11,Granola,Snacks,53
+2023-12-12,Granola,Snacks,9
+2023-12-13,Granola,Snacks,9
+2023-12-14,Granola,Snacks,27
+2023-12-15,Granola,Snacks,22
+2023-12-16,Granola,Snacks,39
+2023-12-17,Granola,Snacks,42
+2023-12-18,Granola,Snacks,45
+2023-12-19,Granola,Snacks,53
+2023-12-20,Granola,Snacks,32
+2023-12-21,Granola,Snacks,40
+2023-12-22,Granola,Snacks,17
+2023-12-23,Granola,Snacks,1
+2023-12-24,Granola,Snacks,46
+2023-12-25,Granola,Snacks,47
+2023-12-26,Granola,Snacks,14
+2023-12-27,Granola,Snacks,31
+2023-12-28,Granola,Snacks,8
+2023-12-29,Granola,Snacks,13
+2023-12-30,Granola,Snacks,5
+2023-12-31,Granola,Snacks,28
+2024-01-01,Granola,Snacks,4
+2024-01-02,Granola,Snacks,48
+2024-01-03,Granola,Snacks,29
+2024-01-04,Granola,Snacks,42
+2024-01-05,Granola,Snacks,44
+2024-01-06,Granola,Snacks,11
+2024-01-07,Granola,Snacks,32
+2024-01-08,Granola,Snacks,55
+2024-01-09,Granola,Snacks,43
+2024-01-10,Granola,Snacks,14
+2024-01-11,Granola,Snacks,3
+2024-01-12,Granola,Snacks,7
+2024-01-13,Granola,Snacks,28
+2024-01-14,Granola,Snacks,46
+2024-01-15,Granola,Snacks,46
+2024-01-16,Granola,Snacks,33
+2024-01-17,Granola,Snacks,18
+2024-01-18,Granola,Snacks,29
+2024-01-19,Granola,Snacks,21
+2024-01-20,Granola,Snacks,34
+2024-01-21,Granola,Snacks,31
+2024-01-22,Granola,Snacks,44
+2024-01-23,Granola,Snacks,14
+2024-01-24,Granola,Snacks,18
+2024-01-25,Granola,Snacks,54
+2024-01-26,Granola,Snacks,45
+2024-01-27,Granola,Snacks,45
+2024-01-28,Granola,Snacks,38
+2024-01-29,Granola,Snacks,26
+2024-01-30,Granola,Snacks,25
+2024-01-31,Granola,Snacks,54
+2024-02-01,Granola,Snacks,2
+2024-02-02,Granola,Snacks,33
+2024-02-03,Granola,Snacks,44
+2024-02-04,Granola,Snacks,22
+2024-02-05,Granola,Snacks,37
+2024-02-06,Granola,Snacks,43
+2024-02-07,Granola,Snacks,40
+2024-02-08,Granola,Snacks,21
+2024-02-09,Granola,Snacks,2
+2024-02-10,Granola,Snacks,31
+2024-02-11,Granola,Snacks,6
+2024-02-12,Granola,Snacks,54
+2024-02-13,Granola,Snacks,6
+2024-02-14,Granola,Snacks,29
+2024-02-15,Granola,Snacks,23
+2024-02-16,Granola,Snacks,47
+2024-02-17,Granola,Snacks,34
+2024-02-18,Granola,Snacks,37
+2024-02-19,Granola,Snacks,7
+2024-02-20,Granola,Snacks,51
+2024-02-21,Granola,Snacks,5
+2024-02-22,Granola,Snacks,54
+2024-02-23,Granola,Snacks,47
+2024-02-24,Granola,Snacks,48
+2024-02-25,Granola,Snacks,30
+2024-02-26,Granola,Snacks,3
+2024-02-27,Granola,Snacks,15
+2024-02-28,Granola,Snacks,8
+2024-02-29,Granola,Snacks,31
+2024-03-01,Granola,Snacks,23
+2024-03-02,Granola,Snacks,16
+2024-03-03,Granola,Snacks,15
+2024-03-04,Granola,Snacks,26
+2024-03-05,Granola,Snacks,43
+2024-03-06,Granola,Snacks,49
+2024-03-07,Granola,Snacks,37
+2024-03-08,Granola,Snacks,29
+2024-03-09,Granola,Snacks,48
+2024-03-10,Granola,Snacks,19
+2024-03-11,Granola,Snacks,9
+2024-03-12,Granola,Snacks,32
+2024-03-13,Granola,Snacks,20
+2024-03-14,Granola,Snacks,44
+2024-03-15,Granola,Snacks,11
+2024-03-16,Granola,Snacks,34
+2024-03-17,Granola,Snacks,32
+2024-03-18,Granola,Snacks,53
+2024-03-19,Granola,Snacks,49
+2024-03-20,Granola,Snacks,1
+2024-03-21,Granola,Snacks,39
+2024-03-22,Granola,Snacks,32
+2024-03-23,Granola,Snacks,4
+2024-03-24,Granola,Snacks,54
+2024-03-25,Granola,Snacks,4
+2024-03-26,Granola,Snacks,47
+2024-03-27,Granola,Snacks,23
+2024-03-28,Granola,Snacks,25
+2024-03-29,Granola,Snacks,36
+2024-03-30,Granola,Snacks,52
+2024-03-31,Granola,Snacks,35
+2024-04-01,Granola,Snacks,19
+2024-04-02,Granola,Snacks,21
+2024-04-03,Granola,Snacks,20
+2024-04-04,Granola,Snacks,15
+2024-04-05,Granola,Snacks,44
+2024-04-06,Granola,Snacks,32
+2024-04-07,Granola,Snacks,33
+2024-04-08,Granola,Snacks,5
+2024-04-09,Granola,Snacks,47
+2024-04-10,Granola,Snacks,6
+2024-04-11,Granola,Snacks,34
+2024-04-12,Granola,Snacks,1
+2024-04-13,Granola,Snacks,53
+2024-04-14,Granola,Snacks,43
+2024-04-15,Granola,Snacks,15
+2024-04-16,Granola,Snacks,39
+2024-04-17,Granola,Snacks,44
+2024-04-18,Granola,Snacks,1
+2024-04-19,Granola,Snacks,19
+2024-04-20,Granola,Snacks,22
+2024-04-21,Granola,Snacks,26
+2024-04-22,Granola,Snacks,6
+2024-04-23,Granola,Snacks,55
+2024-04-24,Granola,Snacks,2
+2024-04-25,Granola,Snacks,47
+2024-04-26,Granola,Snacks,46
+2024-04-27,Granola,Snacks,40
+2024-04-28,Granola,Snacks,35
+2024-04-29,Granola,Snacks,50
+2024-04-30,Granola,Snacks,13
+2024-05-01,Granola,Snacks,21
+2024-05-02,Granola,Snacks,41
+2024-05-03,Granola,Snacks,26
+2024-05-04,Granola,Snacks,4
+2024-05-05,Granola,Snacks,35
+2024-05-06,Granola,Snacks,4
+2024-05-07,Granola,Snacks,45
+2024-05-08,Granola,Snacks,53
+2024-05-09,Granola,Snacks,29
+2024-05-10,Granola,Snacks,55
+2024-05-11,Granola,Snacks,24
+2024-05-12,Granola,Snacks,23
+2024-05-13,Granola,Snacks,2
+2024-05-14,Granola,Snacks,10
+2024-05-15,Granola,Snacks,39
+2024-05-16,Granola,Snacks,5
+2024-05-17,Granola,Snacks,54
+2024-05-18,Granola,Snacks,20
+2024-05-19,Granola,Snacks,3
+2024-05-20,Granola,Snacks,38
+2024-05-21,Granola,Snacks,36
+2024-05-22,Granola,Snacks,36
+2024-05-23,Granola,Snacks,44
+2024-05-24,Granola,Snacks,16
+2024-05-25,Granola,Snacks,54
+2024-05-26,Granola,Snacks,3
+2024-05-27,Granola,Snacks,29
+2024-05-28,Granola,Snacks,28
+2024-05-29,Granola,Snacks,30
+2024-05-30,Granola,Snacks,42
+2024-05-31,Granola,Snacks,1
+2024-06-01,Granola,Snacks,11
+2024-06-02,Granola,Snacks,8
+2024-06-03,Granola,Snacks,26
+2024-06-04,Granola,Snacks,55
+2024-06-05,Granola,Snacks,16
+2024-06-06,Granola,Snacks,27
+2024-06-07,Granola,Snacks,28
+2024-06-08,Granola,Snacks,13
+2024-06-09,Granola,Snacks,41
+2024-06-10,Granola,Snacks,33
+2024-06-11,Granola,Snacks,17
+2024-06-12,Granola,Snacks,33
+2024-06-13,Granola,Snacks,48
+2024-06-14,Granola,Snacks,48
+2024-06-15,Granola,Snacks,21
+2024-06-16,Granola,Snacks,54
+2024-06-17,Granola,Snacks,45
+2024-06-18,Granola,Snacks,16
+2024-06-19,Granola,Snacks,52
+2024-06-20,Granola,Snacks,7
+2024-06-21,Granola,Snacks,31
+2024-06-22,Granola,Snacks,44
+2024-06-23,Granola,Snacks,26
+2024-06-24,Granola,Snacks,16
+2024-06-25,Granola,Snacks,16
+2024-06-26,Granola,Snacks,22
+2024-06-27,Granola,Snacks,41
+2024-06-28,Granola,Snacks,47
+2024-06-29,Granola,Snacks,17
+2024-06-30,Granola,Snacks,32
+2024-07-01,Granola,Snacks,25
+2024-07-02,Granola,Snacks,24
+2024-07-03,Granola,Snacks,37
+2024-07-04,Granola,Snacks,38
+2024-07-05,Granola,Snacks,9
+2024-07-06,Granola,Snacks,4
+2024-07-07,Granola,Snacks,47
+2024-07-08,Granola,Snacks,31
+2024-07-09,Granola,Snacks,6
+2024-07-10,Granola,Snacks,29
+2024-07-11,Granola,Snacks,45
+2024-07-12,Granola,Snacks,43
+2024-07-13,Granola,Snacks,1
+2024-07-14,Granola,Snacks,9
+2024-07-15,Granola,Snacks,1
+2024-07-16,Granola,Snacks,2
+2024-07-17,Granola,Snacks,49
+2024-07-18,Granola,Snacks,5
+2024-07-19,Granola,Snacks,30
+2024-07-20,Granola,Snacks,36
+2024-07-21,Granola,Snacks,48
+2024-07-22,Granola,Snacks,52
+2024-07-23,Granola,Snacks,11
+2024-07-24,Granola,Snacks,18
+2024-07-25,Granola,Snacks,34
+2024-07-26,Granola,Snacks,48
+2024-07-27,Granola,Snacks,6
+2024-07-28,Granola,Snacks,25
+2024-07-29,Granola,Snacks,25
+2024-07-30,Granola,Snacks,8
+2024-07-31,Granola,Snacks,25
+2024-08-01,Granola,Snacks,52
+2024-08-02,Granola,Snacks,19
+2024-08-03,Granola,Snacks,47
+2024-08-04,Granola,Snacks,46
+2024-08-05,Granola,Snacks,33
+2024-08-06,Granola,Snacks,38
+2024-08-07,Granola,Snacks,54
+2024-08-08,Granola,Snacks,50
+2024-08-09,Granola,Snacks,27
+2024-08-10,Granola,Snacks,30
+2024-08-11,Granola,Snacks,31
+2024-08-12,Granola,Snacks,33
+2024-08-13,Granola,Snacks,26
+2024-08-14,Granola,Snacks,50
+2024-08-15,Granola,Snacks,16
+2024-08-16,Granola,Snacks,51
+2024-08-17,Granola,Snacks,26
+2024-08-18,Granola,Snacks,50
+2024-08-19,Granola,Snacks,44
+2024-08-20,Granola,Snacks,31
+2024-08-21,Granola,Snacks,31
+2024-08-22,Granola,Snacks,35
+2024-08-23,Granola,Snacks,4
+2024-08-24,Granola,Snacks,37
+2024-08-25,Granola,Snacks,8
+2024-08-26,Granola,Snacks,6
+2024-08-27,Granola,Snacks,16
+2024-08-28,Granola,Snacks,16
+2024-08-29,Granola,Snacks,49
+2024-08-30,Granola,Snacks,44
+2024-08-31,Granola,Snacks,14
+2024-09-01,Granola,Snacks,46
+2024-09-02,Granola,Snacks,6
+2024-09-03,Granola,Snacks,18
+2024-09-04,Granola,Snacks,54
+2024-09-05,Granola,Snacks,54
+2024-09-06,Granola,Snacks,32
+2024-09-07,Granola,Snacks,43
+2024-09-08,Granola,Snacks,44
+2024-09-09,Granola,Snacks,33
+2024-09-10,Granola,Snacks,32
+2024-09-11,Granola,Snacks,15
+2024-09-12,Granola,Snacks,36
+2024-09-13,Granola,Snacks,26
+2024-09-14,Granola,Snacks,31
+2024-09-15,Granola,Snacks,3
+2024-09-16,Granola,Snacks,40
+2024-09-17,Granola,Snacks,36
+2024-09-18,Granola,Snacks,28
+2024-09-19,Granola,Snacks,30
+2024-09-20,Granola,Snacks,39
+2024-09-21,Granola,Snacks,35
+2024-09-22,Granola,Snacks,26
+2024-09-23,Granola,Snacks,7
+2024-09-24,Granola,Snacks,2
+2024-09-25,Granola,Snacks,29
+2024-09-26,Granola,Snacks,45
+2024-09-27,Granola,Snacks,47
+2024-09-28,Granola,Snacks,53
+2024-09-29,Granola,Snacks,21
+2024-09-30,Granola,Snacks,4
+2024-10-01,Granola,Snacks,36
+2024-10-02,Granola,Snacks,14
+2024-10-03,Granola,Snacks,6
+2024-10-04,Granola,Snacks,50
+2024-10-05,Granola,Snacks,19
+2024-10-06,Granola,Snacks,10
+2024-10-07,Granola,Snacks,7
+2024-10-08,Granola,Snacks,26
+2024-10-09,Granola,Snacks,45
+2024-10-10,Granola,Snacks,32
+2024-10-11,Granola,Snacks,53
+2023-10-13,Sugar,Snacks,52
+2023-10-14,Sugar,Snacks,25
+2023-10-15,Sugar,Snacks,41
+2023-10-16,Sugar,Snacks,45
+2023-10-17,Sugar,Snacks,2
+2023-10-18,Sugar,Snacks,4
+2023-10-19,Sugar,Snacks,10
+2023-10-20,Sugar,Snacks,21
+2023-10-21,Sugar,Snacks,5
+2023-10-22,Sugar,Snacks,45
+2023-10-23,Sugar,Snacks,48
+2023-10-24,Sugar,Snacks,6
+2023-10-25,Sugar,Snacks,26
+2023-10-26,Sugar,Snacks,19
+2023-10-27,Sugar,Snacks,50
+2023-10-28,Sugar,Snacks,43
+2023-10-29,Sugar,Snacks,23
+2023-10-30,Sugar,Snacks,41
+2023-10-31,Sugar,Snacks,14
+2023-11-01,Sugar,Snacks,18
+2023-11-02,Sugar,Snacks,21
+2023-11-03,Sugar,Snacks,67
+2023-11-04,Sugar,Snacks,15
+2023-11-05,Sugar,Snacks,14
+2023-11-06,Sugar,Snacks,36
+2023-11-07,Sugar,Snacks,15
+2023-11-08,Sugar,Snacks,16
+2023-11-09,Sugar,Snacks,17
+2023-11-10,Sugar,Snacks,6
+2023-11-11,Sugar,Snacks,37
+2023-11-12,Sugar,Snacks,28
+2023-11-13,Sugar,Snacks,72
+2023-11-14,Sugar,Snacks,24
+2023-11-15,Sugar,Snacks,68
+2023-11-16,Sugar,Snacks,67
+2023-11-17,Sugar,Snacks,38
+2023-11-18,Sugar,Snacks,58
+2023-11-19,Sugar,Snacks,23
+2023-11-20,Sugar,Snacks,20
+2023-11-21,Sugar,Snacks,67
+2023-11-22,Sugar,Snacks,40
+2023-11-23,Sugar,Snacks,1
+2023-11-24,Sugar,Snacks,21
+2023-11-25,Sugar,Snacks,50
+2023-11-26,Sugar,Snacks,10
+2023-11-27,Sugar,Snacks,30
+2023-11-28,Sugar,Snacks,29
+2023-11-29,Sugar,Snacks,3
+2023-11-30,Sugar,Snacks,12
+2023-12-01,Sugar,Snacks,69
+2023-12-02,Sugar,Snacks,44
+2023-12-03,Sugar,Snacks,3
+2023-12-04,Sugar,Snacks,18
+2023-12-05,Sugar,Snacks,58
+2023-12-06,Sugar,Snacks,72
+2023-12-07,Sugar,Snacks,39
+2023-12-08,Sugar,Snacks,57
+2023-12-09,Sugar,Snacks,15
+2023-12-10,Sugar,Snacks,17
+2023-12-11,Sugar,Snacks,16
+2023-12-12,Sugar,Snacks,42
+2023-12-13,Sugar,Snacks,64
+2023-12-14,Sugar,Snacks,4
+2023-12-15,Sugar,Snacks,22
+2023-12-16,Sugar,Snacks,70
+2023-12-17,Sugar,Snacks,69
+2023-12-18,Sugar,Snacks,15
+2023-12-19,Sugar,Snacks,29
+2023-12-20,Sugar,Snacks,67
+2023-12-21,Sugar,Snacks,60
+2023-12-22,Sugar,Snacks,32
+2023-12-23,Sugar,Snacks,33
+2023-12-24,Sugar,Snacks,1
+2023-12-25,Sugar,Snacks,65
+2023-12-26,Sugar,Snacks,26
+2023-12-27,Sugar,Snacks,43
+2023-12-28,Sugar,Snacks,27
+2023-12-29,Sugar,Snacks,58
+2023-12-30,Sugar,Snacks,54
+2023-12-31,Sugar,Snacks,46
+2024-01-01,Sugar,Snacks,25
+2024-01-02,Sugar,Snacks,19
+2024-01-03,Sugar,Snacks,9
+2024-01-04,Sugar,Snacks,30
+2024-01-05,Sugar,Snacks,45
+2024-01-06,Sugar,Snacks,55
+2024-01-07,Sugar,Snacks,11
+2024-01-08,Sugar,Snacks,35
+2024-01-09,Sugar,Snacks,17
+2024-01-10,Sugar,Snacks,58
+2024-01-11,Sugar,Snacks,28
+2024-01-12,Sugar,Snacks,2
+2024-01-13,Sugar,Snacks,21
+2024-01-14,Sugar,Snacks,42
+2024-01-15,Sugar,Snacks,67
+2024-01-16,Sugar,Snacks,19
+2024-01-17,Sugar,Snacks,5
+2024-01-18,Sugar,Snacks,34
+2024-01-19,Sugar,Snacks,51
+2024-01-20,Sugar,Snacks,42
+2024-01-21,Sugar,Snacks,43
+2024-01-22,Sugar,Snacks,33
+2024-01-23,Sugar,Snacks,73
+2024-01-24,Sugar,Snacks,67
+2024-01-25,Sugar,Snacks,21
+2024-01-26,Sugar,Snacks,19
+2024-01-27,Sugar,Snacks,63
+2024-01-28,Sugar,Snacks,67
+2024-01-29,Sugar,Snacks,11
+2024-01-30,Sugar,Snacks,25
+2024-01-31,Sugar,Snacks,63
+2024-02-01,Sugar,Snacks,39
+2024-02-02,Sugar,Snacks,74
+2024-02-03,Sugar,Snacks,60
+2024-02-04,Sugar,Snacks,45
+2024-02-05,Sugar,Snacks,1
+2024-02-06,Sugar,Snacks,47
+2024-02-07,Sugar,Snacks,50
+2024-02-08,Sugar,Snacks,71
+2024-02-09,Sugar,Snacks,17
+2024-02-10,Sugar,Snacks,31
+2024-02-11,Sugar,Snacks,27
+2024-02-12,Sugar,Snacks,31
+2024-02-13,Sugar,Snacks,18
+2024-02-14,Sugar,Snacks,73
+2024-02-15,Sugar,Snacks,71
+2024-02-16,Sugar,Snacks,48
+2024-02-17,Sugar,Snacks,26
+2024-02-18,Sugar,Snacks,29
+2024-02-19,Sugar,Snacks,56
+2024-02-20,Sugar,Snacks,58
+2024-02-21,Sugar,Snacks,68
+2024-02-22,Sugar,Snacks,31
+2024-02-23,Sugar,Snacks,75
+2024-02-24,Sugar,Snacks,46
+2024-02-25,Sugar,Snacks,13
+2024-02-26,Sugar,Snacks,65
+2024-02-27,Sugar,Snacks,34
+2024-02-28,Sugar,Snacks,31
+2024-02-29,Sugar,Snacks,42
+2024-03-01,Sugar,Snacks,61
+2024-03-02,Sugar,Snacks,62
+2024-03-03,Sugar,Snacks,15
+2024-03-04,Sugar,Snacks,27
+2024-03-05,Sugar,Snacks,42
+2024-03-06,Sugar,Snacks,64
+2024-03-07,Sugar,Snacks,39
+2024-03-08,Sugar,Snacks,1
+2024-03-09,Sugar,Snacks,73
+2024-03-10,Sugar,Snacks,9
+2024-03-11,Sugar,Snacks,68
+2024-03-12,Sugar,Snacks,31
+2024-03-13,Sugar,Snacks,49
+2024-03-14,Sugar,Snacks,40
+2024-03-15,Sugar,Snacks,3
+2024-03-16,Sugar,Snacks,17
+2024-03-17,Sugar,Snacks,34
+2024-03-18,Sugar,Snacks,42
+2024-03-19,Sugar,Snacks,32
+2024-03-20,Sugar,Snacks,39
+2024-03-21,Sugar,Snacks,54
+2024-03-22,Sugar,Snacks,43
+2024-03-23,Sugar,Snacks,66
+2024-03-24,Sugar,Snacks,11
+2024-03-25,Sugar,Snacks,8
+2024-03-26,Sugar,Snacks,35
+2024-03-27,Sugar,Snacks,27
+2024-03-28,Sugar,Snacks,73
+2024-03-29,Sugar,Snacks,73
+2024-03-30,Sugar,Snacks,17
+2024-03-31,Sugar,Snacks,2
+2024-04-01,Sugar,Snacks,22
+2024-04-02,Sugar,Snacks,61
+2024-04-03,Sugar,Snacks,2
+2024-04-04,Sugar,Snacks,17
+2024-04-05,Sugar,Snacks,67
+2024-04-06,Sugar,Snacks,22
+2024-04-07,Sugar,Snacks,33
+2024-04-08,Sugar,Snacks,55
+2024-04-09,Sugar,Snacks,70
+2024-04-10,Sugar,Snacks,54
+2024-04-11,Sugar,Snacks,42
+2024-04-12,Sugar,Snacks,40
+2024-04-13,Sugar,Snacks,17
+2024-04-14,Sugar,Snacks,33
+2024-04-15,Sugar,Snacks,39
+2024-04-16,Sugar,Snacks,25
+2024-04-17,Sugar,Snacks,58
+2024-04-18,Sugar,Snacks,46
+2024-04-19,Sugar,Snacks,6
+2024-04-20,Sugar,Snacks,34
+2024-04-21,Sugar,Snacks,12
+2024-04-22,Sugar,Snacks,48
+2024-04-23,Sugar,Snacks,50
+2024-04-24,Sugar,Snacks,21
+2024-04-25,Sugar,Snacks,46
+2024-04-26,Sugar,Snacks,39
+2024-04-27,Sugar,Snacks,59
+2024-04-28,Sugar,Snacks,9
+2024-04-29,Sugar,Snacks,19
+2024-04-30,Sugar,Snacks,7
+2024-05-01,Sugar,Snacks,75
+2024-05-02,Sugar,Snacks,74
+2024-05-03,Sugar,Snacks,75
+2024-05-04,Sugar,Snacks,53
+2024-05-05,Sugar,Snacks,21
+2024-05-06,Sugar,Snacks,55
+2024-05-07,Sugar,Snacks,41
+2024-05-08,Sugar,Snacks,39
+2024-05-09,Sugar,Snacks,75
+2024-05-10,Sugar,Snacks,27
+2024-05-11,Sugar,Snacks,41
+2024-05-12,Sugar,Snacks,61
+2024-05-13,Sugar,Snacks,24
+2024-05-14,Sugar,Snacks,65
+2024-05-15,Sugar,Snacks,60
+2024-05-16,Sugar,Snacks,50
+2024-05-17,Sugar,Snacks,58
+2024-05-18,Sugar,Snacks,10
+2024-05-19,Sugar,Snacks,11
+2024-05-20,Sugar,Snacks,58
+2024-05-21,Sugar,Snacks,36
+2024-05-22,Sugar,Snacks,65
+2024-05-23,Sugar,Snacks,74
+2024-05-24,Sugar,Snacks,30
+2024-05-25,Sugar,Snacks,7
+2024-05-26,Sugar,Snacks,12
+2024-05-27,Sugar,Snacks,37
+2024-05-28,Sugar,Snacks,9
+2024-05-29,Sugar,Snacks,47
+2024-05-30,Sugar,Snacks,74
+2024-05-31,Sugar,Snacks,4
+2024-06-01,Sugar,Snacks,68
+2024-06-02,Sugar,Snacks,57
+2024-06-03,Sugar,Snacks,31
+2024-06-04,Sugar,Snacks,42
+2024-06-05,Sugar,Snacks,62
+2024-06-06,Sugar,Snacks,12
+2024-06-07,Sugar,Snacks,10
+2024-06-08,Sugar,Snacks,53
+2024-06-09,Sugar,Snacks,20
+2024-06-10,Sugar,Snacks,59
+2024-06-11,Sugar,Snacks,23
+2024-06-12,Sugar,Snacks,67
+2024-06-13,Sugar,Snacks,7
+2024-06-14,Sugar,Snacks,48
+2024-06-15,Sugar,Snacks,67
+2024-06-16,Sugar,Snacks,26
+2024-06-17,Sugar,Snacks,15
+2024-06-18,Sugar,Snacks,66
+2024-06-19,Sugar,Snacks,55
+2024-06-20,Sugar,Snacks,12
+2024-06-21,Sugar,Snacks,54
+2024-06-22,Sugar,Snacks,6
+2024-06-23,Sugar,Snacks,71
+2024-06-24,Sugar,Snacks,47
+2024-06-25,Sugar,Snacks,32
+2024-06-26,Sugar,Snacks,25
+2024-06-27,Sugar,Snacks,59
+2024-06-28,Sugar,Snacks,63
+2024-06-29,Sugar,Snacks,19
+2024-06-30,Sugar,Snacks,37
+2024-07-01,Sugar,Snacks,48
+2024-07-02,Sugar,Snacks,14
+2024-07-03,Sugar,Snacks,26
+2024-07-04,Sugar,Snacks,53
+2024-07-05,Sugar,Snacks,70
+2024-07-06,Sugar,Snacks,7
+2024-07-07,Sugar,Snacks,10
+2024-07-08,Sugar,Snacks,73
+2024-07-09,Sugar,Snacks,4
+2024-07-10,Sugar,Snacks,23
+2024-07-11,Sugar,Snacks,75
+2024-07-12,Sugar,Snacks,8
+2024-07-13,Sugar,Snacks,75
+2024-07-14,Sugar,Snacks,67
+2024-07-15,Sugar,Snacks,51
+2024-07-16,Sugar,Snacks,6
+2024-07-17,Sugar,Snacks,38
+2024-07-18,Sugar,Snacks,20
+2024-07-19,Sugar,Snacks,13
+2024-07-20,Sugar,Snacks,30
+2024-07-21,Sugar,Snacks,39
+2024-07-22,Sugar,Snacks,21
+2024-07-23,Sugar,Snacks,61
+2024-07-24,Sugar,Snacks,19
+2024-07-25,Sugar,Snacks,34
+2024-07-26,Sugar,Snacks,40
+2024-07-27,Sugar,Snacks,4
+2024-07-28,Sugar,Snacks,13
+2024-07-29,Sugar,Snacks,62
+2024-07-30,Sugar,Snacks,56
+2024-07-31,Sugar,Snacks,67
+2024-08-01,Sugar,Snacks,11
+2024-08-02,Sugar,Snacks,37
+2024-08-03,Sugar,Snacks,63
+2024-08-04,Sugar,Snacks,20
+2024-08-05,Sugar,Snacks,61
+2024-08-06,Sugar,Snacks,8
+2024-08-07,Sugar,Snacks,56
+2024-08-08,Sugar,Snacks,42
+2024-08-09,Sugar,Snacks,23
+2024-08-10,Sugar,Snacks,60
+2024-08-11,Sugar,Snacks,62
+2024-08-12,Sugar,Snacks,6
+2024-08-13,Sugar,Snacks,8
+2024-08-14,Sugar,Snacks,55
+2024-08-15,Sugar,Snacks,22
+2024-08-16,Sugar,Snacks,22
+2024-08-17,Sugar,Snacks,26
+2024-08-18,Sugar,Snacks,11
+2024-08-19,Sugar,Snacks,64
+2024-08-20,Sugar,Snacks,14
+2024-08-21,Sugar,Snacks,18
+2024-08-22,Sugar,Snacks,8
+2024-08-23,Sugar,Snacks,54
+2024-08-24,Sugar,Snacks,11
+2024-08-25,Sugar,Snacks,34
+2024-08-26,Sugar,Snacks,66
+2024-08-27,Sugar,Snacks,12
+2024-08-28,Sugar,Snacks,67
+2024-08-29,Sugar,Snacks,54
+2024-08-30,Sugar,Snacks,21
+2024-08-31,Sugar,Snacks,55
+2024-09-01,Sugar,Snacks,68
+2024-09-02,Sugar,Snacks,34
+2024-09-03,Sugar,Snacks,48
+2024-09-04,Sugar,Snacks,20
+2024-09-05,Sugar,Snacks,56
+2024-09-06,Sugar,Snacks,19
+2024-09-07,Sugar,Snacks,22
+2024-09-08,Sugar,Snacks,3
+2024-09-09,Sugar,Snacks,32
+2024-09-10,Sugar,Snacks,13
+2024-09-11,Sugar,Snacks,26
+2024-09-12,Sugar,Snacks,35
+2024-09-13,Sugar,Snacks,51
+2024-09-14,Sugar,Snacks,43
+2024-09-15,Sugar,Snacks,35
+2024-09-16,Sugar,Snacks,10
+2024-09-17,Sugar,Snacks,9
+2024-09-18,Sugar,Snacks,11
+2024-09-19,Sugar,Snacks,56
+2024-09-20,Sugar,Snacks,69
+2024-09-21,Sugar,Snacks,58
+2024-09-22,Sugar,Snacks,42
+2024-09-23,Sugar,Snacks,2
+2024-09-24,Sugar,Snacks,16
+2024-09-25,Sugar,Snacks,8
+2024-09-26,Sugar,Snacks,70
+2024-09-27,Sugar,Snacks,60
+2024-09-28,Sugar,Snacks,4
+2024-09-29,Sugar,Snacks,24
+2024-09-30,Sugar,Snacks,10
+2024-10-01,Sugar,Snacks,38
+2024-10-02,Sugar,Snacks,45
+2024-10-03,Sugar,Snacks,12
+2024-10-04,Sugar,Snacks,3
+2024-10-05,Sugar,Snacks,54
+2024-10-06,Sugar,Snacks,48
+2024-10-07,Sugar,Snacks,62
+2024-10-08,Sugar,Snacks,47
+2024-10-09,Sugar,Snacks,1
+2024-10-10,Sugar,Snacks,70
+2024-10-11,Sugar,Snacks,47
+2023-10-13,Juice,Snacks,37
+2023-10-14,Juice,Snacks,45
+2023-10-15,Juice,Snacks,34
+2023-10-16,Juice,Snacks,15
+2023-10-17,Juice,Snacks,14
+2023-10-18,Juice,Snacks,41
+2023-10-19,Juice,Snacks,41
+2023-10-20,Juice,Snacks,6
+2023-10-21,Juice,Snacks,41
+2023-10-22,Juice,Snacks,46
+2023-10-23,Juice,Snacks,37
+2023-10-24,Juice,Snacks,2
+2023-10-25,Juice,Snacks,6
+2023-10-26,Juice,Snacks,31
+2023-10-27,Juice,Snacks,12
+2023-10-28,Juice,Snacks,1
+2023-10-29,Juice,Snacks,35
+2023-10-30,Juice,Snacks,23
+2023-10-31,Juice,Snacks,19
+2023-11-01,Juice,Snacks,6
+2023-11-02,Juice,Snacks,2
+2023-11-03,Juice,Snacks,23
+2023-11-04,Juice,Snacks,45
+2023-11-05,Juice,Snacks,28
+2023-11-06,Juice,Snacks,22
+2023-11-07,Juice,Snacks,36
+2023-11-08,Juice,Snacks,2
+2023-11-09,Juice,Snacks,17
+2023-11-10,Juice,Snacks,35
+2023-11-11,Juice,Snacks,11
+2023-11-12,Juice,Snacks,22
+2023-11-13,Juice,Snacks,9
+2023-11-14,Juice,Snacks,2
+2023-11-15,Juice,Snacks,6
+2023-11-16,Juice,Snacks,37
+2023-11-17,Juice,Snacks,44
+2023-11-18,Juice,Snacks,45
+2023-11-19,Juice,Snacks,11
+2023-11-20,Juice,Snacks,11
+2023-11-21,Juice,Snacks,42
+2023-11-22,Juice,Snacks,22
+2023-11-23,Juice,Snacks,37
+2023-11-24,Juice,Snacks,5
+2023-11-25,Juice,Snacks,25
+2023-11-26,Juice,Snacks,6
+2023-11-27,Juice,Snacks,9
+2023-11-28,Juice,Snacks,44
+2023-11-29,Juice,Snacks,3
+2023-11-30,Juice,Snacks,26
+2023-12-01,Juice,Snacks,17
+2023-12-02,Juice,Snacks,15
+2023-12-03,Juice,Snacks,3
+2023-12-04,Juice,Snacks,29
+2023-12-05,Juice,Snacks,29
+2023-12-06,Juice,Snacks,31
+2023-12-07,Juice,Snacks,19
+2023-12-08,Juice,Snacks,40
+2023-12-09,Juice,Snacks,37
+2023-12-10,Juice,Snacks,6
+2023-12-11,Juice,Snacks,1
+2023-12-12,Juice,Snacks,10
+2023-12-13,Juice,Snacks,9
+2023-12-14,Juice,Snacks,45
+2023-12-15,Juice,Snacks,42
+2023-12-16,Juice,Snacks,39
+2023-12-17,Juice,Snacks,15
+2023-12-18,Juice,Snacks,21
+2023-12-19,Juice,Snacks,42
+2023-12-20,Juice,Snacks,28
+2023-12-21,Juice,Snacks,20
+2023-12-22,Juice,Snacks,33
+2023-12-23,Juice,Snacks,33
+2023-12-24,Juice,Snacks,45
+2023-12-25,Juice,Snacks,35
+2023-12-26,Juice,Snacks,4
+2023-12-27,Juice,Snacks,28
+2023-12-28,Juice,Snacks,46
+2023-12-29,Juice,Snacks,44
+2023-12-30,Juice,Snacks,36
+2023-12-31,Juice,Snacks,21
+2024-01-01,Juice,Snacks,5
+2024-01-02,Juice,Snacks,14
+2024-01-03,Juice,Snacks,12
+2024-01-04,Juice,Snacks,6
+2024-01-05,Juice,Snacks,27
+2024-01-06,Juice,Snacks,36
+2024-01-07,Juice,Snacks,12
+2024-01-08,Juice,Snacks,1
+2024-01-09,Juice,Snacks,6
+2024-01-10,Juice,Snacks,24
+2024-01-11,Juice,Snacks,17
+2024-01-12,Juice,Snacks,35
+2024-01-13,Juice,Snacks,5
+2024-01-14,Juice,Snacks,39
+2024-01-15,Juice,Snacks,9
+2024-01-16,Juice,Snacks,42
+2024-01-17,Juice,Snacks,16
+2024-01-18,Juice,Snacks,8
+2024-01-19,Juice,Snacks,18
+2024-01-20,Juice,Snacks,31
+2024-01-21,Juice,Snacks,18
+2024-01-22,Juice,Snacks,46
+2024-01-23,Juice,Snacks,42
+2024-01-24,Juice,Snacks,22
+2024-01-25,Juice,Snacks,24
+2024-01-26,Juice,Snacks,20
+2024-01-27,Juice,Snacks,20
+2024-01-28,Juice,Snacks,17
+2024-01-29,Juice,Snacks,2
+2024-01-30,Juice,Snacks,46
+2024-01-31,Juice,Snacks,34
+2024-02-01,Juice,Snacks,38
+2024-02-02,Juice,Snacks,16
+2024-02-03,Juice,Snacks,39
+2024-02-04,Juice,Snacks,27
+2024-02-05,Juice,Snacks,4
+2024-02-06,Juice,Snacks,18
+2024-02-07,Juice,Snacks,10
+2024-02-08,Juice,Snacks,2
+2024-02-09,Juice,Snacks,18
+2024-02-10,Juice,Snacks,31
+2024-02-11,Juice,Snacks,36
+2024-02-12,Juice,Snacks,40
+2024-02-13,Juice,Snacks,26
+2024-02-14,Juice,Snacks,43
+2024-02-15,Juice,Snacks,12
+2024-02-16,Juice,Snacks,3
+2024-02-17,Juice,Snacks,38
+2024-02-18,Juice,Snacks,30
+2024-02-19,Juice,Snacks,36
+2024-02-20,Juice,Snacks,18
+2024-02-21,Juice,Snacks,13
+2024-02-22,Juice,Snacks,3
+2024-02-23,Juice,Snacks,4
+2024-02-24,Juice,Snacks,12
+2024-02-25,Juice,Snacks,11
+2024-02-26,Juice,Snacks,11
+2024-02-27,Juice,Snacks,43
+2024-02-28,Juice,Snacks,45
+2024-02-29,Juice,Snacks,21
+2024-03-01,Juice,Snacks,23
+2024-03-02,Juice,Snacks,17
+2024-03-03,Juice,Snacks,1
+2024-03-04,Juice,Snacks,38
+2024-03-05,Juice,Snacks,32
+2024-03-06,Juice,Snacks,7
+2024-03-07,Juice,Snacks,14
+2024-03-08,Juice,Snacks,1
+2024-03-09,Juice,Snacks,38
+2024-03-10,Juice,Snacks,9
+2024-03-11,Juice,Snacks,30
+2024-03-12,Juice,Snacks,34
+2024-03-13,Juice,Snacks,26
+2024-03-14,Juice,Snacks,17
+2024-03-15,Juice,Snacks,22
+2024-03-16,Juice,Snacks,43
+2024-03-17,Juice,Snacks,19
+2024-03-18,Juice,Snacks,13
+2024-03-19,Juice,Snacks,16
+2024-03-20,Juice,Snacks,44
+2024-03-21,Juice,Snacks,28
+2024-03-22,Juice,Snacks,41
+2024-03-23,Juice,Snacks,40
+2024-03-24,Juice,Snacks,46
+2024-03-25,Juice,Snacks,18
+2024-03-26,Juice,Snacks,41
+2024-03-27,Juice,Snacks,12
+2024-03-28,Juice,Snacks,17
+2024-03-29,Juice,Snacks,19
+2024-03-30,Juice,Snacks,42
+2024-03-31,Juice,Snacks,36
+2024-04-01,Juice,Snacks,37
+2024-04-02,Juice,Snacks,39
+2024-04-03,Juice,Snacks,19
+2024-04-04,Juice,Snacks,44
+2024-04-05,Juice,Snacks,24
+2024-04-06,Juice,Snacks,27
+2024-04-07,Juice,Snacks,37
+2024-04-08,Juice,Snacks,1
+2024-04-09,Juice,Snacks,37
+2024-04-10,Juice,Snacks,20
+2024-04-11,Juice,Snacks,45
+2024-04-12,Juice,Snacks,26
+2024-04-13,Juice,Snacks,39
+2024-04-14,Juice,Snacks,3
+2024-04-15,Juice,Snacks,12
+2024-04-16,Juice,Snacks,33
+2024-04-17,Juice,Snacks,24
+2024-04-18,Juice,Snacks,20
+2024-04-19,Juice,Snacks,22
+2024-04-20,Juice,Snacks,15
+2024-04-21,Juice,Snacks,20
+2024-04-22,Juice,Snacks,23
+2024-04-23,Juice,Snacks,23
+2024-04-24,Juice,Snacks,32
+2024-04-25,Juice,Snacks,10
+2024-04-26,Juice,Snacks,42
+2024-04-27,Juice,Snacks,30
+2024-04-28,Juice,Snacks,19
+2024-04-29,Juice,Snacks,42
+2024-04-30,Juice,Snacks,31
+2024-05-01,Juice,Snacks,44
+2024-05-02,Juice,Snacks,20
+2024-05-03,Juice,Snacks,4
+2024-05-04,Juice,Snacks,20
+2024-05-05,Juice,Snacks,9
+2024-05-06,Juice,Snacks,44
+2024-05-07,Juice,Snacks,26
+2024-05-08,Juice,Snacks,19
+2024-05-09,Juice,Snacks,27
+2024-05-10,Juice,Snacks,39
+2024-05-11,Juice,Snacks,19
+2024-05-12,Juice,Snacks,32
+2024-05-13,Juice,Snacks,10
+2024-05-14,Juice,Snacks,36
+2024-05-15,Juice,Snacks,24
+2024-05-16,Juice,Snacks,37
+2024-05-17,Juice,Snacks,36
+2024-05-18,Juice,Snacks,41
+2024-05-19,Juice,Snacks,19
+2024-05-20,Juice,Snacks,41
+2024-05-21,Juice,Snacks,24
+2024-05-22,Juice,Snacks,14
+2024-05-23,Juice,Snacks,38
+2024-05-24,Juice,Snacks,15
+2024-05-25,Juice,Snacks,11
+2024-05-26,Juice,Snacks,44
+2024-05-27,Juice,Snacks,15
+2024-05-28,Juice,Snacks,22
+2024-05-29,Juice,Snacks,4
+2024-05-30,Juice,Snacks,24
+2024-05-31,Juice,Snacks,26
+2024-06-01,Juice,Snacks,5
+2024-06-02,Juice,Snacks,38
+2024-06-03,Juice,Snacks,12
+2024-06-04,Juice,Snacks,2
+2024-06-05,Juice,Snacks,38
+2024-06-06,Juice,Snacks,39
+2024-06-07,Juice,Snacks,30
+2024-06-08,Juice,Snacks,28
+2024-06-09,Juice,Snacks,43
+2024-06-10,Juice,Snacks,5
+2024-06-11,Juice,Snacks,41
+2024-06-12,Juice,Snacks,27
+2024-06-13,Juice,Snacks,8
+2024-06-14,Juice,Snacks,41
+2024-06-15,Juice,Snacks,33
+2024-06-16,Juice,Snacks,14
+2024-06-17,Juice,Snacks,44
+2024-06-18,Juice,Snacks,42
+2024-06-19,Juice,Snacks,19
+2024-06-20,Juice,Snacks,28
+2024-06-21,Juice,Snacks,45
+2024-06-22,Juice,Snacks,46
+2024-06-23,Juice,Snacks,36
+2024-06-24,Juice,Snacks,17
+2024-06-25,Juice,Snacks,30
+2024-06-26,Juice,Snacks,37
+2024-06-27,Juice,Snacks,12
+2024-06-28,Juice,Snacks,7
+2024-06-29,Juice,Snacks,33
+2024-06-30,Juice,Snacks,22
+2024-07-01,Juice,Snacks,31
+2024-07-02,Juice,Snacks,25
+2024-07-03,Juice,Snacks,24
+2024-07-04,Juice,Snacks,32
+2024-07-05,Juice,Snacks,23
+2024-07-06,Juice,Snacks,30
+2024-07-07,Juice,Snacks,36
+2024-07-08,Juice,Snacks,41
+2024-07-09,Juice,Snacks,15
+2024-07-10,Juice,Snacks,26
+2024-07-11,Juice,Snacks,7
+2024-07-12,Juice,Snacks,30
+2024-07-13,Juice,Snacks,25
+2024-07-14,Juice,Snacks,23
+2024-07-15,Juice,Snacks,27
+2024-07-16,Juice,Snacks,37
+2024-07-17,Juice,Snacks,31
+2024-07-18,Juice,Snacks,29
+2024-07-19,Juice,Snacks,17
+2024-07-20,Juice,Snacks,7
+2024-07-21,Juice,Snacks,4
+2024-07-22,Juice,Snacks,45
+2024-07-23,Juice,Snacks,35
+2024-07-24,Juice,Snacks,18
+2024-07-25,Juice,Snacks,40
+2024-07-26,Juice,Snacks,5
+2024-07-27,Juice,Snacks,33
+2024-07-28,Juice,Snacks,7
+2024-07-29,Juice,Snacks,43
+2024-07-30,Juice,Snacks,22
+2024-07-31,Juice,Snacks,44
+2024-08-01,Juice,Snacks,44
+2024-08-02,Juice,Snacks,26
+2024-08-03,Juice,Snacks,27
+2024-08-04,Juice,Snacks,1
+2024-08-05,Juice,Snacks,43
+2024-08-06,Juice,Snacks,13
+2024-08-07,Juice,Snacks,10
+2024-08-08,Juice,Snacks,23
+2024-08-09,Juice,Snacks,12
+2024-08-10,Juice,Snacks,15
+2024-08-11,Juice,Snacks,12
+2024-08-12,Juice,Snacks,24
+2024-08-13,Juice,Snacks,32
+2024-08-14,Juice,Snacks,26
+2024-08-15,Juice,Snacks,16
+2024-08-16,Juice,Snacks,35
+2024-08-17,Juice,Snacks,40
+2024-08-18,Juice,Snacks,16
+2024-08-19,Juice,Snacks,18
+2024-08-20,Juice,Snacks,18
+2024-08-21,Juice,Snacks,16
+2024-08-22,Juice,Snacks,15
+2024-08-23,Juice,Snacks,23
+2024-08-24,Juice,Snacks,35
+2024-08-25,Juice,Snacks,7
+2024-08-26,Juice,Snacks,8
+2024-08-27,Juice,Snacks,5
+2024-08-28,Juice,Snacks,29
+2024-08-29,Juice,Snacks,28
+2024-08-30,Juice,Snacks,30
+2024-08-31,Juice,Snacks,37
+2024-09-01,Juice,Snacks,26
+2024-09-02,Juice,Snacks,13
+2024-09-03,Juice,Snacks,41
+2024-09-04,Juice,Snacks,45
+2024-09-05,Juice,Snacks,17
+2024-09-06,Juice,Snacks,46
+2024-09-07,Juice,Snacks,45
+2024-09-08,Juice,Snacks,34
+2024-09-09,Juice,Snacks,29
+2024-09-10,Juice,Snacks,42
+2024-09-11,Juice,Snacks,7
+2024-09-12,Juice,Snacks,14
+2024-09-13,Juice,Snacks,36
+2024-09-14,Juice,Snacks,16
+2024-09-15,Juice,Snacks,15
+2024-09-16,Juice,Snacks,40
+2024-09-17,Juice,Snacks,7
+2024-09-18,Juice,Snacks,46
+2024-09-19,Juice,Snacks,36
+2024-09-20,Juice,Snacks,33
+2024-09-21,Juice,Snacks,45
+2024-09-22,Juice,Snacks,43
+2024-09-23,Juice,Snacks,6
+2024-09-24,Juice,Snacks,1
+2024-09-25,Juice,Snacks,23
+2024-09-26,Juice,Snacks,35
+2024-09-27,Juice,Snacks,39
+2024-09-28,Juice,Snacks,6
+2024-09-29,Juice,Snacks,10
+2024-09-30,Juice,Snacks,15
+2024-10-01,Juice,Snacks,5
+2024-10-02,Juice,Snacks,12
+2024-10-03,Juice,Snacks,32
+2024-10-04,Juice,Snacks,5
+2024-10-05,Juice,Snacks,42
+2024-10-06,Juice,Snacks,2
+2024-10-07,Juice,Snacks,41
+2024-10-08,Juice,Snacks,33
+2024-10-09,Juice,Snacks,42
+2024-10-10,Juice,Snacks,6
+2024-10-11,Juice,Snacks,26
