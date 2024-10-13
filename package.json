@@ -25,6 +25,7 @@
     "lucide-react": "^0.452.0",
     "mongoose": "^8.7.1",
     "next": "14.2.15",
+    "papaparse": "^5.4.1",
     "react": "^18",
     "react-dom": "^18",
     "tailwind-merge": "^2.5.3",
@@ -33,6 +34,7 @@
   "devDependencies": {
     "@types/aws-sdk": "^2.7.0",
     "@types/node": "^20",
+    "@types/papaparse": "^5.3.14",
     "@types/react": "^18",
     "@types/react-dom": "^18",
     "eslint": "^8",
