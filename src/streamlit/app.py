@@ -1,16 +1,16 @@
 import streamlit as st
 import pandas as pd
 from pymongo import MongoClient
-from dotenv import load_dotenv
+# from dotenv import load_dotenv
 import os
 import plotly.express as px
 from datetime import datetime, timedelta
 
-# Title of the dashboard
+# Title of the 
 st.title("Inventory Management Dashboard")
 
 # Load environment variables from .env file
-load_dotenv()
+# load_dotenv()
 
 # Fetch user data from MongoDB
 def fetch_user_data():
